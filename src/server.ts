@@ -1,8 +1,11 @@
+import cors from "@fastify/cors";
 import Fastify from "fastify";
 import { registerPlayerRoutes } from "./routes/players.js";
 import { registerTeamRoutes } from "./routes/teams.js";
 
 const app = Fastify({ logger: true });
+
+await app.register(cors, { origin: true });
 
 app.get("/health", async () => ({ status: "ok" }));
 
