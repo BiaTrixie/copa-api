@@ -1,0 +1,437 @@
+{
+  "tournament": "FIFA World Cup 2026",
+  "teams": [
+    {
+      "countryCode": "ALG",
+      "countryName": "Argélia",
+      "logoUrl": "https://flagcdn.com/w320/dz.png",
+      "listType": "album",
+      "asOf": "2026-04-28",
+      "sourceUrl": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-todos-os-jogadores-que-estao-no-album-da-copa-do-mundo-2026/",
+      "notes": "Jogadores conforme lista publicada pela CNN Brasil sobre o álbum oficial Panini da Copa 2026 (abr/2026). Não representa convocação oficial das federações."
+    },
+    {
+      "countryCode": "ARG",
+      "countryName": "Argentina",
+      "logoUrl": "https://flagcdn.com/w320/ar.png",
+      "listType": "album",
+      "asOf": "2026-04-28",
+      "sourceUrl": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-todos-os-jogadores-que-estao-no-album-da-copa-do-mundo-2026/",
+      "notes": "Jogadores conforme lista publicada pela CNN Brasil sobre o álbum oficial Panini da Copa 2026 (abr/2026). Não representa convocação oficial das federações."
+    },
+    {
+      "countryCode": "AUS",
+      "countryName": "Austrália",
+      "logoUrl": "https://flagcdn.com/w320/au.png",
+      "listType": "album",
+      "asOf": "2026-04-28",
+      "sourceUrl": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-todos-os-jogadores-que-estao-no-album-da-copa-do-mundo-2026/",
+      "notes": "Jogadores conforme lista publicada pela CNN Brasil sobre o álbum oficial Panini da Copa 2026 (abr/2026). Não representa convocação oficial das federações."
+    },
+    {
+      "countryCode": "AUT",
+      "countryName": "Áustria",
+      "logoUrl": "https://flagcdn.com/w320/at.png",
+      "listType": "album",
+      "asOf": "2026-04-28",
+      "sourceUrl": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-todos-os-jogadores-que-estao-no-album-da-copa-do-mundo-2026/",
+      "notes": "Jogadores conforme lista publicada pela CNN Brasil sobre o álbum oficial Panini da Copa 2026 (abr/2026). Não representa convocação oficial das federações."
+    },
+    {
+      "countryCode": "BEL",
+      "countryName": "Bélgica",
+      "logoUrl": "https://flagcdn.com/w320/be.png",
+      "listType": "album",
+      "asOf": "2026-04-28",
+      "sourceUrl": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-todos-os-jogadores-que-estao-no-album-da-copa-do-mundo-2026/",
+      "notes": "Jogadores conforme lista publicada pela CNN Brasil sobre o álbum oficial Panini da Copa 2026 (abr/2026). Não representa convocação oficial das federações."
+    },
+    {
+      "countryCode": "BIH",
+      "countryName": "Bósnia e Herzegovina",
+      "logoUrl": "https://flagcdn.com/w320/ba.png",
+      "listType": "album",
+      "asOf": "2026-04-28",
+      "sourceUrl": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-todos-os-jogadores-que-estao-no-album-da-copa-do-mundo-2026/",
+      "notes": "Jogadores conforme lista publicada pela CNN Brasil sobre o álbum oficial Panini da Copa 2026 (abr/2026). Não representa convocação oficial das federações."
+    },
+    {
+      "countryCode": "BRA",
+      "countryName": "Brasil",
+      "logoUrl": "https://flagcdn.com/w320/br.png",
+      "listType": "album",
+      "asOf": "2026-04-28",
+      "sourceUrl": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-todos-os-jogadores-que-estao-no-album-da-copa-do-mundo-2026/",
+      "notes": "Jogadores conforme lista publicada pela CNN Brasil sobre o álbum oficial Panini da Copa 2026 (abr/2026). Não representa convocação oficial das federações."
+    },
+    {
+      "countryCode": "CAN",
+      "countryName": "Canadá",
+      "logoUrl": "https://flagcdn.com/w320/ca.png",
+      "listType": "album",
+      "asOf": "2026-04-28",
+      "sourceUrl": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-todos-os-jogadores-que-estao-no-album-da-copa-do-mundo-2026/",
+      "notes": "Jogadores conforme lista publicada pela CNN Brasil sobre o álbum oficial Panini da Copa 2026 (abr/2026). Não representa convocação oficial das federações."
+    },
+    {
+      "countryCode": "CPV",
+      "countryName": "Cabo Verde",
+      "logoUrl": "https://flagcdn.com/w320/cv.png",
+      "listType": "album",
+      "asOf": "2026-04-28",
+      "sourceUrl": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-todos-os-jogadores-que-estao-no-album-da-copa-do-mundo-2026/",
+      "notes": "Jogadores conforme lista publicada pela CNN Brasil sobre o álbum oficial Panini da Copa 2026 (abr/2026). Não representa convocação oficial das federações."
+    },
+    {
+      "countryCode": "CIV",
+      "countryName": "Costa do Marfim",
+      "logoUrl": "https://flagcdn.com/w320/ci.png",
+      "listType": "album",
+      "asOf": "2026-04-28",
+      "sourceUrl": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-todos-os-jogadores-que-estao-no-album-da-copa-do-mundo-2026/",
+      "notes": "Jogadores conforme lista publicada pela CNN Brasil sobre o álbum oficial Panini da Copa 2026 (abr/2026). Não representa convocação oficial das federações."
+    },
+    {
+      "countryCode": "COL",
+      "countryName": "Colômbia",
+      "logoUrl": "https://flagcdn.com/w320/co.png",
+      "listType": "album",
+      "asOf": "2026-04-28",
+      "sourceUrl": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-todos-os-jogadores-que-estao-no-album-da-copa-do-mundo-2026/",
+      "notes": "Jogadores conforme lista publicada pela CNN Brasil sobre o álbum oficial Panini da Copa 2026 (abr/2026). Não representa convocação oficial das federações."
+    },
+    {
+      "countryCode": "COD",
+      "countryName": "RD Congo",
+      "logoUrl": "https://flagcdn.com/w320/cd.png",
+      "listType": "album",
+      "asOf": "2026-04-28",
+      "sourceUrl": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-todos-os-jogadores-que-estao-no-album-da-copa-do-mundo-2026/",
+      "notes": "Jogadores conforme lista publicada pela CNN Brasil sobre o álbum oficial Panini da Copa 2026 (abr/2026). Não representa convocação oficial das federações."
+    },
+    {
+      "countryCode": "CRO",
+      "countryName": "Croácia",
+      "logoUrl": "https://flagcdn.com/w320/hr.png",
+      "listType": "album",
+      "asOf": "2026-04-28",
+      "sourceUrl": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-todos-os-jogadores-que-estao-no-album-da-copa-do-mundo-2026/",
+      "notes": "Jogadores conforme lista publicada pela CNN Brasil sobre o álbum oficial Panini da Copa 2026 (abr/2026). Não representa convocação oficial das federações."
+    },
+    {
+      "countryCode": "CUW",
+      "countryName": "Curaçao",
+      "logoUrl": "https://flagcdn.com/w320/cw.png",
+      "listType": "album",
+      "asOf": "2026-04-28",
+      "sourceUrl": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-todos-os-jogadores-que-estao-no-album-da-copa-do-mundo-2026/",
+      "notes": "Jogadores conforme lista publicada pela CNN Brasil sobre o álbum oficial Panini da Copa 2026 (abr/2026). Não representa convocação oficial das federações."
+    },
+    {
+      "countryCode": "CZE",
+      "countryName": "Chéquia",
+      "logoUrl": "https://flagcdn.com/w320/cz.png",
+      "listType": "album",
+      "asOf": "2026-04-28",
+      "sourceUrl": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-todos-os-jogadores-que-estao-no-album-da-copa-do-mundo-2026/",
+      "notes": "Jogadores conforme lista publicada pela CNN Brasil sobre o álbum oficial Panini da Copa 2026 (abr/2026). Não representa convocação oficial das federações."
+    },
+    {
+      "countryCode": "ECU",
+      "countryName": "Equador",
+      "logoUrl": "https://flagcdn.com/w320/ec.png",
+      "listType": "album",
+      "asOf": "2026-04-28",
+      "sourceUrl": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-todos-os-jogadores-que-estao-no-album-da-copa-do-mundo-2026/",
+      "notes": "Jogadores conforme lista publicada pela CNN Brasil sobre o álbum oficial Panini da Copa 2026 (abr/2026). Não representa convocação oficial das federações."
+    },
+    {
+      "countryCode": "EGY",
+      "countryName": "Egito",
+      "logoUrl": "https://flagcdn.com/w320/eg.png",
+      "listType": "album",
+      "asOf": "2026-04-28",
+      "sourceUrl": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-todos-os-jogadores-que-estao-no-album-da-copa-do-mundo-2026/",
+      "notes": "Jogadores conforme lista publicada pela CNN Brasil sobre o álbum oficial Panini da Copa 2026 (abr/2026). Não representa convocação oficial das federações."
+    },
+    {
+      "countryCode": "ENG",
+      "countryName": "Inglaterra",
+      "logoUrl": "https://flagcdn.com/w320/gb-eng.png",
+      "listType": "album",
+      "asOf": "2026-04-28",
+      "sourceUrl": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-todos-os-jogadores-que-estao-no-album-da-copa-do-mundo-2026/",
+      "notes": "Jogadores conforme lista publicada pela CNN Brasil sobre o álbum oficial Panini da Copa 2026 (abr/2026). Não representa convocação oficial das federações."
+    },
+    {
+      "countryCode": "ESP",
+      "countryName": "Espanha",
+      "logoUrl": "https://flagcdn.com/w320/es.png",
+      "listType": "album",
+      "asOf": "2026-04-28",
+      "sourceUrl": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-todos-os-jogadores-que-estao-no-album-da-copa-do-mundo-2026/",
+      "notes": "Jogadores conforme lista publicada pela CNN Brasil sobre o álbum oficial Panini da Copa 2026 (abr/2026). Não representa convocação oficial das federações."
+    },
+    {
+      "countryCode": "FRA",
+      "countryName": "França",
+      "logoUrl": "https://flagcdn.com/w320/fr.png",
+      "listType": "album",
+      "asOf": "2026-04-28",
+      "sourceUrl": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-todos-os-jogadores-que-estao-no-album-da-copa-do-mundo-2026/",
+      "notes": "Jogadores conforme lista publicada pela CNN Brasil sobre o álbum oficial Panini da Copa 2026 (abr/2026). Não representa convocação oficial das federações."
+    },
+    {
+      "countryCode": "GER",
+      "countryName": "Alemanha",
+      "logoUrl": "https://flagcdn.com/w320/de.png",
+      "listType": "album",
+      "asOf": "2026-04-28",
+      "sourceUrl": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-todos-os-jogadores-que-estao-no-album-da-copa-do-mundo-2026/",
+      "notes": "Jogadores conforme lista publicada pela CNN Brasil sobre o álbum oficial Panini da Copa 2026 (abr/2026). Não representa convocação oficial das federações."
+    },
+    {
+      "countryCode": "GHA",
+      "countryName": "Gana",
+      "logoUrl": "https://flagcdn.com/w320/gh.png",
+      "listType": "album",
+      "asOf": "2026-04-28",
+      "sourceUrl": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-todos-os-jogadores-que-estao-no-album-da-copa-do-mundo-2026/",
+      "notes": "Jogadores conforme lista publicada pela CNN Brasil sobre o álbum oficial Panini da Copa 2026 (abr/2026). Não representa convocação oficial das federações."
+    },
+    {
+      "countryCode": "HAI",
+      "countryName": "Haiti",
+      "logoUrl": "https://flagcdn.com/w320/ht.png",
+      "listType": "album",
+      "asOf": "2026-04-28",
+      "sourceUrl": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-todos-os-jogadores-que-estao-no-album-da-copa-do-mundo-2026/",
+      "notes": "Jogadores conforme lista publicada pela CNN Brasil sobre o álbum oficial Panini da Copa 2026 (abr/2026). Não representa convocação oficial das federações."
+    },
+    {
+      "countryCode": "IRN",
+      "countryName": "Irã",
+      "logoUrl": "https://flagcdn.com/w320/ir.png",
+      "listType": "album",
+      "asOf": "2026-04-28",
+      "sourceUrl": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-todos-os-jogadores-que-estao-no-album-da-copa-do-mundo-2026/",
+      "notes": "Jogadores conforme lista publicada pela CNN Brasil sobre o álbum oficial Panini da Copa 2026 (abr/2026). Não representa convocação oficial das federações."
+    },
+    {
+      "countryCode": "IRQ",
+      "countryName": "Iraque",
+      "logoUrl": "https://flagcdn.com/w320/iq.png",
+      "listType": "album",
+      "asOf": "2026-04-28",
+      "sourceUrl": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-todos-os-jogadores-que-estao-no-album-da-copa-do-mundo-2026/",
+      "notes": "Jogadores conforme lista publicada pela CNN Brasil sobre o álbum oficial Panini da Copa 2026 (abr/2026). Não representa convocação oficial das federações."
+    },
+    {
+      "countryCode": "JOR",
+      "countryName": "Jordânia",
+      "logoUrl": "https://flagcdn.com/w320/jo.png",
+      "listType": "album",
+      "asOf": "2026-04-28",
+      "sourceUrl": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-todos-os-jogadores-que-estao-no-album-da-copa-do-mundo-2026/",
+      "notes": "Jogadores conforme lista publicada pela CNN Brasil sobre o álbum oficial Panini da Copa 2026 (abr/2026). Não representa convocação oficial das federações."
+    },
+    {
+      "countryCode": "JPN",
+      "countryName": "Japão",
+      "logoUrl": "https://flagcdn.com/w320/jp.png",
+      "listType": "album",
+      "asOf": "2026-04-28",
+      "sourceUrl": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-todos-os-jogadores-que-estao-no-album-da-copa-do-mundo-2026/",
+      "notes": "Jogadores conforme lista publicada pela CNN Brasil sobre o álbum oficial Panini da Copa 2026 (abr/2026). Não representa convocação oficial das federações."
+    },
+    {
+      "countryCode": "KOR",
+      "countryName": "Coreia do Sul",
+      "logoUrl": "https://flagcdn.com/w320/kr.png",
+      "listType": "album",
+      "asOf": "2026-04-28",
+      "sourceUrl": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-todos-os-jogadores-que-estao-no-album-da-copa-do-mundo-2026/",
+      "notes": "Jogadores conforme lista publicada pela CNN Brasil sobre o álbum oficial Panini da Copa 2026 (abr/2026). Não representa convocação oficial das federações."
+    },
+    {
+      "countryCode": "MAR",
+      "countryName": "Marrocos",
+      "logoUrl": "https://flagcdn.com/w320/ma.png",
+      "listType": "album",
+      "asOf": "2026-04-28",
+      "sourceUrl": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-todos-os-jogadores-que-estao-no-album-da-copa-do-mundo-2026/",
+      "notes": "Jogadores conforme lista publicada pela CNN Brasil sobre o álbum oficial Panini da Copa 2026 (abr/2026). Não representa convocação oficial das federações."
+    },
+    {
+      "countryCode": "MEX",
+      "countryName": "México",
+      "logoUrl": "https://flagcdn.com/w320/mx.png",
+      "listType": "album",
+      "asOf": "2026-04-28",
+      "sourceUrl": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-todos-os-jogadores-que-estao-no-album-da-copa-do-mundo-2026/",
+      "notes": "Jogadores conforme lista publicada pela CNN Brasil sobre o álbum oficial Panini da Copa 2026 (abr/2026). Não representa convocação oficial das federações."
+    },
+    {
+      "countryCode": "NED",
+      "countryName": "Países Baixos",
+      "logoUrl": "https://flagcdn.com/w320/nl.png",
+      "listType": "album",
+      "asOf": "2026-04-28",
+      "sourceUrl": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-todos-os-jogadores-que-estao-no-album-da-copa-do-mundo-2026/",
+      "notes": "Jogadores conforme lista publicada pela CNN Brasil sobre o álbum oficial Panini da Copa 2026 (abr/2026). Não representa convocação oficial das federações."
+    },
+    {
+      "countryCode": "NOR",
+      "countryName": "Noruega",
+      "logoUrl": "https://flagcdn.com/w320/no.png",
+      "listType": "album",
+      "asOf": "2026-04-28",
+      "sourceUrl": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-todos-os-jogadores-que-estao-no-album-da-copa-do-mundo-2026/",
+      "notes": "Jogadores conforme lista publicada pela CNN Brasil sobre o álbum oficial Panini da Copa 2026 (abr/2026). Não representa convocação oficial das federações."
+    },
+    {
+      "countryCode": "NZL",
+      "countryName": "Nova Zelândia",
+      "logoUrl": "https://flagcdn.com/w320/nz.png",
+      "listType": "album",
+      "asOf": "2026-04-28",
+      "sourceUrl": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-todos-os-jogadores-que-estao-no-album-da-copa-do-mundo-2026/",
+      "notes": "Jogadores conforme lista publicada pela CNN Brasil sobre o álbum oficial Panini da Copa 2026 (abr/2026). Não representa convocação oficial das federações."
+    },
+    {
+      "countryCode": "PAN",
+      "countryName": "Panamá",
+      "logoUrl": "https://flagcdn.com/w320/pa.png",
+      "listType": "album",
+      "asOf": "2026-04-28",
+      "sourceUrl": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-todos-os-jogadores-que-estao-no-album-da-copa-do-mundo-2026/",
+      "notes": "Jogadores conforme lista publicada pela CNN Brasil sobre o álbum oficial Panini da Copa 2026 (abr/2026). Não representa convocação oficial das federações."
+    },
+    {
+      "countryCode": "PAR",
+      "countryName": "Paraguai",
+      "logoUrl": "https://flagcdn.com/w320/py.png",
+      "listType": "album",
+      "asOf": "2026-04-28",
+      "sourceUrl": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-todos-os-jogadores-que-estao-no-album-da-copa-do-mundo-2026/",
+      "notes": "Jogadores conforme lista publicada pela CNN Brasil sobre o álbum oficial Panini da Copa 2026 (abr/2026). Não representa convocação oficial das federações."
+    },
+    {
+      "countryCode": "POR",
+      "countryName": "Portugal",
+      "logoUrl": "https://flagcdn.com/w320/pt.png",
+      "listType": "album",
+      "asOf": "2026-04-28",
+      "sourceUrl": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-todos-os-jogadores-que-estao-no-album-da-copa-do-mundo-2026/",
+      "notes": "Jogadores conforme lista publicada pela CNN Brasil sobre o álbum oficial Panini da Copa 2026 (abr/2026). Não representa convocação oficial das federações."
+    },
+    {
+      "countryCode": "QAT",
+      "countryName": "Catar",
+      "logoUrl": "https://flagcdn.com/w320/qa.png",
+      "listType": "album",
+      "asOf": "2026-04-28",
+      "sourceUrl": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-todos-os-jogadores-que-estao-no-album-da-copa-do-mundo-2026/",
+      "notes": "Jogadores conforme lista publicada pela CNN Brasil sobre o álbum oficial Panini da Copa 2026 (abr/2026). Não representa convocação oficial das federações."
+    },
+    {
+      "countryCode": "KSA",
+      "countryName": "Arábia Saudita",
+      "logoUrl": "https://flagcdn.com/w320/sa.png",
+      "listType": "album",
+      "asOf": "2026-04-28",
+      "sourceUrl": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-todos-os-jogadores-que-estao-no-album-da-copa-do-mundo-2026/",
+      "notes": "Jogadores conforme lista publicada pela CNN Brasil sobre o álbum oficial Panini da Copa 2026 (abr/2026). Não representa convocação oficial das federações."
+    },
+    {
+      "countryCode": "SCO",
+      "countryName": "Escócia",
+      "logoUrl": "https://flagcdn.com/w320/gb-sct.png",
+      "listType": "album",
+      "asOf": "2026-04-28",
+      "sourceUrl": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-todos-os-jogadores-que-estao-no-album-da-copa-do-mundo-2026/",
+      "notes": "Jogadores conforme lista publicada pela CNN Brasil sobre o álbum oficial Panini da Copa 2026 (abr/2026). Não representa convocação oficial das federações."
+    },
+    {
+      "countryCode": "SEN",
+      "countryName": "Senegal",
+      "logoUrl": "https://flagcdn.com/w320/sn.png",
+      "listType": "album",
+      "asOf": "2026-04-28",
+      "sourceUrl": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-todos-os-jogadores-que-estao-no-album-da-copa-do-mundo-2026/",
+      "notes": "Jogadores conforme lista publicada pela CNN Brasil sobre o álbum oficial Panini da Copa 2026 (abr/2026). Não representa convocação oficial das federações."
+    },
+    {
+      "countryCode": "RSA",
+      "countryName": "África do Sul",
+      "logoUrl": "https://flagcdn.com/w320/za.png",
+      "listType": "album",
+      "asOf": "2026-04-28",
+      "sourceUrl": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-todos-os-jogadores-que-estao-no-album-da-copa-do-mundo-2026/",
+      "notes": "Jogadores conforme lista publicada pela CNN Brasil sobre o álbum oficial Panini da Copa 2026 (abr/2026). Não representa convocação oficial das federações."
+    },
+    {
+      "countryCode": "SWE",
+      "countryName": "Suécia",
+      "logoUrl": "https://flagcdn.com/w320/se.png",
+      "listType": "album",
+      "asOf": "2026-04-28",
+      "sourceUrl": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-todos-os-jogadores-que-estao-no-album-da-copa-do-mundo-2026/",
+      "notes": "Jogadores conforme lista publicada pela CNN Brasil sobre o álbum oficial Panini da Copa 2026 (abr/2026). Não representa convocação oficial das federações."
+    },
+    {
+      "countryCode": "SUI",
+      "countryName": "Suíça",
+      "logoUrl": "https://flagcdn.com/w320/ch.png",
+      "listType": "album",
+      "asOf": "2026-04-28",
+      "sourceUrl": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-todos-os-jogadores-que-estao-no-album-da-copa-do-mundo-2026/",
+      "notes": "Jogadores conforme lista publicada pela CNN Brasil sobre o álbum oficial Panini da Copa 2026 (abr/2026). Não representa convocação oficial das federações."
+    },
+    {
+      "countryCode": "TUN",
+      "countryName": "Tunísia",
+      "logoUrl": "https://flagcdn.com/w320/tn.png",
+      "listType": "album",
+      "asOf": "2026-04-28",
+      "sourceUrl": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-todos-os-jogadores-que-estao-no-album-da-copa-do-mundo-2026/",
+      "notes": "Jogadores conforme lista publicada pela CNN Brasil sobre o álbum oficial Panini da Copa 2026 (abr/2026). Não representa convocação oficial das federações."
+    },
+    {
+      "countryCode": "TUR",
+      "countryName": "Turquia",
+      "logoUrl": "https://flagcdn.com/w320/tr.png",
+      "listType": "album",
+      "asOf": "2026-04-28",
+      "sourceUrl": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-todos-os-jogadores-que-estao-no-album-da-copa-do-mundo-2026/",
+      "notes": "Jogadores conforme lista publicada pela CNN Brasil sobre o álbum oficial Panini da Copa 2026 (abr/2026). Não representa convocação oficial das federações."
+    },
+    {
+      "countryCode": "URU",
+      "countryName": "Uruguai",
+      "logoUrl": "https://flagcdn.com/w320/uy.png",
+      "listType": "album",
+      "asOf": "2026-04-28",
+      "sourceUrl": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-todos-os-jogadores-que-estao-no-album-da-copa-do-mundo-2026/",
+      "notes": "Jogadores conforme lista publicada pela CNN Brasil sobre o álbum oficial Panini da Copa 2026 (abr/2026). Não representa convocação oficial das federações."
+    },
+    {
+      "countryCode": "USA",
+      "countryName": "Estados Unidos",
+      "logoUrl": "https://flagcdn.com/w320/us.png",
+      "listType": "album",
+      "asOf": "2026-04-28",
+      "sourceUrl": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-todos-os-jogadores-que-estao-no-album-da-copa-do-mundo-2026/",
+      "notes": "Jogadores conforme lista publicada pela CNN Brasil sobre o álbum oficial Panini da Copa 2026 (abr/2026). Não representa convocação oficial das federações."
+    },
+    {
+      "countryCode": "UZB",
+      "countryName": "Uzbequistão",
+      "logoUrl": "https://flagcdn.com/w320/uz.png",
+      "listType": "album",
+      "asOf": "2026-04-28",
+      "sourceUrl": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-todos-os-jogadores-que-estao-no-album-da-copa-do-mundo-2026/",
+      "notes": "Jogadores conforme lista publicada pela CNN Brasil sobre o álbum oficial Panini da Copa 2026 (abr/2026). Não representa convocação oficial das federações."
+    }
+  ]
+}

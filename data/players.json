@@ -1,0 +1,4308 @@
+{
+  "tournament": "FIFA World Cup 2026",
+  "players": [
+    {
+      "id": "alg-alexis-guendouz",
+      "name": "Alexis Guendouz",
+      "countryCode": "ALG",
+      "age": 30,
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Alexis%20Guendouz.png",
+      "position": "GK"
+   },
+    {
+      "id": "alg-ramy-bensebaini",
+      "name": "Ramy Bensebaini",
+      "countryCode": "ALG",
+      "age": 31,
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Stade%20rennais%20vs%20USM%20Alger%2C%20July%2016th%202016%20-%2025.jpg"
+    },
+    {
+      "id": "alg-youcef-atal",
+      "name": "Youcef Atal",
+      "countryCode": "ALG",
+      "age": 30,
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Youcef%20Atal.jpg",
+      "club": "Adana Demirspor"
+    },
+    {
+      "id": "alg-rayan-ait-nouri",
+      "name": "Rayan Aït-Nouri",
+      "countryCode": "ALG"
+    },
+    {
+      "id": "alg-mohamed-amine-tougai",
+      "name": "Mohamed Amine Tougai",
+      "countryCode": "ALG"
+    },
+    {
+      "id": "alg-aissa-mandi",
+      "name": "Aïssa Mandi",
+      "countryCode": "ALG"
+    },
+    {
+      "id": "alg-ismael-bennacer",
+      "name": "Ismael Bennacer",
+      "countryCode": "ALG"
+    },
+    {
+      "id": "alg-houssem-aouar",
+      "name": "Houssem Aouar",
+      "countryCode": "ALG"
+    },
+    {
+      "id": "alg-hicham-boudaoui",
+      "name": "Hicham Boudaoui",
+      "countryCode": "ALG"
+    },
+    {
+      "id": "alg-ramiz-zerrouki",
+      "name": "Ramiz Zerrouki",
+      "countryCode": "ALG"
+    },
+    {
+      "id": "alg-nabil-bentaleb",
+      "name": "Nabil Bentaleb",
+      "countryCode": "ALG"
+    },
+    {
+      "id": "alg-fares-chaibi",
+      "name": "Farés Chaibi",
+      "countryCode": "ALG"
+    },
+    {
+      "id": "alg-riyad-mahrez",
+      "name": "Riyad Mahrez",
+      "countryCode": "ALG"
+    },
+    {
+      "id": "alg-said-benrahma",
+      "name": "Said Benrahma",
+      "countryCode": "ALG"
+    },
+    {
+      "id": "alg-anis-hadj-moussa",
+      "name": "Anis Hadj Moussa",
+      "countryCode": "ALG"
+    },
+    {
+      "id": "alg-amine-gouiri",
+      "name": "Amine Gouiri",
+      "countryCode": "ALG"
+    },
+    {
+      "id": "alg-baghdad-bounedjah",
+      "name": "Baghdad Bounedjah",
+      "countryCode": "ALG"
+    },
+    {
+      "id": "alg-mohammed-amoura",
+      "name": "Mohammed Amoura",
+      "countryCode": "ALG"
+    },
+    {
+      "id": "arg-emiliano-martinez",
+      "name": "Emiliano Martínez",
+      "countryCode": "ARG"
+    },
+    {
+      "id": "arg-nahuel-molina",
+      "name": "Nahuel Molina",
+      "countryCode": "ARG"
+    },
+    {
+      "id": "arg-cristian-romero",
+      "name": "Cristian Romero",
+      "countryCode": "ARG"
+    },
+    {
+      "id": "arg-nicolas-otamendi",
+      "name": "Nicolás Otamendi",
+      "countryCode": "ARG"
+    },
+    {
+      "id": "arg-nicolas-tagliafico",
+      "name": "Nicolás Tagliafico",
+      "countryCode": "ARG"
+    },
+    {
+      "id": "arg-leonardo-balerdi",
+      "name": "Leonardo Balerdi",
+      "countryCode": "ARG"
+    },
+    {
+      "id": "arg-enzo-fernandez",
+      "name": "Enzo Fernández",
+      "countryCode": "ARG"
+    },
+    {
+      "id": "arg-alexis-mac-allister",
+      "name": "Alexis Mac Allister",
+      "countryCode": "ARG"
+    },
+    {
+      "id": "arg-rodrigo-de-paul",
+      "name": "Rodrigo De Paul",
+      "countryCode": "ARG"
+    },
+    {
+      "id": "arg-exequiel-palacios",
+      "name": "Exequiel Palacios",
+      "countryCode": "ARG"
+    },
+    {
+      "id": "arg-leandro-paredes",
+      "name": "Leandro Paredes",
+      "countryCode": "ARG"
+    },
+    {
+      "id": "arg-nico-paz",
+      "name": "Nico Paz",
+      "countryCode": "ARG"
+    },
+    {
+      "id": "arg-franco-mastantuono",
+      "name": "Franco Mastantuono",
+      "countryCode": "ARG"
+    },
+    {
+      "id": "arg-nico-gonzalez",
+      "name": "Nico González",
+      "countryCode": "ARG"
+    },
+    {
+      "id": "arg-lionel-messi",
+      "name": "Lionel Messi",
+      "countryCode": "ARG"
+    },
+    {
+      "id": "arg-lautaro-martinez",
+      "name": "Lautaro Martínez",
+      "countryCode": "ARG"
+    },
+    {
+      "id": "arg-julian-alvarez",
+      "name": "Julián Álvarez",
+      "countryCode": "ARG"
+    },
+    {
+      "id": "arg-giuliano-simeone",
+      "name": "Giuliano Simeone",
+      "countryCode": "ARG"
+    },
+    {
+      "id": "aus-mathew-ryan",
+      "name": "Mathew Ryan",
+      "countryCode": "AUS"
+    },
+    {
+      "id": "aus-joe-gauci",
+      "name": "Joe Gauci",
+      "countryCode": "AUS"
+    },
+    {
+      "id": "aus-harry-souttar",
+      "name": "Harry Souttar",
+      "countryCode": "AUS"
+    },
+    {
+      "id": "aus-alessandro-circati",
+      "name": "Alessandro Circati",
+      "countryCode": "AUS"
+    },
+    {
+      "id": "aus-jordan-bos",
+      "name": "Jordan Bos",
+      "countryCode": "AUS"
+    },
+    {
+      "id": "aus-aziz-behich",
+      "name": "Aziz Behich",
+      "countryCode": "AUS"
+    },
+    {
+      "id": "aus-cameron-burgess",
+      "name": "Cameron Burgess",
+      "countryCode": "AUS"
+    },
+    {
+      "id": "aus-lewis-miller",
+      "name": "Lewis Miller",
+      "countryCode": "AUS"
+    },
+    {
+      "id": "aus-milos-degenek",
+      "name": "Milos Degenek",
+      "countryCode": "AUS"
+    },
+    {
+      "id": "aus-jackson-irvine",
+      "name": "Jackson Irvine",
+      "countryCode": "AUS"
+    },
+    {
+      "id": "aus-riley-mcgree",
+      "name": "Riley McGree",
+      "countryCode": "AUS"
+    },
+    {
+      "id": "aus-aiden-o-neill",
+      "name": "Aiden O’Neill",
+      "countryCode": "AUS"
+    },
+    {
+      "id": "aus-connor-metcalfe",
+      "name": "Connor Metcalfe",
+      "countryCode": "AUS"
+    },
+    {
+      "id": "aus-patrick-yazbek",
+      "name": "Patrick Yazbek",
+      "countryCode": "AUS"
+    },
+    {
+      "id": "aus-craig-goodwin",
+      "name": "Craig Goodwin",
+      "countryCode": "AUS"
+    },
+    {
+      "id": "aus-kusini-yengi",
+      "name": "Kusini Yengi",
+      "countryCode": "AUS"
+    },
+    {
+      "id": "aus-nestory-irankunda",
+      "name": "Nestory Irankunda",
+      "countryCode": "AUS"
+    },
+    {
+      "id": "aus-mohamed-toure",
+      "name": "Mohamed Touré",
+      "countryCode": "AUS"
+    },
+    {
+      "id": "aut-alexander-schlager",
+      "name": "Alexander Schlager",
+      "countryCode": "AUT"
+    },
+    {
+      "id": "aut-patrick-pentz",
+      "name": "Patrick Pentz",
+      "countryCode": "AUT"
+    },
+    {
+      "id": "aut-david-alaba",
+      "name": "David Alaba",
+      "countryCode": "AUT"
+    },
+    {
+      "id": "aut-kevin-danso",
+      "name": "Kevin Danso",
+      "countryCode": "AUT"
+    },
+    {
+      "id": "aut-philipp-lienhart",
+      "name": "Philipp Lienhart",
+      "countryCode": "AUT"
+    },
+    {
+      "id": "aut-stefan-posch",
+      "name": "Stefan Posch",
+      "countryCode": "AUT"
+    },
+    {
+      "id": "aut-phillipp-mwene",
+      "name": "Phillipp Mwene",
+      "countryCode": "AUT"
+    },
+    {
+      "id": "aut-alexander-prass",
+      "name": "Alexander Prass",
+      "countryCode": "AUT"
+    },
+    {
+      "id": "aut-xaver-schlager",
+      "name": "Xaver Schlager",
+      "countryCode": "AUT"
+    },
+    {
+      "id": "aut-marcel-sabitzer",
+      "name": "Marcel Sabitzer",
+      "countryCode": "AUT"
+    },
+    {
+      "id": "aut-konrad-laimer",
+      "name": "Konrad Laimer",
+      "countryCode": "AUT"
+    },
+    {
+      "id": "aut-florian-grillitsch",
+      "name": "Florian Grillitsch",
+      "countryCode": "AUT"
+    },
+    {
+      "id": "aut-nicolas-seiwald",
+      "name": "Nicolas Seiwald",
+      "countryCode": "AUT"
+    },
+    {
+      "id": "aut-romano-schmid",
+      "name": "Romano Schmid",
+      "countryCode": "AUT"
+    },
+    {
+      "id": "aut-patrick-wimmer",
+      "name": "Patrick Wimmer",
+      "countryCode": "AUT"
+    },
+    {
+      "id": "aut-christoph-baumgartner",
+      "name": "Christoph Baumgartner",
+      "countryCode": "AUT"
+    },
+    {
+      "id": "aut-michael-gregoritsch",
+      "name": "Michael Gregoritsch",
+      "countryCode": "AUT"
+    },
+    {
+      "id": "aut-marko-arnautovic",
+      "name": "Marko Arnautović",
+      "countryCode": "AUT"
+    },
+    {
+      "id": "bel-thibaut-courtois",
+      "name": "Thibaut Courtois",
+      "countryCode": "BEL"
+    },
+    {
+      "id": "bel-arthur-theate",
+      "name": "Arthur Theate",
+      "countryCode": "BEL"
+    },
+    {
+      "id": "bel-timothy-castagne",
+      "name": "Timothy Castagne",
+      "countryCode": "BEL"
+    },
+    {
+      "id": "bel-zeno-debast",
+      "name": "Zeno Debast",
+      "countryCode": "BEL"
+    },
+    {
+      "id": "bel-brandon-mechele",
+      "name": "Brandon Mechele",
+      "countryCode": "BEL"
+    },
+    {
+      "id": "bel-maxim-de-cuyper",
+      "name": "Maxim De Cuyper",
+      "countryCode": "BEL"
+    },
+    {
+      "id": "bel-thomas-meunier",
+      "name": "Thomas Meunier",
+      "countryCode": "BEL"
+    },
+    {
+      "id": "bel-youri-tielemans",
+      "name": "Youri Tielemans",
+      "countryCode": "BEL"
+    },
+    {
+      "id": "bel-amadou-onana",
+      "name": "Amadou Onana",
+      "countryCode": "BEL"
+    },
+    {
+      "id": "bel-nicolas-raskin",
+      "name": "Nicolas Raskin",
+      "countryCode": "BEL"
+    },
+    {
+      "id": "bel-alexis-saelemaekers",
+      "name": "Alexis Saelemaekers",
+      "countryCode": "BEL"
+    },
+    {
+      "id": "bel-hans-vanaken",
+      "name": "Hans Vanaken",
+      "countryCode": "BEL"
+    },
+    {
+      "id": "bel-kevin-de-bruyne",
+      "name": "Kevin De Bruyne",
+      "countryCode": "BEL"
+    },
+    {
+      "id": "bel-jeremy-doku",
+      "name": "Jérémy Doku",
+      "countryCode": "BEL"
+    },
+    {
+      "id": "bel-charles-de-ketelaere",
+      "name": "Charles De Ketelaere",
+      "countryCode": "BEL"
+    },
+    {
+      "id": "bel-leandro-trossard",
+      "name": "Leandro Trossard",
+      "countryCode": "BEL"
+    },
+    {
+      "id": "bel-lois-openda",
+      "name": "Loïs Openda",
+      "countryCode": "BEL"
+    },
+    {
+      "id": "bel-romelu-lukaku",
+      "name": "Romelu Lukaku",
+      "countryCode": "BEL"
+    },
+    {
+      "id": "bih-nikola-vasilj",
+      "name": "Nikola Vasilj",
+      "countryCode": "BIH"
+    },
+    {
+      "id": "bih-amar-dedic",
+      "name": "Amar Dedić",
+      "countryCode": "BIH"
+    },
+    {
+      "id": "bih-sead-kolasinac",
+      "name": "Sead Kolašinac",
+      "countryCode": "BIH"
+    },
+    {
+      "id": "bih-tarik-muharemovic",
+      "name": "Tarik Muharemović",
+      "countryCode": "BIH"
+    },
+    {
+      "id": "bih-nihad-mujakic",
+      "name": "Nihad Mujakić",
+      "countryCode": "BIH"
+    },
+    {
+      "id": "bih-nikola-katic",
+      "name": "Nikola Katić",
+      "countryCode": "BIH"
+    },
+    {
+      "id": "bih-amir-hadziahmetovic",
+      "name": "Amir Hadžiahmetović",
+      "countryCode": "BIH"
+    },
+    {
+      "id": "bih-benjamin-tahirovic",
+      "name": "Benjamin Tahirović",
+      "countryCode": "BIH"
+    },
+    {
+      "id": "bih-armin-gigovic",
+      "name": "Armin Gigović",
+      "countryCode": "BIH"
+    },
+    {
+      "id": "bih-ivan-sunjic",
+      "name": "Ivan Šunjić",
+      "countryCode": "BIH"
+    },
+    {
+      "id": "bih-ivan-basic",
+      "name": "Ivan Bašić",
+      "countryCode": "BIH"
+    },
+    {
+      "id": "bih-dzenis-burnic",
+      "name": "Dženis Burnić",
+      "countryCode": "BIH"
+    },
+    {
+      "id": "bih-esmir-bajraktarevic",
+      "name": "Esmir Bajraktarević",
+      "countryCode": "BIH"
+    },
+    {
+      "id": "bih-amar-memic",
+      "name": "Amar Memić",
+      "countryCode": "BIH"
+    },
+    {
+      "id": "bih-ermedin-demirovic",
+      "name": "Ermedin Demirović",
+      "countryCode": "BIH"
+    },
+    {
+      "id": "bih-edin-dzeko",
+      "name": "Edin Džeko",
+      "countryCode": "BIH"
+    },
+    {
+      "id": "bih-samed-bazdar",
+      "name": "Samed Baždar",
+      "countryCode": "BIH"
+    },
+    {
+      "id": "bih-haris-tabakovic",
+      "name": "Haris Tabaković",
+      "countryCode": "BIH"
+    },
+    {
+      "id": "bra-alisson",
+      "name": "Alisson",
+      "countryCode": "BRA"
+    },
+    {
+      "id": "bra-bento",
+      "name": "Bento",
+      "countryCode": "BRA"
+    },
+    {
+      "id": "bra-marquinhos",
+      "name": "Marquinhos",
+      "countryCode": "BRA"
+    },
+    {
+      "id": "bra-eder-militao",
+      "name": "Éder Militão",
+      "countryCode": "BRA"
+    },
+    {
+      "id": "bra-gabriel-magalhaes",
+      "name": "Gabriel Magalhães",
+      "countryCode": "BRA"
+    },
+    {
+      "id": "bra-danilo",
+      "name": "Danilo",
+      "countryCode": "BRA"
+    },
+    {
+      "id": "bra-wesley",
+      "name": "Wesley",
+      "countryCode": "BRA"
+    },
+    {
+      "id": "bra-lucas-paqueta",
+      "name": "Lucas Paquetá",
+      "countryCode": "BRA"
+    },
+    {
+      "id": "bra-casemiro",
+      "name": "Casemiro",
+      "countryCode": "BRA"
+    },
+    {
+      "id": "bra-bruno-guimaraes",
+      "name": "Bruno Guimarães",
+      "countryCode": "BRA"
+    },
+    {
+      "id": "bra-luiz-henrique",
+      "name": "Luiz Henrique",
+      "countryCode": "BRA"
+    },
+    {
+      "id": "bra-vinicius-junior",
+      "name": "Vinícius Júnior",
+      "countryCode": "BRA"
+    },
+    {
+      "id": "bra-rodrygo",
+      "name": "Rodrygo",
+      "countryCode": "BRA"
+    },
+    {
+      "id": "bra-joao-pedro",
+      "name": "João Pedro",
+      "countryCode": "BRA"
+    },
+    {
+      "id": "bra-matheus-cunha",
+      "name": "Matheus Cunha",
+      "countryCode": "BRA"
+    },
+    {
+      "id": "bra-gabriel-martinelli",
+      "name": "Gabriel Martinelli",
+      "countryCode": "BRA"
+    },
+    {
+      "id": "bra-raphinha",
+      "name": "Raphinha",
+      "countryCode": "BRA"
+    },
+    {
+      "id": "bra-estevao",
+      "name": "Estêvão",
+      "countryCode": "BRA"
+    },
+    {
+      "id": "can-dayne-st-clair",
+      "name": "Dayne St. Clair",
+      "countryCode": "CAN"
+    },
+    {
+      "id": "can-alphonso-davies",
+      "name": "Alphonso Davies",
+      "countryCode": "CAN"
+    },
+    {
+      "id": "can-alistair-johnston",
+      "name": "Alistair Johnston",
+      "countryCode": "CAN"
+    },
+    {
+      "id": "can-samuel-adekugbe",
+      "name": "Samuel Adekugbe",
+      "countryCode": "CAN"
+    },
+    {
+      "id": "can-richie-laryea",
+      "name": "Richie Laryea",
+      "countryCode": "CAN"
+    },
+    {
+      "id": "can-derek-cornelius",
+      "name": "Derek Cornelius",
+      "countryCode": "CAN"
+    },
+    {
+      "id": "can-moise-bombito",
+      "name": "Moïse Bombito",
+      "countryCode": "CAN"
+    },
+    {
+      "id": "can-kamal-miller",
+      "name": "Kamal Miller",
+      "countryCode": "CAN"
+    },
+    {
+      "id": "can-stephen-eustaquio",
+      "name": "Stephen Eustáquio",
+      "countryCode": "CAN"
+    },
+    {
+      "id": "can-ismael-kone",
+      "name": "Ismaël Koné",
+      "countryCode": "CAN"
+    },
+    {
+      "id": "can-jonathan-osorio",
+      "name": "Jonathan Osorio",
+      "countryCode": "CAN"
+    },
+    {
+      "id": "can-jacob-shaffelburg",
+      "name": "Jacob Shaffelburg",
+      "countryCode": "CAN"
+    },
+    {
+      "id": "can-mathieu-choiniere",
+      "name": "Mathieu Choinière",
+      "countryCode": "CAN"
+    },
+    {
+      "id": "can-niko-sigur",
+      "name": "Niko Sigur",
+      "countryCode": "CAN"
+    },
+    {
+      "id": "can-tajon-buchanan",
+      "name": "Tajon Buchanan",
+      "countryCode": "CAN"
+    },
+    {
+      "id": "can-liam-millar",
+      "name": "Liam Millar",
+      "countryCode": "CAN"
+    },
+    {
+      "id": "can-cyle-larin",
+      "name": "Cyle Larin",
+      "countryCode": "CAN"
+    },
+    {
+      "id": "can-jonathan-david",
+      "name": "Jonathan David",
+      "countryCode": "CAN"
+    },
+    {
+      "id": "cpv-vozinha",
+      "name": "Vozinha",
+      "countryCode": "CPV"
+    },
+    {
+      "id": "cpv-logan-costa",
+      "name": "Logan Costa",
+      "countryCode": "CPV"
+    },
+    {
+      "id": "cpv-pico",
+      "name": "Pico",
+      "countryCode": "CPV"
+    },
+    {
+      "id": "cpv-diney",
+      "name": "Diney",
+      "countryCode": "CPV"
+    },
+    {
+      "id": "cpv-steven-moreira",
+      "name": "Steven Moreira",
+      "countryCode": "CPV"
+    },
+    {
+      "id": "cpv-wagner-pina",
+      "name": "Wagner Pina",
+      "countryCode": "CPV"
+    },
+    {
+      "id": "cpv-joao-paulo",
+      "name": "João Paulo",
+      "countryCode": "CPV"
+    },
+    {
+      "id": "cpv-yannick-semedo",
+      "name": "Yannick Semedo",
+      "countryCode": "CPV"
+    },
+    {
+      "id": "cpv-kevin-pina",
+      "name": "Kevin Pina",
+      "countryCode": "CPV"
+    },
+    {
+      "id": "cpv-patrick-andrade",
+      "name": "Patrick Andrade",
+      "countryCode": "CPV"
+    },
+    {
+      "id": "cpv-jamiro-monteiro",
+      "name": "Jamiro Monteiro",
+      "countryCode": "CPV"
+    },
+    {
+      "id": "cpv-deroy-duarte",
+      "name": "Deroy Duarte",
+      "countryCode": "CPV"
+    },
+    {
+      "id": "cpv-garry-rodrigues",
+      "name": "Garry Rodrigues",
+      "countryCode": "CPV"
+    },
+    {
+      "id": "cpv-jovane-cabral",
+      "name": "Jovane Cabral",
+      "countryCode": "CPV"
+    },
+    {
+      "id": "cpv-ryan-mendes",
+      "name": "Ryan Mendes",
+      "countryCode": "CPV"
+    },
+    {
+      "id": "cpv-dailon-livramento",
+      "name": "Dailon Livramento",
+      "countryCode": "CPV"
+    },
+    {
+      "id": "cpv-willy-semedo",
+      "name": "Willy Semedo",
+      "countryCode": "CPV"
+    },
+    {
+      "id": "cpv-bebe",
+      "name": "Bebé",
+      "countryCode": "CPV"
+    },
+    {
+      "id": "civ-yahia-fofana",
+      "name": "Yahia Fofana",
+      "countryCode": "CIV"
+    },
+    {
+      "id": "civ-ghislain-konan",
+      "name": "Ghislain Konan",
+      "countryCode": "CIV"
+    },
+    {
+      "id": "civ-wilfried-singo",
+      "name": "Wilfried Singo",
+      "countryCode": "CIV"
+    },
+    {
+      "id": "civ-odilon-kossounou",
+      "name": "Odilon Kossounou",
+      "countryCode": "CIV"
+    },
+    {
+      "id": "civ-evan-ndicka",
+      "name": "Evan Ndicka",
+      "countryCode": "CIV"
+    },
+    {
+      "id": "civ-willy-boly",
+      "name": "Willy Boly",
+      "countryCode": "CIV"
+    },
+    {
+      "id": "civ-emmanuel-agbadou",
+      "name": "Emmanuel Agbadou",
+      "countryCode": "CIV"
+    },
+    {
+      "id": "civ-ousmane-diomande",
+      "name": "Ousmane Diomande",
+      "countryCode": "CIV"
+    },
+    {
+      "id": "civ-franck-kessie",
+      "name": "Franck Kessié",
+      "countryCode": "CIV"
+    },
+    {
+      "id": "civ-seko-fofana",
+      "name": "Seko Fofana",
+      "countryCode": "CIV"
+    },
+    {
+      "id": "civ-ibrahim-sangare",
+      "name": "Ibrahim Sangaré",
+      "countryCode": "CIV"
+    },
+    {
+      "id": "civ-jean-philippe-gbamin",
+      "name": "Jean-Philippe Gbamin",
+      "countryCode": "CIV"
+    },
+    {
+      "id": "civ-amad-diallo",
+      "name": "Amad Diallo",
+      "countryCode": "CIV"
+    },
+    {
+      "id": "civ-sebastien-haller",
+      "name": "Sébastien Haller",
+      "countryCode": "CIV"
+    },
+    {
+      "id": "civ-simon-adingra",
+      "name": "Simon Adingra",
+      "countryCode": "CIV"
+    },
+    {
+      "id": "civ-yan-diomande",
+      "name": "Yan Diomande",
+      "countryCode": "CIV"
+    },
+    {
+      "id": "civ-evann-guessand",
+      "name": "Evann Guessand",
+      "countryCode": "CIV"
+    },
+    {
+      "id": "civ-oumar-diakite",
+      "name": "Oumar Diakité",
+      "countryCode": "CIV"
+    },
+    {
+      "id": "col-camilo-vargas",
+      "name": "Camilo Vargas",
+      "countryCode": "COL"
+    },
+    {
+      "id": "col-david-ospina",
+      "name": "David Ospina",
+      "countryCode": "COL"
+    },
+    {
+      "id": "col-davinson-sanchez",
+      "name": "Dávinson Sánchez",
+      "countryCode": "COL"
+    },
+    {
+      "id": "col-yerry-mina",
+      "name": "Yerry Mina",
+      "countryCode": "COL"
+    },
+    {
+      "id": "col-daniel-munoz",
+      "name": "Daniel Muñoz",
+      "countryCode": "COL"
+    },
+    {
+      "id": "col-johan-mojica",
+      "name": "Johan Mojica",
+      "countryCode": "COL"
+    },
+    {
+      "id": "col-jhon-lucumi",
+      "name": "Jhon Lucumí",
+      "countryCode": "COL"
+    },
+    {
+      "id": "col-santiago-arias",
+      "name": "Santiago Arias",
+      "countryCode": "COL"
+    },
+    {
+      "id": "col-jefferson-lerma",
+      "name": "Jefferson Lerma",
+      "countryCode": "COL"
+    },
+    {
+      "id": "col-kevin-castano",
+      "name": "Kevin Castaño",
+      "countryCode": "COL"
+    },
+    {
+      "id": "col-richard-rios",
+      "name": "Richard Ríos",
+      "countryCode": "COL"
+    },
+    {
+      "id": "col-james-rodriguez",
+      "name": "James Rodríguez",
+      "countryCode": "COL"
+    },
+    {
+      "id": "col-juan-fernando-quintero",
+      "name": "Juan Fernando Quintero",
+      "countryCode": "COL"
+    },
+    {
+      "id": "col-jorge-carrascal",
+      "name": "Jorge Carrascal",
+      "countryCode": "COL"
+    },
+    {
+      "id": "col-jhon-arias",
+      "name": "Jhon Arias",
+      "countryCode": "COL"
+    },
+    {
+      "id": "col-jhon-cordoba",
+      "name": "Jhon Córdoba",
+      "countryCode": "COL"
+    },
+    {
+      "id": "col-luis-suarez",
+      "name": "Luis Suárez",
+      "countryCode": "COL"
+    },
+    {
+      "id": "col-luis-diaz",
+      "name": "Luis Díaz",
+      "countryCode": "COL"
+    },
+    {
+      "id": "cod-lionel-mpasi",
+      "name": "Lionel Mpasi",
+      "countryCode": "COD"
+    },
+    {
+      "id": "cod-aaron-wan-bissaka",
+      "name": "Aaron Wan-Bissaka",
+      "countryCode": "COD"
+    },
+    {
+      "id": "cod-axel-tuanzebe",
+      "name": "Axel Tuanzebe",
+      "countryCode": "COD"
+    },
+    {
+      "id": "cod-arthur-masuaku",
+      "name": "Arthur Masuaku",
+      "countryCode": "COD"
+    },
+    {
+      "id": "cod-chancel-mbemba",
+      "name": "Chancel Mbemba",
+      "countryCode": "COD"
+    },
+    {
+      "id": "cod-joris-kayembe",
+      "name": "Joris Kayembe",
+      "countryCode": "COD"
+    },
+    {
+      "id": "cod-charles-pickel",
+      "name": "Charles Pickel",
+      "countryCode": "COD"
+    },
+    {
+      "id": "cod-ngal-ayel-mukau",
+      "name": "Ngal’ayel Mukau",
+      "countryCode": "COD"
+    },
+    {
+      "id": "cod-edo-kayembe",
+      "name": "Edo Kayembe",
+      "countryCode": "COD"
+    },
+    {
+      "id": "cod-samuel-moutoussamy",
+      "name": "Samuel Moutoussamy",
+      "countryCode": "COD"
+    },
+    {
+      "id": "cod-noah-sadiki",
+      "name": "Noah Sadiki",
+      "countryCode": "COD"
+    },
+    {
+      "id": "cod-theo-bongonda",
+      "name": "Théo Bongonda",
+      "countryCode": "COD"
+    },
+    {
+      "id": "cod-meschack-elia",
+      "name": "Meschack Elia",
+      "countryCode": "COD"
+    },
+    {
+      "id": "cod-yoane-wissa",
+      "name": "Yoane Wissa",
+      "countryCode": "COD"
+    },
+    {
+      "id": "cod-brian-cipenga",
+      "name": "Brian Cipenga",
+      "countryCode": "COD"
+    },
+    {
+      "id": "cod-fiston-mayele",
+      "name": "Fiston Mayele",
+      "countryCode": "COD"
+    },
+    {
+      "id": "cod-cedric-bakambu",
+      "name": "Cédric Bakambu",
+      "countryCode": "COD"
+    },
+    {
+      "id": "cod-nathanael-mbuku",
+      "name": "Nathanaël Mbuku",
+      "countryCode": "COD"
+    },
+    {
+      "id": "cro-dominik-livakovic",
+      "name": "Dominik Livaković",
+      "countryCode": "CRO"
+    },
+    {
+      "id": "cro-duje-caleta-car",
+      "name": "Duje Ćaleta-Car",
+      "countryCode": "CRO"
+    },
+    {
+      "id": "cro-josko-gvardiol",
+      "name": "Joško Gvardiol",
+      "countryCode": "CRO"
+    },
+    {
+      "id": "cro-josip-stanisic",
+      "name": "Josip Stanišić",
+      "countryCode": "CRO"
+    },
+    {
+      "id": "cro-luka-vuskovic",
+      "name": "Luka Vušković",
+      "countryCode": "CRO"
+    },
+    {
+      "id": "cro-josip-sutalo",
+      "name": "Josip Šutalo",
+      "countryCode": "CRO"
+    },
+    {
+      "id": "cro-kristijan-jakic",
+      "name": "Kristijan Jakić",
+      "countryCode": "CRO"
+    },
+    {
+      "id": "cro-luka-modric",
+      "name": "Luka Modrić",
+      "countryCode": "CRO"
+    },
+    {
+      "id": "cro-mateo-kovacic",
+      "name": "Mateo Kovačić",
+      "countryCode": "CRO"
+    },
+    {
+      "id": "cro-martin-baturina",
+      "name": "Martin Baturina",
+      "countryCode": "CRO"
+    },
+    {
+      "id": "cro-lovro-majer",
+      "name": "Lovro Majer",
+      "countryCode": "CRO"
+    },
+    {
+      "id": "cro-mario-pasalic",
+      "name": "Mario Pašalić",
+      "countryCode": "CRO"
+    },
+    {
+      "id": "cro-petar-sucic",
+      "name": "Petar Sučić",
+      "countryCode": "CRO"
+    },
+    {
+      "id": "cro-ivan-perisic",
+      "name": "Ivan Perišić",
+      "countryCode": "CRO"
+    },
+    {
+      "id": "cro-marco-pasalic",
+      "name": "Marco Pašalić",
+      "countryCode": "CRO"
+    },
+    {
+      "id": "cro-ante-budimir",
+      "name": "Ante Budimir",
+      "countryCode": "CRO"
+    },
+    {
+      "id": "cro-andrej-kramaric",
+      "name": "Andrej Kramarić",
+      "countryCode": "CRO"
+    },
+    {
+      "id": "cro-franjo-ivanovic",
+      "name": "Franjo Ivanović",
+      "countryCode": "CRO"
+    },
+    {
+      "id": "cuw-eloy-room",
+      "name": "Eloy Room",
+      "countryCode": "CUW"
+    },
+    {
+      "id": "cuw-armando-obispo",
+      "name": "Armando Obispo",
+      "countryCode": "CUW"
+    },
+    {
+      "id": "cuw-sherel-floranus",
+      "name": "Sherel Floranus",
+      "countryCode": "CUW"
+    },
+    {
+      "id": "cuw-jurien-gaari",
+      "name": "Jurien Gaari",
+      "countryCode": "CUW"
+    },
+    {
+      "id": "cuw-joshua-brenet",
+      "name": "Joshua Brenet",
+      "countryCode": "CUW"
+    },
+    {
+      "id": "cuw-roshon-van-eijma",
+      "name": "Roshon Van Eijma",
+      "countryCode": "CUW"
+    },
+    {
+      "id": "cuw-shurandy-sambo",
+      "name": "Shurandy Sambo",
+      "countryCode": "CUW"
+    },
+    {
+      "id": "cuw-livano-comenencia",
+      "name": "Livano Comenencia",
+      "countryCode": "CUW"
+    },
+    {
+      "id": "cuw-godfried-roemeratoe",
+      "name": "Godfried Roemeratoe",
+      "countryCode": "CUW"
+    },
+    {
+      "id": "cuw-juninho-bacuna",
+      "name": "Juninho Bacuna",
+      "countryCode": "CUW"
+    },
+    {
+      "id": "cuw-leandro-bacuna",
+      "name": "Leandro Bacuna",
+      "countryCode": "CUW"
+    },
+    {
+      "id": "cuw-tahith-chong",
+      "name": "Tahith Chong",
+      "countryCode": "CUW"
+    },
+    {
+      "id": "cuw-kenji-gorre",
+      "name": "Kenji Gorré",
+      "countryCode": "CUW"
+    },
+    {
+      "id": "cuw-jearl-margaritha",
+      "name": "Jearl Margaritha",
+      "countryCode": "CUW"
+    },
+    {
+      "id": "cuw-jurgen-locadia",
+      "name": "Jurgen Locadia",
+      "countryCode": "CUW"
+    },
+    {
+      "id": "cuw-jeremy-antonisse",
+      "name": "Jeremy Antonisse",
+      "countryCode": "CUW"
+    },
+    {
+      "id": "cuw-gervane-kastaneer",
+      "name": "Gervane Kastaneer",
+      "countryCode": "CUW"
+    },
+    {
+      "id": "cuw-sontje-hansen",
+      "name": "Sontje Hansen",
+      "countryCode": "CUW"
+    },
+    {
+      "id": "cze-matej-kovar",
+      "name": "Matěj Kovář",
+      "countryCode": "CZE"
+    },
+    {
+      "id": "cze-jindrich-stanek",
+      "name": "Jindřich Staněk",
+      "countryCode": "CZE"
+    },
+    {
+      "id": "cze-ladislav-krejci",
+      "name": "Ladislav Krejčí",
+      "countryCode": "CZE"
+    },
+    {
+      "id": "cze-vladimir-coufal",
+      "name": "Vladimír Coufal",
+      "countryCode": "CZE"
+    },
+    {
+      "id": "cze-jaroslav-zeleny",
+      "name": "Jaroslav Zelený",
+      "countryCode": "CZE"
+    },
+    {
+      "id": "cze-tomas-holes",
+      "name": "Tomáš Holeš",
+      "countryCode": "CZE"
+    },
+    {
+      "id": "cze-david-zima",
+      "name": "David Zima",
+      "countryCode": "CZE"
+    },
+    {
+      "id": "cze-michal-sadilek",
+      "name": "Michal Sadílek",
+      "countryCode": "CZE"
+    },
+    {
+      "id": "cze-lukas-provod",
+      "name": "Lukáš Provod",
+      "countryCode": "CZE"
+    },
+    {
+      "id": "cze-lukas-cerv",
+      "name": "Lukáš Červ",
+      "countryCode": "CZE"
+    },
+    {
+      "id": "cze-tomas-soucek",
+      "name": "Tomáš Souček",
+      "countryCode": "CZE"
+    },
+    {
+      "id": "cze-pavel-sulc",
+      "name": "Pavel Šulc",
+      "countryCode": "CZE"
+    },
+    {
+      "id": "cze-matej-vydra",
+      "name": "Matěj Vydra",
+      "countryCode": "CZE"
+    },
+    {
+      "id": "cze-vasil-kusej",
+      "name": "Vasil Kušej",
+      "countryCode": "CZE"
+    },
+    {
+      "id": "cze-tomas-chory",
+      "name": "Tomáš Chorý",
+      "countryCode": "CZE"
+    },
+    {
+      "id": "cze-vaclav-cerny",
+      "name": "Václav Černý",
+      "countryCode": "CZE"
+    },
+    {
+      "id": "cze-adam-hlozek",
+      "name": "Adam Hložek",
+      "countryCode": "CZE"
+    },
+    {
+      "id": "cze-patrik-schick",
+      "name": "Patrik Schick",
+      "countryCode": "CZE"
+    },
+    {
+      "id": "ecu-hernan-galindez",
+      "name": "Hernán Galíndez",
+      "countryCode": "ECU"
+    },
+    {
+      "id": "ecu-gonzalo-valle",
+      "name": "Gonzalo Valle",
+      "countryCode": "ECU"
+    },
+    {
+      "id": "ecu-piero-hincapie",
+      "name": "Piero Hincapié",
+      "countryCode": "ECU"
+    },
+    {
+      "id": "ecu-pervis-estupinan",
+      "name": "Pervis Estupiñán",
+      "countryCode": "ECU"
+    },
+    {
+      "id": "ecu-willian-pacho",
+      "name": "Willian Pacho",
+      "countryCode": "ECU"
+    },
+    {
+      "id": "ecu-angelo-preciado",
+      "name": "Ángelo Preciado",
+      "countryCode": "ECU"
+    },
+    {
+      "id": "ecu-joel-ordonez",
+      "name": "Joel Ordóñez",
+      "countryCode": "ECU"
+    },
+    {
+      "id": "ecu-moises-caicedo",
+      "name": "Moisés Caicedo",
+      "countryCode": "ECU"
+    },
+    {
+      "id": "ecu-alan-franco",
+      "name": "Alan Franco",
+      "countryCode": "ECU"
+    },
+    {
+      "id": "ecu-kendry-paez",
+      "name": "Kendry Páez",
+      "countryCode": "ECU"
+    },
+    {
+      "id": "ecu-pedro-vite",
+      "name": "Pedro Vite",
+      "countryCode": "ECU"
+    },
+    {
+      "id": "ecu-john-veboah",
+      "name": "John Veboah",
+      "countryCode": "ECU"
+    },
+    {
+      "id": "ecu-leonardo-campana",
+      "name": "Leonardo Campana",
+      "countryCode": "ECU"
+    },
+    {
+      "id": "ecu-gonzalo-plata",
+      "name": "Gonzalo Plata",
+      "countryCode": "ECU"
+    },
+    {
+      "id": "ecu-nilson-angulo",
+      "name": "Nilson Angulo",
+      "countryCode": "ECU"
+    },
+    {
+      "id": "ecu-alan-minda",
+      "name": "Alan Minda",
+      "countryCode": "ECU"
+    },
+    {
+      "id": "ecu-kevin-rodriguez",
+      "name": "Kevin Rodríguez",
+      "countryCode": "ECU"
+    },
+    {
+      "id": "ecu-enner-valencia",
+      "name": "Enner Valencia",
+      "countryCode": "ECU"
+    },
+    {
+      "id": "egy-mohamed-el-shenawy",
+      "name": "Mohamed El Shenawy",
+      "countryCode": "EGY"
+    },
+    {
+      "id": "egy-mohamed-hany",
+      "name": "Mohamed Hany",
+      "countryCode": "EGY"
+    },
+    {
+      "id": "egy-mohamed-hamdy",
+      "name": "Mohamed Hamdy",
+      "countryCode": "EGY"
+    },
+    {
+      "id": "egy-yasser-ibrahim",
+      "name": "Yasser Ibrahim",
+      "countryCode": "EGY"
+    },
+    {
+      "id": "egy-khaled-sobhi",
+      "name": "Khaled Sobhi",
+      "countryCode": "EGY"
+    },
+    {
+      "id": "egy-ramy-rabia",
+      "name": "Ramy Rabia",
+      "countryCode": "EGY"
+    },
+    {
+      "id": "egy-hossam-abdelmaguid",
+      "name": "Hossam Abdelmaguid",
+      "countryCode": "EGY"
+    },
+    {
+      "id": "egy-ahmed-fatouh",
+      "name": "Ahmed Fatouh",
+      "countryCode": "EGY"
+    },
+    {
+      "id": "egy-marwan-attia",
+      "name": "Marwan Attia",
+      "countryCode": "EGY"
+    },
+    {
+      "id": "egy-zizo",
+      "name": "Zizo",
+      "countryCode": "EGY"
+    },
+    {
+      "id": "egy-hamdy-fathy",
+      "name": "Hamdy Fathy",
+      "countryCode": "EGY"
+    },
+    {
+      "id": "egy-mohamed-lasheen",
+      "name": "Mohamed Lasheen",
+      "countryCode": "EGY"
+    },
+    {
+      "id": "egy-emam-ashour",
+      "name": "Emam Ashour",
+      "countryCode": "EGY"
+    },
+    {
+      "id": "egy-osama-faisal",
+      "name": "Osama Faisal",
+      "countryCode": "EGY"
+    },
+    {
+      "id": "egy-mohamed-salah",
+      "name": "Mohamed Salah",
+      "countryCode": "EGY"
+    },
+    {
+      "id": "egy-mostafa-mohamed",
+      "name": "Mostafa Mohamed",
+      "countryCode": "EGY"
+    },
+    {
+      "id": "egy-trezeguet",
+      "name": "Trezeguet",
+      "countryCode": "EGY"
+    },
+    {
+      "id": "egy-omar-marmoush",
+      "name": "Omar Marmoush",
+      "countryCode": "EGY"
+    },
+    {
+      "id": "eng-jordan-pickford",
+      "name": "Jordan Pickford",
+      "countryCode": "ENG"
+    },
+    {
+      "id": "eng-john-stones",
+      "name": "John Stones",
+      "countryCode": "ENG"
+    },
+    {
+      "id": "eng-marc-guehi",
+      "name": "Marc Guéhi",
+      "countryCode": "ENG"
+    },
+    {
+      "id": "eng-ezri-konsa",
+      "name": "Ezri Konsa",
+      "countryCode": "ENG"
+    },
+    {
+      "id": "eng-trent-alexander-arnold",
+      "name": "Trent Alexander-Arnold",
+      "countryCode": "ENG"
+    },
+    {
+      "id": "eng-reece-james",
+      "name": "Reece James",
+      "countryCode": "ENG"
+    },
+    {
+      "id": "eng-dan-burn",
+      "name": "Dan Burn",
+      "countryCode": "ENG"
+    },
+    {
+      "id": "eng-jordan-henderson",
+      "name": "Jordan Henderson",
+      "countryCode": "ENG"
+    },
+    {
+      "id": "eng-declan-rice",
+      "name": "Declan Rice",
+      "countryCode": "ENG"
+    },
+    {
+      "id": "eng-jude-bellingham",
+      "name": "Jude Bellingham",
+      "countryCode": "ENG"
+    },
+    {
+      "id": "eng-cole-palmer",
+      "name": "Cole Palmer",
+      "countryCode": "ENG"
+    },
+    {
+      "id": "eng-morgan-rogers",
+      "name": "Morgan Rogers",
+      "countryCode": "ENG"
+    },
+    {
+      "id": "eng-anthony-gordon",
+      "name": "Anthony Gordon",
+      "countryCode": "ENG"
+    },
+    {
+      "id": "eng-phil-foden",
+      "name": "Phil Foden",
+      "countryCode": "ENG"
+    },
+    {
+      "id": "eng-bukayo-saka",
+      "name": "Bukayo Saka",
+      "countryCode": "ENG"
+    },
+    {
+      "id": "eng-harry-kane",
+      "name": "Harry Kane",
+      "countryCode": "ENG"
+    },
+    {
+      "id": "eng-marcus-rashford",
+      "name": "Marcus Rashford",
+      "countryCode": "ENG"
+    },
+    {
+      "id": "eng-ollie-watkins",
+      "name": "Ollie Watkins",
+      "countryCode": "ENG"
+    },
+    {
+      "id": "esp-unai-simon",
+      "name": "Unai Simón",
+      "countryCode": "ESP"
+    },
+    {
+      "id": "esp-robin-le-normand",
+      "name": "Robin Le Normand",
+      "countryCode": "ESP"
+    },
+    {
+      "id": "esp-aymeric-laporte",
+      "name": "Aymeric Laporte",
+      "countryCode": "ESP"
+    },
+    {
+      "id": "esp-dean-huijsen",
+      "name": "Dean Huijsen",
+      "countryCode": "ESP"
+    },
+    {
+      "id": "esp-pedro-porro",
+      "name": "Pedro Porro",
+      "countryCode": "ESP"
+    },
+    {
+      "id": "esp-dani-carvajal",
+      "name": "Dani Carvajal",
+      "countryCode": "ESP"
+    },
+    {
+      "id": "esp-marc-cucurella",
+      "name": "Marc Cucurella",
+      "countryCode": "ESP"
+    },
+    {
+      "id": "esp-martin-zubimendi",
+      "name": "Martín Zubimendi",
+      "countryCode": "ESP"
+    },
+    {
+      "id": "esp-rodri",
+      "name": "Rodri",
+      "countryCode": "ESP"
+    },
+    {
+      "id": "esp-pedri",
+      "name": "Pedri",
+      "countryCode": "ESP"
+    },
+    {
+      "id": "esp-fabian-ruiz",
+      "name": "Fabián Ruiz",
+      "countryCode": "ESP"
+    },
+    {
+      "id": "esp-mikel-merino",
+      "name": "Mikel Merino",
+      "countryCode": "ESP"
+    },
+    {
+      "id": "esp-lamine-yamal",
+      "name": "Lamine Yamal",
+      "countryCode": "ESP"
+    },
+    {
+      "id": "esp-dani-olmo",
+      "name": "Dani Olmo",
+      "countryCode": "ESP"
+    },
+    {
+      "id": "esp-nico-williams",
+      "name": "Nico Williams",
+      "countryCode": "ESP"
+    },
+    {
+      "id": "esp-ferran-torres",
+      "name": "Ferran Torres",
+      "countryCode": "ESP"
+    },
+    {
+      "id": "esp-alvaro-morata",
+      "name": "Álvaro Morata",
+      "countryCode": "ESP"
+    },
+    {
+      "id": "esp-mikel-oyarzabal",
+      "name": "Mikel Oyarzabal",
+      "countryCode": "ESP"
+    },
+    {
+      "id": "fra-mike-maignan",
+      "name": "Mike Maignan",
+      "countryCode": "FRA"
+    },
+    {
+      "id": "fra-theo-hernandez",
+      "name": "Theo Hernández",
+      "countryCode": "FRA"
+    },
+    {
+      "id": "fra-william-saliba",
+      "name": "William Saliba",
+      "countryCode": "FRA"
+    },
+    {
+      "id": "fra-jules-kounde",
+      "name": "Jules Koundé",
+      "countryCode": "FRA"
+    },
+    {
+      "id": "fra-ibrahima-konate",
+      "name": "Ibrahima Konaté",
+      "countryCode": "FRA"
+    },
+    {
+      "id": "fra-dayot-upamecano",
+      "name": "Dayot Upamecano",
+      "countryCode": "FRA"
+    },
+    {
+      "id": "fra-lucas-digne",
+      "name": "Lucas Digne",
+      "countryCode": "FRA"
+    },
+    {
+      "id": "fra-aurelien-tchouameni",
+      "name": "Aurélien Tchouaméni",
+      "countryCode": "FRA"
+    },
+    {
+      "id": "fra-eduardo-camavinga",
+      "name": "Eduardo Camavinga",
+      "countryCode": "FRA"
+    },
+    {
+      "id": "fra-manu-kone",
+      "name": "Manu Koné",
+      "countryCode": "FRA"
+    },
+    {
+      "id": "fra-adrien-rabiot",
+      "name": "Adrien Rabiot",
+      "countryCode": "FRA"
+    },
+    {
+      "id": "fra-michael-olise",
+      "name": "Michael Olise",
+      "countryCode": "FRA"
+    },
+    {
+      "id": "fra-ousmane-dembele",
+      "name": "Ousmane Dembélé",
+      "countryCode": "FRA"
+    },
+    {
+      "id": "fra-bradley-barcola",
+      "name": "Bradley Barcola",
+      "countryCode": "FRA"
+    },
+    {
+      "id": "fra-desire-doue",
+      "name": "Désiré Doué",
+      "countryCode": "FRA"
+    },
+    {
+      "id": "fra-kingsley-coman",
+      "name": "Kingsley Coman",
+      "countryCode": "FRA"
+    },
+    {
+      "id": "fra-hugo-ekitike",
+      "name": "Hugo Ekitike",
+      "countryCode": "FRA"
+    },
+    {
+      "id": "fra-kylian-mbappe",
+      "name": "Kylian Mbappé",
+      "countryCode": "FRA"
+    },
+    {
+      "id": "ger-marc-andre-ter-stegen",
+      "name": "Marc-André ter Stegen",
+      "countryCode": "GER"
+    },
+    {
+      "id": "ger-jonathan-tah",
+      "name": "Jonathan Tah",
+      "countryCode": "GER"
+    },
+    {
+      "id": "ger-david-raum",
+      "name": "David Raum",
+      "countryCode": "GER"
+    },
+    {
+      "id": "ger-nico-schlotterbeck",
+      "name": "Nico Schlotterbeck",
+      "countryCode": "GER"
+    },
+    {
+      "id": "ger-antonio-rudiger",
+      "name": "Antonio Rüdiger",
+      "countryCode": "GER"
+    },
+    {
+      "id": "ger-waldemar-anton",
+      "name": "Waldemar Anton",
+      "countryCode": "GER"
+    },
+    {
+      "id": "ger-ridle-baku",
+      "name": "Ridle Baku",
+      "countryCode": "GER"
+    },
+    {
+      "id": "ger-maximilian-mittelstadt",
+      "name": "Maximilian Mittelstädt",
+      "countryCode": "GER"
+    },
+    {
+      "id": "ger-joshua-kimmich",
+      "name": "Joshua Kimmich",
+      "countryCode": "GER"
+    },
+    {
+      "id": "ger-florian-wirtz",
+      "name": "Florian Wirtz",
+      "countryCode": "GER"
+    },
+    {
+      "id": "ger-felix-nmecha",
+      "name": "Felix Nmecha",
+      "countryCode": "GER"
+    },
+    {
+      "id": "ger-leon-goretzka",
+      "name": "Leon Goretzka",
+      "countryCode": "GER"
+    },
+    {
+      "id": "ger-jamal-musiala",
+      "name": "Jamal Musiala",
+      "countryCode": "GER"
+    },
+    {
+      "id": "ger-serge-gnabry",
+      "name": "Serge Gnabry",
+      "countryCode": "GER"
+    },
+    {
+      "id": "ger-kai-havertz",
+      "name": "Kai Havertz",
+      "countryCode": "GER"
+    },
+    {
+      "id": "ger-leroy-sane",
+      "name": "Leroy Sané",
+      "countryCode": "GER"
+    },
+    {
+      "id": "ger-karim-adeyemi",
+      "name": "Karim Adeyemi",
+      "countryCode": "GER"
+    },
+    {
+      "id": "ger-nick-woltemade",
+      "name": "Nick Woltemade",
+      "countryCode": "GER"
+    },
+    {
+      "id": "gha-lawrence-ati-zigi",
+      "name": "Lawrence Ati Zigi",
+      "countryCode": "GHA"
+    },
+    {
+      "id": "gha-tariq-lamptey",
+      "name": "Tariq Lamptey",
+      "countryCode": "GHA"
+    },
+    {
+      "id": "gha-mohammed-salisu",
+      "name": "Mohammed Salisu",
+      "countryCode": "GHA"
+    },
+    {
+      "id": "gha-alidu-seidu",
+      "name": "Alidu Seidu",
+      "countryCode": "GHA"
+    },
+    {
+      "id": "gha-alexander-djiku",
+      "name": "Alexander Djiku",
+      "countryCode": "GHA"
+    },
+    {
+      "id": "gha-gideon-mensah",
+      "name": "Gideon Mensah",
+      "countryCode": "GHA"
+    },
+    {
+      "id": "gha-caleb-yirenkyi",
+      "name": "Caleb Yirenkyi",
+      "countryCode": "GHA"
+    },
+    {
+      "id": "gha-abdul-fatawu-issahaku",
+      "name": "Abdul Fatawu Issahaku",
+      "countryCode": "GHA"
+    },
+    {
+      "id": "gha-thomas-partey",
+      "name": "Thomas Partey",
+      "countryCode": "GHA"
+    },
+    {
+      "id": "gha-salis-abdul-samed",
+      "name": "Salis Abdul Samed",
+      "countryCode": "GHA"
+    },
+    {
+      "id": "gha-kamaldeen-sulemana",
+      "name": "Kamaldeen Sulemana",
+      "countryCode": "GHA"
+    },
+    {
+      "id": "gha-mohammed-kudus",
+      "name": "Mohammed Kudus",
+      "countryCode": "GHA"
+    },
+    {
+      "id": "gha-inaki-williams",
+      "name": "Iñaki Williams",
+      "countryCode": "GHA"
+    },
+    {
+      "id": "gha-jordan-ayew",
+      "name": "Jordan Ayew",
+      "countryCode": "GHA"
+    },
+    {
+      "id": "gha-andre-ayew",
+      "name": "André Ayew",
+      "countryCode": "GHA"
+    },
+    {
+      "id": "gha-joseph-paintsil",
+      "name": "Joseph Paintsil",
+      "countryCode": "GHA"
+    },
+    {
+      "id": "gha-osman-bukari",
+      "name": "Osman Bukari",
+      "countryCode": "GHA"
+    },
+    {
+      "id": "gha-antoine-semenyo",
+      "name": "Antoine Semenyo",
+      "countryCode": "GHA"
+    },
+    {
+      "id": "hai-johny-placide",
+      "name": "Johny Placide",
+      "countryCode": "HAI"
+    },
+    {
+      "id": "hai-carlens-arcus",
+      "name": "Carlens Arcus",
+      "countryCode": "HAI"
+    },
+    {
+      "id": "hai-martin-experience",
+      "name": "Martin Expérience",
+      "countryCode": "HAI"
+    },
+    {
+      "id": "hai-jean-kevin-duverne",
+      "name": "Jean-Kevin Duverne",
+      "countryCode": "HAI"
+    },
+    {
+      "id": "hai-ricardo-ade",
+      "name": "Ricardo Adé",
+      "countryCode": "HAI"
+    },
+    {
+      "id": "hai-duke-lacroix",
+      "name": "Duke Lacroix",
+      "countryCode": "HAI"
+    },
+    {
+      "id": "hai-garven-metusala",
+      "name": "Garven Metusala",
+      "countryCode": "HAI"
+    },
+    {
+      "id": "hai-hannes-delcroix",
+      "name": "Hannes Delcroix",
+      "countryCode": "HAI"
+    },
+    {
+      "id": "hai-leverton-pierre",
+      "name": "Leverton Pierre",
+      "countryCode": "HAI"
+    },
+    {
+      "id": "hai-danley-jean-jacques",
+      "name": "Danley Jean Jacques",
+      "countryCode": "HAI"
+    },
+    {
+      "id": "hai-jean-ricner-bellegarde",
+      "name": "Jean-Ricner Bellegarde",
+      "countryCode": "HAI"
+    },
+    {
+      "id": "hai-christopher-attys",
+      "name": "Christopher Attys",
+      "countryCode": "HAI"
+    },
+    {
+      "id": "hai-derrick-etienne-jr",
+      "name": "Derrick Etienne Jr.",
+      "countryCode": "HAI"
+    },
+    {
+      "id": "hai-josue-casimir",
+      "name": "Josué Casimir",
+      "countryCode": "HAI"
+    },
+    {
+      "id": "hai-ruben-providence",
+      "name": "Ruben Providence",
+      "countryCode": "HAI"
+    },
+    {
+      "id": "hai-duckens-nazon",
+      "name": "Duckens Nazon",
+      "countryCode": "HAI"
+    },
+    {
+      "id": "hai-louicius-deedson",
+      "name": "Louicius Deedson",
+      "countryCode": "HAI"
+    },
+    {
+      "id": "hai-frantzdy-pierrot",
+      "name": "Frantzdy Pierrot",
+      "countryCode": "HAI"
+    },
+    {
+      "id": "irn-alireza-beiranvand",
+      "name": "Alireza Beiranvand",
+      "countryCode": "IRN"
+    },
+    {
+      "id": "irn-morteza-pouraliganji",
+      "name": "Morteza Pouraliganji",
+      "countryCode": "IRN"
+    },
+    {
+      "id": "irn-ehsan-hajsafi",
+      "name": "Ehsan Hajsafi",
+      "countryCode": "IRN"
+    },
+    {
+      "id": "irn-milad-mohammadi",
+      "name": "Milad Mohammadi",
+      "countryCode": "IRN"
+    },
+    {
+      "id": "irn-shoja-khalilzadeh",
+      "name": "Shoja Khalilzadeh",
+      "countryCode": "IRN"
+    },
+    {
+      "id": "irn-ramin-rezaeian",
+      "name": "Ramin Rezaeian",
+      "countryCode": "IRN"
+    },
+    {
+      "id": "irn-hossein-kanaani",
+      "name": "Hossein Kanaani",
+      "countryCode": "IRN"
+    },
+    {
+      "id": "irn-sadegh-moharrami",
+      "name": "Sadegh Moharrami",
+      "countryCode": "IRN"
+    },
+    {
+      "id": "irn-saleh-hardani",
+      "name": "Saleh Hardani",
+      "countryCode": "IRN"
+    },
+    {
+      "id": "irn-saeed-ezatolahi",
+      "name": "Saeed Ezatolahi",
+      "countryCode": "IRN"
+    },
+    {
+      "id": "irn-saman-ghoddos",
+      "name": "Saman Ghoddos",
+      "countryCode": "IRN"
+    },
+    {
+      "id": "irn-omid-noorafkan",
+      "name": "Omid Noorafkan",
+      "countryCode": "IRN"
+    },
+    {
+      "id": "irn-roozbeh-cheshmi",
+      "name": "Roozbeh Cheshmi",
+      "countryCode": "IRN"
+    },
+    {
+      "id": "irn-mohammad-mohebi",
+      "name": "Mohammad Mohebi",
+      "countryCode": "IRN"
+    },
+    {
+      "id": "irn-sardar-azmoun",
+      "name": "Sardar Azmoun",
+      "countryCode": "IRN"
+    },
+    {
+      "id": "irn-mehdi-taremi",
+      "name": "Mehdi Taremi",
+      "countryCode": "IRN"
+    },
+    {
+      "id": "irn-alireza-jahanbakhsh",
+      "name": "Alireza Jahanbakhsh",
+      "countryCode": "IRN"
+    },
+    {
+      "id": "irn-ali-gholizadeh",
+      "name": "Ali Gholizadeh",
+      "countryCode": "IRN"
+    },
+    {
+      "id": "irq-jalal-hassan",
+      "name": "Jalal Hassan",
+      "countryCode": "IRQ"
+    },
+    {
+      "id": "irq-rebin-sulaka",
+      "name": "Rebin Sulaka",
+      "countryCode": "IRQ"
+    },
+    {
+      "id": "irq-hussein-ali",
+      "name": "Hussein Ali",
+      "countryCode": "IRQ"
+    },
+    {
+      "id": "irq-akam-hashem",
+      "name": "Akam Hashem",
+      "countryCode": "IRQ"
+    },
+    {
+      "id": "irq-merchas-doski",
+      "name": "Merchas Doski",
+      "countryCode": "IRQ"
+    },
+    {
+      "id": "irq-zaid-tahseen",
+      "name": "Zaid Tahseen",
+      "countryCode": "IRQ"
+    },
+    {
+      "id": "irq-manaf-younis",
+      "name": "Manaf Younis",
+      "countryCode": "IRQ"
+    },
+    {
+      "id": "irq-zidane-iqbal",
+      "name": "Zidane Iqbal",
+      "countryCode": "IRQ"
+    },
+    {
+      "id": "irq-amir-al-ammari",
+      "name": "Amir Al-Ammari",
+      "countryCode": "IRQ"
+    },
+    {
+      "id": "irq-ibrahim-bayesh",
+      "name": "Ibrahim Bayesh",
+      "countryCode": "IRQ"
+    },
+    {
+      "id": "irq-ali-jasim",
+      "name": "Ali Jasim",
+      "countryCode": "IRQ"
+    },
+    {
+      "id": "irq-youssef-amyn",
+      "name": "Youssef Amyn",
+      "countryCode": "IRQ"
+    },
+    {
+      "id": "irq-aimar-sher",
+      "name": "Aimar Sher",
+      "countryCode": "IRQ"
+    },
+    {
+      "id": "irq-marko-farji",
+      "name": "Marko Farji",
+      "countryCode": "IRQ"
+    },
+    {
+      "id": "irq-osama-rashid",
+      "name": "Osama Rashid",
+      "countryCode": "IRQ"
+    },
+    {
+      "id": "irq-ali-al-hamadi",
+      "name": "Ali Al-Hamadi",
+      "countryCode": "IRQ"
+    },
+    {
+      "id": "irq-aymen-hussein",
+      "name": "Aymen Hussein",
+      "countryCode": "IRQ"
+    },
+    {
+      "id": "irq-mohanad-ali",
+      "name": "Mohanad Ali",
+      "countryCode": "IRQ"
+    },
+    {
+      "id": "jor-yazeed-abulaila",
+      "name": "Yazeed Abulaila",
+      "countryCode": "JOR"
+    },
+    {
+      "id": "jor-ihsan-haddad",
+      "name": "Ihsan Haddad",
+      "countryCode": "JOR"
+    },
+    {
+      "id": "jor-mohammad-abu-hashish",
+      "name": "Mohammad Abu Hashish",
+      "countryCode": "JOR"
+    },
+    {
+      "id": "jor-yazan-al-arab",
+      "name": "Yazan Al-Arab",
+      "countryCode": "JOR"
+    },
+    {
+      "id": "jor-abdallah-nasib",
+      "name": "Abdallah Nasib",
+      "countryCode": "JOR"
+    },
+    {
+      "id": "jor-saleem-obaid",
+      "name": "Saleem Obaid",
+      "countryCode": "JOR"
+    },
+    {
+      "id": "jor-mohammad-abualnadi",
+      "name": "Mohammad Abualnadi",
+      "countryCode": "JOR"
+    },
+    {
+      "id": "jor-ibrahim-saadeh",
+      "name": "Ibrahim Saadeh",
+      "countryCode": "JOR"
+    },
+    {
+      "id": "jor-nizar-al-rashdan",
+      "name": "Nizar Al-Rashdan",
+      "countryCode": "JOR"
+    },
+    {
+      "id": "jor-noor-al-rawabdeh",
+      "name": "Noor Al-Rawabdeh",
+      "countryCode": "JOR"
+    },
+    {
+      "id": "jor-mohannad-abu-taha",
+      "name": "Mohannad Abu Taha",
+      "countryCode": "JOR"
+    },
+    {
+      "id": "jor-amer-jamous",
+      "name": "Amer Jamous",
+      "countryCode": "JOR"
+    },
+    {
+      "id": "jor-musa-al-taamari",
+      "name": "Musa Al-Taamari",
+      "countryCode": "JOR"
+    },
+    {
+      "id": "jor-yazan-al-naimat",
+      "name": "Yazan Al-Naimat",
+      "countryCode": "JOR"
+    },
+    {
+      "id": "jor-mahmoud-al-mardi",
+      "name": "Mahmoud Al-Mardi",
+      "countryCode": "JOR"
+    },
+    {
+      "id": "jor-ali-olwan",
+      "name": "Ali Olwan",
+      "countryCode": "JOR"
+    },
+    {
+      "id": "jor-mohammad-abu-zrayq",
+      "name": "Mohammad Abu Zrayq",
+      "countryCode": "JOR"
+    },
+    {
+      "id": "jor-ibrahim-sabra",
+      "name": "Ibrahim Sabra",
+      "countryCode": "JOR"
+    },
+    {
+      "id": "jpn-zion-suzuki",
+      "name": "Zion Suzuki",
+      "countryCode": "JPN"
+    },
+    {
+      "id": "jpn-henry-heroki-mochizuki",
+      "name": "Henry Heroki Mochizuki",
+      "countryCode": "JPN"
+    },
+    {
+      "id": "jpn-ayumu-seko",
+      "name": "Ayumu Seko",
+      "countryCode": "JPN"
+    },
+    {
+      "id": "jpn-junnosuke-suzuki",
+      "name": "Junnosuke Suzuki",
+      "countryCode": "JPN"
+    },
+    {
+      "id": "jpn-shogo-taniguchi",
+      "name": "Shogo Taniguchi",
+      "countryCode": "JPN"
+    },
+    {
+      "id": "jpn-tsuyoshi-watanabe",
+      "name": "Tsuyoshi Watanabe",
+      "countryCode": "JPN"
+    },
+    {
+      "id": "jpn-kaishu-sano",
+      "name": "Kaishu Sano",
+      "countryCode": "JPN"
+    },
+    {
+      "id": "jpn-yuki-soma",
+      "name": "Yuki Soma",
+      "countryCode": "JPN"
+    },
+    {
+      "id": "jpn-ao-tanaka",
+      "name": "Ao Tanaka",
+      "countryCode": "JPN"
+    },
+    {
+      "id": "jpn-daichi-kamada",
+      "name": "Daichi Kamada",
+      "countryCode": "JPN"
+    },
+    {
+      "id": "jpn-takefusa-kubo",
+      "name": "Takefusa Kubo",
+      "countryCode": "JPN"
+    },
+    {
+      "id": "jpn-ritsu-doan",
+      "name": "Ritsu Doan",
+      "countryCode": "JPN"
+    },
+    {
+      "id": "jpn-keito-nakamura",
+      "name": "Keito Nakamura",
+      "countryCode": "JPN"
+    },
+    {
+      "id": "jpn-takumi-minamino",
+      "name": "Takumi Minamino",
+      "countryCode": "JPN"
+    },
+    {
+      "id": "jpn-shuto-machino",
+      "name": "Shuto Machino",
+      "countryCode": "JPN"
+    },
+    {
+      "id": "jpn-junya-ito",
+      "name": "Junya Ito",
+      "countryCode": "JPN"
+    },
+    {
+      "id": "jpn-koki-ogawa",
+      "name": "Koki Ogawa",
+      "countryCode": "JPN"
+    },
+    {
+      "id": "jpn-ayase-ueda",
+      "name": "Ayase Ueda",
+      "countryCode": "JPN"
+    },
+    {
+      "id": "kor-hyeon-woo-jo",
+      "name": "Hyeon-woo Jo",
+      "countryCode": "KOR"
+    },
+    {
+      "id": "kor-seung-gyu-kim",
+      "name": "Seung-Gyu Kim",
+      "countryCode": "KOR"
+    },
+    {
+      "id": "kor-min-jae-kim",
+      "name": "Min-jae Kim",
+      "countryCode": "KOR"
+    },
+    {
+      "id": "kor-yu-min-cho",
+      "name": "Yu-min Cho",
+      "countryCode": "KOR"
+    },
+    {
+      "id": "kor-young-woo-seol",
+      "name": "Young-woo Seol",
+      "countryCode": "KOR"
+    },
+    {
+      "id": "kor-han-beom-lee",
+      "name": "Han-beom Lee",
+      "countryCode": "KOR"
+    },
+    {
+      "id": "kor-tae-seok-lee",
+      "name": "Tae-seok Lee",
+      "countryCode": "KOR"
+    },
+    {
+      "id": "kor-myung-jae-lee",
+      "name": "Myung-jae Lee",
+      "countryCode": "KOR"
+    },
+    {
+      "id": "kor-jae-sung-lee",
+      "name": "Jae-sung Lee",
+      "countryCode": "KOR"
+    },
+    {
+      "id": "kor-in-beom-hwang",
+      "name": "In-beom Hwang",
+      "countryCode": "KOR"
+    },
+    {
+      "id": "kor-kang-in-lee",
+      "name": "Kang-in Lee",
+      "countryCode": "KOR"
+    },
+    {
+      "id": "kor-seung-ho-paik",
+      "name": "Seung-ho Paik",
+      "countryCode": "KOR"
+    },
+    {
+      "id": "kor-jens-castrop",
+      "name": "Jens Castrop",
+      "countryCode": "KOR"
+    },
+    {
+      "id": "kor-dong-gyeong-lee",
+      "name": "Dong-gyeong Lee",
+      "countryCode": "KOR"
+    },
+    {
+      "id": "kor-gue-sung-cho",
+      "name": "Gue-sung Cho",
+      "countryCode": "KOR"
+    },
+    {
+      "id": "kor-heung-min-son",
+      "name": "Heung-min Son",
+      "countryCode": "KOR"
+    },
+    {
+      "id": "kor-hee-chan-hwang",
+      "name": "Hee-chan Hwang",
+      "countryCode": "KOR"
+    },
+    {
+      "id": "kor-hyeon-gyu-oh",
+      "name": "Hyeon-Gyu Oh",
+      "countryCode": "KOR"
+    },
+    {
+      "id": "mar-yassine-bounou",
+      "name": "Yassine Bounou",
+      "countryCode": "MAR"
+    },
+    {
+      "id": "mar-munir-el-kajoui",
+      "name": "Munir El Kajoui",
+      "countryCode": "MAR"
+    },
+    {
+      "id": "mar-achraf-hakimi",
+      "name": "Achraf Hakimi",
+      "countryCode": "MAR"
+    },
+    {
+      "id": "mar-noussair-mazraoui",
+      "name": "Noussair Mazraoui",
+      "countryCode": "MAR"
+    },
+    {
+      "id": "mar-nayef-aguerd",
+      "name": "Nayef Aguerd",
+      "countryCode": "MAR"
+    },
+    {
+      "id": "mar-romain-saiss",
+      "name": "Romain Saïss",
+      "countryCode": "MAR"
+    },
+    {
+      "id": "mar-jawad-el-yamiq",
+      "name": "Jawad El Yamiq",
+      "countryCode": "MAR"
+    },
+    {
+      "id": "mar-adam-masina",
+      "name": "Adam Masina",
+      "countryCode": "MAR"
+    },
+    {
+      "id": "mar-sofyan-amrabat",
+      "name": "Sofyan Amrabat",
+      "countryCode": "MAR"
+    },
+    {
+      "id": "mar-azzedine-ounahi",
+      "name": "Azzedine Ounahi",
+      "countryCode": "MAR"
+    },
+    {
+      "id": "mar-eliesse-ben-seghir",
+      "name": "Eliesse Ben Seghir",
+      "countryCode": "MAR"
+    },
+    {
+      "id": "mar-bilal-el-khannouss",
+      "name": "Bilal El Khannouss",
+      "countryCode": "MAR"
+    },
+    {
+      "id": "mar-ismael-saibari",
+      "name": "Ismael Saibari",
+      "countryCode": "MAR"
+    },
+    {
+      "id": "mar-youssef-en-nesyri",
+      "name": "Youssef En-Nesyri",
+      "countryCode": "MAR"
+    },
+    {
+      "id": "mar-abde-ezzalzouli",
+      "name": "Abde Ezzalzouli",
+      "countryCode": "MAR"
+    },
+    {
+      "id": "mar-soufiane-rahimi",
+      "name": "Soufiane Rahimi",
+      "countryCode": "MAR"
+    },
+    {
+      "id": "mar-brahim-diaz",
+      "name": "Brahim Díaz",
+      "countryCode": "MAR"
+    },
+    {
+      "id": "mar-ayoub-el-kaabi",
+      "name": "Ayoub El Kaabi",
+      "countryCode": "MAR"
+    },
+    {
+      "id": "mex-luis-malagon",
+      "name": "Luis Malagón",
+      "countryCode": "MEX"
+    },
+    {
+      "id": "mex-johan-vasquez",
+      "name": "Johan Vásquez",
+      "countryCode": "MEX"
+    },
+    {
+      "id": "mex-jorge-sanchez",
+      "name": "Jorge Sánchez",
+      "countryCode": "MEX"
+    },
+    {
+      "id": "mex-cesar-montes",
+      "name": "César Montes",
+      "countryCode": "MEX"
+    },
+    {
+      "id": "mex-jesus-gallardo",
+      "name": "Jesús Gallardo",
+      "countryCode": "MEX"
+    },
+    {
+      "id": "mex-israel-reyes",
+      "name": "Israel Reyes",
+      "countryCode": "MEX"
+    },
+    {
+      "id": "mex-diego-lainez",
+      "name": "Diego Lainez",
+      "countryCode": "MEX"
+    },
+    {
+      "id": "mex-carlos-rodriguez",
+      "name": "Carlos Rodríguez",
+      "countryCode": "MEX"
+    },
+    {
+      "id": "mex-edson-alvarez",
+      "name": "Edson Álvarez",
+      "countryCode": "MEX"
+    },
+    {
+      "id": "mex-orbelin-pineda",
+      "name": "Orbelín Pineda",
+      "countryCode": "MEX"
+    },
+    {
+      "id": "mex-marcel-ruiz",
+      "name": "Marcel Ruiz",
+      "countryCode": "MEX"
+    },
+    {
+      "id": "mex-erick-sanchez",
+      "name": "Érick Sánchez",
+      "countryCode": "MEX"
+    },
+    {
+      "id": "mex-hirving-lozano",
+      "name": "Hirving Lozano",
+      "countryCode": "MEX"
+    },
+    {
+      "id": "mex-santiago-gimenez",
+      "name": "Santiago Giménez",
+      "countryCode": "MEX"
+    },
+    {
+      "id": "mex-raul-jimenez",
+      "name": "Raúl Jiménez",
+      "countryCode": "MEX"
+    },
+    {
+      "id": "mex-alexis-vega",
+      "name": "Alexis Vega",
+      "countryCode": "MEX"
+    },
+    {
+      "id": "mex-roberto-alvarado",
+      "name": "Roberto Alvarado",
+      "countryCode": "MEX"
+    },
+    {
+      "id": "mex-cesar-huerta",
+      "name": "César Huerta",
+      "countryCode": "MEX"
+    },
+    {
+      "id": "ned-bart-verbruggen",
+      "name": "Bart Verbruggen",
+      "countryCode": "NED"
+    },
+    {
+      "id": "ned-virgil-van-dijk",
+      "name": "Virgil van Dijk",
+      "countryCode": "NED"
+    },
+    {
+      "id": "ned-micky-van-de-ven",
+      "name": "Micky van de Ven",
+      "countryCode": "NED"
+    },
+    {
+      "id": "ned-jurrien-timber",
+      "name": "Jurriën Timber",
+      "countryCode": "NED"
+    },
+    {
+      "id": "ned-denzel-dumfries",
+      "name": "Denzel Dumfries",
+      "countryCode": "NED"
+    },
+    {
+      "id": "ned-nathan-ake",
+      "name": "Nathan Aké",
+      "countryCode": "NED"
+    },
+    {
+      "id": "ned-jeremie-frimpong",
+      "name": "Jeremie Frimpong",
+      "countryCode": "NED"
+    },
+    {
+      "id": "ned-jan-paul-van-hecke",
+      "name": "Jan Paul van Hecke",
+      "countryCode": "NED"
+    },
+    {
+      "id": "ned-tijjani-reijnders",
+      "name": "Tijjani Reijnders",
+      "countryCode": "NED"
+    },
+    {
+      "id": "ned-ryan-gravenberch",
+      "name": "Ryan Gravenberch",
+      "countryCode": "NED"
+    },
+    {
+      "id": "ned-teun-koopmeiners",
+      "name": "Teun Koopmeiners",
+      "countryCode": "NED"
+    },
+    {
+      "id": "ned-frenkie-de-jong",
+      "name": "Frenkie de Jong",
+      "countryCode": "NED"
+    },
+    {
+      "id": "ned-xavi-simons",
+      "name": "Xavi Simons",
+      "countryCode": "NED"
+    },
+    {
+      "id": "ned-justin-kluivert",
+      "name": "Justin Kluivert",
+      "countryCode": "NED"
+    },
+    {
+      "id": "ned-memphis-depay",
+      "name": "Memphis Depay",
+      "countryCode": "NED"
+    },
+    {
+      "id": "ned-donyell-malen",
+      "name": "Donyell Malen",
+      "countryCode": "NED"
+    },
+    {
+      "id": "ned-wout-weghorst",
+      "name": "Wout Weghorst",
+      "countryCode": "NED"
+    },
+    {
+      "id": "ned-cody-gakpo",
+      "name": "Cody Gakpo",
+      "countryCode": "NED"
+    },
+    {
+      "id": "nor-rjan-nyland",
+      "name": "Ørjan Nyland",
+      "countryCode": "NOR"
+    },
+    {
+      "id": "nor-julian-ryerson",
+      "name": "Julian Ryerson",
+      "countryCode": "NOR"
+    },
+    {
+      "id": "nor-leo-stigard",
+      "name": "Leo Østigård",
+      "countryCode": "NOR"
+    },
+    {
+      "id": "nor-kristoffer-ajer",
+      "name": "Kristoffer Ajer",
+      "countryCode": "NOR"
+    },
+    {
+      "id": "nor-marcus-holmgren-pedersen",
+      "name": "Marcus Holmgren Pedersen",
+      "countryCode": "NOR"
+    },
+    {
+      "id": "nor-david-m-ller-wolfe",
+      "name": "David Møller Wolfe",
+      "countryCode": "NOR"
+    },
+    {
+      "id": "nor-torbj-rn-heggem",
+      "name": "Torbjørn Heggem",
+      "countryCode": "NOR"
+    },
+    {
+      "id": "nor-morten-thorsby",
+      "name": "Morten Thorsby",
+      "countryCode": "NOR"
+    },
+    {
+      "id": "nor-martin-degaard",
+      "name": "Martin Ødegaard",
+      "countryCode": "NOR"
+    },
+    {
+      "id": "nor-sander-berge",
+      "name": "Sander Berge",
+      "countryCode": "NOR"
+    },
+    {
+      "id": "nor-andreas-schjelderup",
+      "name": "Andreas Schjelderup",
+      "countryCode": "NOR"
+    },
+    {
+      "id": "nor-patrick-berg",
+      "name": "Patrick Berg",
+      "countryCode": "NOR"
+    },
+    {
+      "id": "nor-erling-haaland",
+      "name": "Erling Haaland",
+      "countryCode": "NOR"
+    },
+    {
+      "id": "nor-alexander-s-rloth",
+      "name": "Alexander Sørloth",
+      "countryCode": "NOR"
+    },
+    {
+      "id": "nor-aron-d-nnum",
+      "name": "Aron Dønnum",
+      "countryCode": "NOR"
+    },
+    {
+      "id": "nor-j-rgen-strand-larsen",
+      "name": "Jørgen Strand Larsen",
+      "countryCode": "NOR"
+    },
+    {
+      "id": "nor-antonio-nusa",
+      "name": "Antonio Nusa",
+      "countryCode": "NOR"
+    },
+    {
+      "id": "nor-oscar-bobb",
+      "name": "Oscar Bobb",
+      "countryCode": "NOR"
+    },
+    {
+      "id": "nzl-max-crocombe-payne",
+      "name": "Max Crocombe-Payne",
+      "countryCode": "NZL"
+    },
+    {
+      "id": "nzl-alex-paulsen",
+      "name": "Alex Paulsen",
+      "countryCode": "NZL"
+    },
+    {
+      "id": "nzl-michael-boxall",
+      "name": "Michael Boxall",
+      "countryCode": "NZL"
+    },
+    {
+      "id": "nzl-liberato-cacace",
+      "name": "Liberato Cacace",
+      "countryCode": "NZL"
+    },
+    {
+      "id": "nzl-tim-payne",
+      "name": "Tim Payne",
+      "countryCode": "NZL"
+    },
+    {
+      "id": "nzl-tyler-bindon",
+      "name": "Tyler Bindon",
+      "countryCode": "NZL"
+    },
+    {
+      "id": "nzl-francis-de-vries",
+      "name": "Francis de Vries",
+      "countryCode": "NZL"
+    },
+    {
+      "id": "nzl-finn-surman",
+      "name": "Finn Surman",
+      "countryCode": "NZL"
+    },
+    {
+      "id": "nzl-joe-bell",
+      "name": "Joe Bell",
+      "countryCode": "NZL"
+    },
+    {
+      "id": "nzl-sarpreet-singh",
+      "name": "Sarpreet Singh",
+      "countryCode": "NZL"
+    },
+    {
+      "id": "nzl-ryan-thomas",
+      "name": "Ryan Thomas",
+      "countryCode": "NZL"
+    },
+    {
+      "id": "nzl-matthew-garbett",
+      "name": "Matthew Garbett",
+      "countryCode": "NZL"
+    },
+    {
+      "id": "nzl-marko-stamenic",
+      "name": "Marko Stamenić",
+      "countryCode": "NZL"
+    },
+    {
+      "id": "nzl-ben-old",
+      "name": "Ben Old",
+      "countryCode": "NZL"
+    },
+    {
+      "id": "nzl-chris-wood",
+      "name": "Chris Wood",
+      "countryCode": "NZL"
+    },
+    {
+      "id": "nzl-elijah-just",
+      "name": "Elijah Just",
+      "countryCode": "NZL"
+    },
+    {
+      "id": "nzl-callum-mccowatt",
+      "name": "Callum McCowatt",
+      "countryCode": "NZL"
+    },
+    {
+      "id": "nzl-kosta-barbarouses",
+      "name": "Kosta Barbarouses",
+      "countryCode": "NZL"
+    },
+    {
+      "id": "pan-orlando-mosquera",
+      "name": "Orlando Mosquera",
+      "countryCode": "PAN"
+    },
+    {
+      "id": "pan-luis-mejia",
+      "name": "Luis Mejía",
+      "countryCode": "PAN"
+    },
+    {
+      "id": "pan-fidel-escobar",
+      "name": "Fidel Escobar",
+      "countryCode": "PAN"
+    },
+    {
+      "id": "pan-andres-andrade",
+      "name": "Andrés Andrade",
+      "countryCode": "PAN"
+    },
+    {
+      "id": "pan-michael-amir-murillo",
+      "name": "Michael Amir Murillo",
+      "countryCode": "PAN"
+    },
+    {
+      "id": "pan-eric-davis",
+      "name": "Eric Davis",
+      "countryCode": "PAN"
+    },
+    {
+      "id": "pan-jose-cordoba",
+      "name": "José Córdoba",
+      "countryCode": "PAN"
+    },
+    {
+      "id": "pan-cesar-blackman",
+      "name": "César Blackman",
+      "countryCode": "PAN"
+    },
+    {
+      "id": "pan-cristian-martinez",
+      "name": "Cristian Martínez",
+      "countryCode": "PAN"
+    },
+    {
+      "id": "pan-anibal-godoy",
+      "name": "Aníbal Godoy",
+      "countryCode": "PAN"
+    },
+    {
+      "id": "pan-adalberto-carrasquilla",
+      "name": "Adalberto Carrasquilla",
+      "countryCode": "PAN"
+    },
+    {
+      "id": "pan-edgar-barcenas",
+      "name": "Édgar Bárcenas",
+      "countryCode": "PAN"
+    },
+    {
+      "id": "pan-carlos-harvey",
+      "name": "Carlos Harvey",
+      "countryCode": "PAN"
+    },
+    {
+      "id": "pan-ismael-diaz",
+      "name": "Ismael Díaz",
+      "countryCode": "PAN"
+    },
+    {
+      "id": "pan-jose-fajardo",
+      "name": "José Fajardo",
+      "countryCode": "PAN"
+    },
+    {
+      "id": "pan-cecilio-waterman",
+      "name": "Cecilio Waterman",
+      "countryCode": "PAN"
+    },
+    {
+      "id": "pan-jose-luis-rodriguez",
+      "name": "José Luis Rodríguez",
+      "countryCode": "PAN"
+    },
+    {
+      "id": "pan-alberto-quintero",
+      "name": "Alberto Quintero",
+      "countryCode": "PAN"
+    },
+    {
+      "id": "par-roberto-fernandez",
+      "name": "Roberto Fernández",
+      "countryCode": "PAR"
+    },
+    {
+      "id": "par-orlando-gill",
+      "name": "Orlando Gill",
+      "countryCode": "PAR"
+    },
+    {
+      "id": "par-gustavo-gomez",
+      "name": "Gustavo Gómez",
+      "countryCode": "PAR"
+    },
+    {
+      "id": "par-fabian-balbuena",
+      "name": "Fabián Balbuena",
+      "countryCode": "PAR"
+    },
+    {
+      "id": "par-juan-jose-caceres",
+      "name": "Juan José Cáceres",
+      "countryCode": "PAR"
+    },
+    {
+      "id": "par-omar-alderete",
+      "name": "Omar Alderete",
+      "countryCode": "PAR"
+    },
+    {
+      "id": "par-junior-alonso",
+      "name": "Junior Alonso",
+      "countryCode": "PAR"
+    },
+    {
+      "id": "par-mathias-villasanti",
+      "name": "Mathías Villasanti",
+      "countryCode": "PAR"
+    },
+    {
+      "id": "par-diego-gomez",
+      "name": "Diego Gómez",
+      "countryCode": "PAR"
+    },
+    {
+      "id": "par-damian-bobadilla",
+      "name": "Damián Bobadilla",
+      "countryCode": "PAR"
+    },
+    {
+      "id": "par-andres-cubas",
+      "name": "Andrés Cubas",
+      "countryCode": "PAR"
+    },
+    {
+      "id": "par-matias-galarza-fonda",
+      "name": "Matías Galarza Fonda",
+      "countryCode": "PAR"
+    },
+    {
+      "id": "par-julio-enciso",
+      "name": "Julio Enciso",
+      "countryCode": "PAR"
+    },
+    {
+      "id": "por-diogo-costa",
+      "name": "Diogo Costa",
+      "countryCode": "POR"
+    },
+    {
+      "id": "por-jose-sa",
+      "name": "Jose Sa",
+      "countryCode": "POR"
+    },
+    {
+      "id": "por-ruben-dias",
+      "name": "Ruben Dias",
+      "countryCode": "POR"
+    },
+    {
+      "id": "por-joao-cancelo",
+      "name": "João Cancelo",
+      "countryCode": "POR"
+    },
+    {
+      "id": "por-diogo-dalot",
+      "name": "Diogo Dalot",
+      "countryCode": "POR"
+    },
+    {
+      "id": "por-nuno-mendes",
+      "name": "Nuno Mendes",
+      "countryCode": "POR"
+    },
+    {
+      "id": "por-goncalo-inacio",
+      "name": "Gonçalo Inácio",
+      "countryCode": "POR"
+    },
+    {
+      "id": "por-bernardo-silva",
+      "name": "Bernardo Silva",
+      "countryCode": "POR"
+    },
+    {
+      "id": "por-bruno-fernandes",
+      "name": "Bruno Fernandes",
+      "countryCode": "POR"
+    },
+    {
+      "id": "por-ruben-neves",
+      "name": "Ruben Neves",
+      "countryCode": "POR"
+    },
+    {
+      "id": "por-vitinha",
+      "name": "Vitinha",
+      "countryCode": "POR"
+    },
+    {
+      "id": "por-joao-neves",
+      "name": "João Neves",
+      "countryCode": "POR"
+    },
+    {
+      "id": "por-cristiano-ronaldo",
+      "name": "Cristiano Ronaldo",
+      "countryCode": "POR"
+    },
+    {
+      "id": "por-francisco-trincao",
+      "name": "Francisco Trincão",
+      "countryCode": "POR"
+    },
+    {
+      "id": "por-joao-felix",
+      "name": "João Felix",
+      "countryCode": "POR"
+    },
+    {
+      "id": "por-goncalo-ramos",
+      "name": "Gonçalo Ramos",
+      "countryCode": "POR"
+    },
+    {
+      "id": "por-pedro-neto",
+      "name": "Pedro Neto",
+      "countryCode": "POR"
+    },
+    {
+      "id": "por-rafael-leao",
+      "name": "Rafael Leão",
+      "countryCode": "POR"
+    },
+    {
+      "id": "qat-meshaal-barsham",
+      "name": "Meshaal Barsham",
+      "countryCode": "QAT"
+    },
+    {
+      "id": "qat-sultan-albrake",
+      "name": "Sultan Albrake",
+      "countryCode": "QAT"
+    },
+    {
+      "id": "qat-lucas-mendes",
+      "name": "Lucas Mendes",
+      "countryCode": "QAT"
+    },
+    {
+      "id": "qat-homam-ahmed",
+      "name": "Homam Ahmed",
+      "countryCode": "QAT"
+    },
+    {
+      "id": "qat-boualem-khoukhi",
+      "name": "Boualem Khoukhi",
+      "countryCode": "QAT"
+    },
+    {
+      "id": "qat-pedro-miguel",
+      "name": "Pedro Miguel",
+      "countryCode": "QAT"
+    },
+    {
+      "id": "qat-tarek-salman",
+      "name": "Tarek Salman",
+      "countryCode": "QAT"
+    },
+    {
+      "id": "qat-mohamed-al-mannai",
+      "name": "Mohamed Al-Mannai",
+      "countryCode": "QAT"
+    },
+    {
+      "id": "qat-karim-boudiaf",
+      "name": "Karim Boudiaf",
+      "countryCode": "QAT"
+    },
+    {
+      "id": "qat-assim-madibo",
+      "name": "Assim Madibo",
+      "countryCode": "QAT"
+    },
+    {
+      "id": "qat-ahmed-fatehi",
+      "name": "Ahmed Fatehi",
+      "countryCode": "QAT"
+    },
+    {
+      "id": "qat-mohammed-waad",
+      "name": "Mohammed Waad",
+      "countryCode": "QAT"
+    },
+    {
+      "id": "qat-abdulaziz-hatem",
+      "name": "Abdulaziz Hatem",
+      "countryCode": "QAT"
+    },
+    {
+      "id": "qat-hassan-al-haydos",
+      "name": "Hassan Al-Haydos",
+      "countryCode": "QAT"
+    },
+    {
+      "id": "qat-edmilson-junior",
+      "name": "Edmilson Junior",
+      "countryCode": "QAT"
+    },
+    {
+      "id": "qat-akram-hassan-afif",
+      "name": "Akram Hassan Afif",
+      "countryCode": "QAT"
+    },
+    {
+      "id": "qat-ahmed-al-ganehi",
+      "name": "Ahmed Al Ganehi",
+      "countryCode": "QAT"
+    },
+    {
+      "id": "qat-almoez-ali",
+      "name": "Almoez Ali",
+      "countryCode": "QAT"
+    },
+    {
+      "id": "ksa-nawaf-alaqidi",
+      "name": "Nawaf Alaqidi",
+      "countryCode": "KSA"
+    },
+    {
+      "id": "ksa-abdulrahman-al-sanbi",
+      "name": "Abdulrahman Al-Sanbi",
+      "countryCode": "KSA"
+    },
+    {
+      "id": "ksa-saud-abdulhamid",
+      "name": "Saud Abdulhamid",
+      "countryCode": "KSA"
+    },
+    {
+      "id": "ksa-nawaf-boushal",
+      "name": "Nawaf Boushal",
+      "countryCode": "KSA"
+    },
+    {
+      "id": "ksa-jihad-thakri",
+      "name": "Jihad Thakri",
+      "countryCode": "KSA"
+    },
+    {
+      "id": "ksa-moteb-al-harbi",
+      "name": "Moteb Al-Harbi",
+      "countryCode": "KSA"
+    },
+    {
+      "id": "ksa-hassan-altambakti",
+      "name": "Hassan Altambakti",
+      "countryCode": "KSA"
+    },
+    {
+      "id": "ksa-musab-aljuwayr",
+      "name": "Musab Aljuwayr",
+      "countryCode": "KSA"
+    },
+    {
+      "id": "ksa-ziyad-aljohani",
+      "name": "Ziyad Aljohani",
+      "countryCode": "KSA"
+    },
+    {
+      "id": "ksa-abdullah-alkhaibari",
+      "name": "Abdullah Alkhaibari",
+      "countryCode": "KSA"
+    },
+    {
+      "id": "ksa-nasser-aldawsari",
+      "name": "Nasser Aldawsari",
+      "countryCode": "KSA"
+    },
+    {
+      "id": "ksa-saleh-abu-alshamat",
+      "name": "Saleh Abu Alshamat",
+      "countryCode": "KSA"
+    },
+    {
+      "id": "ksa-marwan-alsahafi",
+      "name": "Marwan Alsahafi",
+      "countryCode": "KSA"
+    },
+    {
+      "id": "ksa-salem-aldawsari",
+      "name": "Salem Aldawsari",
+      "countryCode": "KSA"
+    },
+    {
+      "id": "ksa-abdulrahman-al-aboud",
+      "name": "Abdulrahman Al-Aboud",
+      "countryCode": "KSA"
+    },
+    {
+      "id": "ksa-feras-albrikan",
+      "name": "Feras Albrikan",
+      "countryCode": "KSA"
+    },
+    {
+      "id": "ksa-saleh-alshehri",
+      "name": "Saleh Alshehri",
+      "countryCode": "KSA"
+    },
+    {
+      "id": "ksa-abdullah-al-hamdan",
+      "name": "Abdullah Al-Hamdan",
+      "countryCode": "KSA"
+    },
+    {
+      "id": "sco-angus-gunn",
+      "name": "Angus Gunn",
+      "countryCode": "SCO"
+    },
+    {
+      "id": "sco-jack-hendry",
+      "name": "Jack Hendry",
+      "countryCode": "SCO"
+    },
+    {
+      "id": "sco-kieran-tierney",
+      "name": "Kieran Tierney",
+      "countryCode": "SCO"
+    },
+    {
+      "id": "sco-aaron-hickey",
+      "name": "Aaron Hickey",
+      "countryCode": "SCO"
+    },
+    {
+      "id": "sco-andrew-robertson",
+      "name": "Andrew Robertson",
+      "countryCode": "SCO"
+    },
+    {
+      "id": "sco-scott-mckenna",
+      "name": "Scott McKenna",
+      "countryCode": "SCO"
+    },
+    {
+      "id": "sco-john-souttar",
+      "name": "John Souttar",
+      "countryCode": "SCO"
+    },
+    {
+      "id": "sco-anthony-ralston",
+      "name": "Anthony Ralston",
+      "countryCode": "SCO"
+    },
+    {
+      "id": "sco-grant-hanley",
+      "name": "Grant Hanley",
+      "countryCode": "SCO"
+    },
+    {
+      "id": "sco-scott-mctominay",
+      "name": "Scott McTominay",
+      "countryCode": "SCO"
+    },
+    {
+      "id": "sco-billy-gilmour",
+      "name": "Billy Gilmour",
+      "countryCode": "SCO"
+    },
+    {
+      "id": "sco-lewis-ferguson",
+      "name": "Lewis Ferguson",
+      "countryCode": "SCO"
+    },
+    {
+      "id": "sco-ryan-christie",
+      "name": "Ryan Christie",
+      "countryCode": "SCO"
+    },
+    {
+      "id": "sco-kenny-mclean",
+      "name": "Kenny McLean",
+      "countryCode": "SCO"
+    },
+    {
+      "id": "sco-john-mcginn",
+      "name": "John McGinn",
+      "countryCode": "SCO"
+    },
+    {
+      "id": "sco-lyndon-dykes",
+      "name": "Lyndon Dykes",
+      "countryCode": "SCO"
+    },
+    {
+      "id": "sco-che-adams",
+      "name": "Che Adams",
+      "countryCode": "SCO"
+    },
+    {
+      "id": "sco-ben-gannon-doak",
+      "name": "Ben Gannon-Doak",
+      "countryCode": "SCO"
+    },
+    {
+      "id": "sen-eduardo-mendy",
+      "name": "Eduardo Mendy",
+      "countryCode": "SEN"
+    },
+    {
+      "id": "sen-yehvann-diouf",
+      "name": "Yehvann Diouf",
+      "countryCode": "SEN"
+    },
+    {
+      "id": "sen-moussa-niakhate",
+      "name": "Moussa Niakhaté",
+      "countryCode": "SEN"
+    },
+    {
+      "id": "sen-abdoulaye-seck",
+      "name": "Abdoulaye Seck",
+      "countryCode": "SEN"
+    },
+    {
+      "id": "sen-ismail-jakobs",
+      "name": "Ismail Jakobs",
+      "countryCode": "SEN"
+    },
+    {
+      "id": "sen-el-hadji-malick-diouf",
+      "name": "El Hadji Malick Diouf",
+      "countryCode": "SEN"
+    },
+    {
+      "id": "sen-kalidou-koulibaly",
+      "name": "Kalidou Koulibaly",
+      "countryCode": "SEN"
+    },
+    {
+      "id": "sen-idrissa-gana-gueye",
+      "name": "Idrissa Gana Gueye",
+      "countryCode": "SEN"
+    },
+    {
+      "id": "sen-pape-matar-sarr",
+      "name": "Pape Matar Sarr",
+      "countryCode": "SEN"
+    },
+    {
+      "id": "sen-pape-gueye",
+      "name": "Pape Gueye",
+      "countryCode": "SEN"
+    },
+    {
+      "id": "sen-habib-diarra",
+      "name": "Habib Diarra",
+      "countryCode": "SEN"
+    },
+    {
+      "id": "sen-lamine-camara",
+      "name": "Lamine Camara",
+      "countryCode": "SEN"
+    },
+    {
+      "id": "sen-sadio-mane",
+      "name": "Sadio Mane",
+      "countryCode": "SEN"
+    },
+    {
+      "id": "sen-ismaila-sarr",
+      "name": "Ismaïla Sarr",
+      "countryCode": "SEN"
+    },
+    {
+      "id": "sen-boulaye-dia",
+      "name": "Boulaye Dia",
+      "countryCode": "SEN"
+    },
+    {
+      "id": "sen-iliman-ndiaye",
+      "name": "Iliman Ndiaye",
+      "countryCode": "SEN"
+    },
+    {
+      "id": "sen-nicolas-jackson",
+      "name": "Nicolas Jackson",
+      "countryCode": "SEN"
+    },
+    {
+      "id": "sen-krepin-diatta",
+      "name": "Krepin Diatta",
+      "countryCode": "SEN"
+    },
+    {
+      "id": "rsa-ronwen-williams",
+      "name": "Ronwen Williams",
+      "countryCode": "RSA"
+    },
+    {
+      "id": "rsa-sipho-chaine",
+      "name": "Sipho Chaine",
+      "countryCode": "RSA"
+    },
+    {
+      "id": "rsa-aubrey-modiba",
+      "name": "Aubrey Modiba",
+      "countryCode": "RSA"
+    },
+    {
+      "id": "rsa-samukele-kabini",
+      "name": "Samukele Kabini",
+      "countryCode": "RSA"
+    },
+    {
+      "id": "rsa-mbekezeli-mbokazi",
+      "name": "Mbekezeli Mbokazi",
+      "countryCode": "RSA"
+    },
+    {
+      "id": "rsa-khulumani-ndamane",
+      "name": "Khulumani Ndamane",
+      "countryCode": "RSA"
+    },
+    {
+      "id": "rsa-siyabonga-ngezana",
+      "name": "Siyabonga Ngezana",
+      "countryCode": "RSA"
+    },
+    {
+      "id": "rsa-khuliso-mudau",
+      "name": "Khuliso Mudau",
+      "countryCode": "RSA"
+    },
+    {
+      "id": "rsa-nkosinathi-sibisi",
+      "name": "Nkosinathi Sibisi",
+      "countryCode": "RSA"
+    },
+    {
+      "id": "rsa-teboho-mokoena",
+      "name": "Teboho Mokoena",
+      "countryCode": "RSA"
+    },
+    {
+      "id": "rsa-thalente-mbatha",
+      "name": "Thalente Mbatha",
+      "countryCode": "RSA"
+    },
+    {
+      "id": "rsa-bathuisi-aubaas",
+      "name": "Bathuisi Aubaas",
+      "countryCode": "RSA"
+    },
+    {
+      "id": "rsa-yaya-sithole",
+      "name": "Yaya Sithole",
+      "countryCode": "RSA"
+    },
+    {
+      "id": "rsa-sipho-mbule",
+      "name": "Sipho Mbule",
+      "countryCode": "RSA"
+    },
+    {
+      "id": "rsa-lyle-foster",
+      "name": "Lyle Foster",
+      "countryCode": "RSA"
+    },
+    {
+      "id": "rsa-ioraam-rayners",
+      "name": "Ioraam Rayners",
+      "countryCode": "RSA"
+    },
+    {
+      "id": "rsa-mohau-nkota",
+      "name": "Mohau Nkota",
+      "countryCode": "RSA"
+    },
+    {
+      "id": "rsa-oswin-appolis",
+      "name": "Oswin Appolis",
+      "countryCode": "RSA"
+    },
+    {
+      "id": "swe-victor-johansson",
+      "name": "Victor Johansson",
+      "countryCode": "SWE"
+    },
+    {
+      "id": "swe-isak-hien",
+      "name": "Isak Hien",
+      "countryCode": "SWE"
+    },
+    {
+      "id": "swe-gabriel-gudmundsson",
+      "name": "Gabriel Gudmundsson",
+      "countryCode": "SWE"
+    },
+    {
+      "id": "swe-emil-holm",
+      "name": "Emil Holm",
+      "countryCode": "SWE"
+    },
+    {
+      "id": "swe-victor-nilsson-lindelof",
+      "name": "Victor Nilsson Lindelöf",
+      "countryCode": "SWE"
+    },
+    {
+      "id": "swe-gustaf-lagerbielke",
+      "name": "Gustaf Lagerbielke",
+      "countryCode": "SWE"
+    },
+    {
+      "id": "swe-lucas-bergvall",
+      "name": "Lucas Bergvall",
+      "countryCode": "SWE"
+    },
+    {
+      "id": "swe-hugo-larsson",
+      "name": "Hugo Larsson",
+      "countryCode": "SWE"
+    },
+    {
+      "id": "swe-jesper-karlstrom",
+      "name": "Jesper Karlström",
+      "countryCode": "SWE"
+    },
+    {
+      "id": "swe-yasin-ayari",
+      "name": "Yasin Ayari",
+      "countryCode": "SWE"
+    },
+    {
+      "id": "swe-mattias-svanberg",
+      "name": "Mattias Svanberg",
+      "countryCode": "SWE"
+    },
+    {
+      "id": "swe-daniel-svensson",
+      "name": "Daniel Svensson",
+      "countryCode": "SWE"
+    },
+    {
+      "id": "swe-ken-sema",
+      "name": "Ken Sema",
+      "countryCode": "SWE"
+    },
+    {
+      "id": "swe-roony-bardghji",
+      "name": "Roony Bardghji",
+      "countryCode": "SWE"
+    },
+    {
+      "id": "swe-dejan-kulusevski",
+      "name": "Dejan Kulusevski",
+      "countryCode": "SWE"
+    },
+    {
+      "id": "swe-anthony-elanga",
+      "name": "Anthony Elanga",
+      "countryCode": "SWE"
+    },
+    {
+      "id": "swe-alexander-isak",
+      "name": "Alexander Isak",
+      "countryCode": "SWE"
+    },
+    {
+      "id": "swe-viktor-gyokeres",
+      "name": "Viktor Gyökeres",
+      "countryCode": "SWE"
+    },
+    {
+      "id": "sui-gregor-kobel",
+      "name": "Gregor Kobel",
+      "countryCode": "SUI"
+    },
+    {
+      "id": "sui-yvon-mvogo",
+      "name": "Yvon Mvogo",
+      "countryCode": "SUI"
+    },
+    {
+      "id": "sui-manuel-akanji",
+      "name": "Manuel Akanji",
+      "countryCode": "SUI"
+    },
+    {
+      "id": "sui-ricardo-rodriguez",
+      "name": "Ricardo Rodriguez",
+      "countryCode": "SUI"
+    },
+    {
+      "id": "sui-nico-elvedi",
+      "name": "Nico Elvedi",
+      "countryCode": "SUI"
+    },
+    {
+      "id": "sui-aurele-amenda",
+      "name": "Aurèle Amenda",
+      "countryCode": "SUI"
+    },
+    {
+      "id": "sui-silvan-widmer",
+      "name": "Silvan Widmer",
+      "countryCode": "SUI"
+    },
+    {
+      "id": "sui-granit-xhaka",
+      "name": "Granit Xhaka",
+      "countryCode": "SUI"
+    },
+    {
+      "id": "sui-denis-zakaria",
+      "name": "Denis Zakaria",
+      "countryCode": "SUI"
+    },
+    {
+      "id": "sui-remo-freuler",
+      "name": "Remo Freuler",
+      "countryCode": "SUI"
+    },
+    {
+      "id": "sui-fabian-rieder",
+      "name": "Fabian Rieder",
+      "countryCode": "SUI"
+    },
+    {
+      "id": "sui-ardon-jashari",
+      "name": "Ardon Jashari",
+      "countryCode": "SUI"
+    },
+    {
+      "id": "sui-johan-manzambi",
+      "name": "Johan Manzambi",
+      "countryCode": "SUI"
+    },
+    {
+      "id": "sui-michel-aebischer",
+      "name": "Michel Aebischer",
+      "countryCode": "SUI"
+    },
+    {
+      "id": "sui-breel-embolo",
+      "name": "Breel Embolo",
+      "countryCode": "SUI"
+    },
+    {
+      "id": "sui-ruben-vargas",
+      "name": "Ruben Vargas",
+      "countryCode": "SUI"
+    },
+    {
+      "id": "sui-dan-ndoye",
+      "name": "Dan Ndoye",
+      "countryCode": "SUI"
+    },
+    {
+      "id": "sui-zeki-amdouni",
+      "name": "Zeki Amdouni",
+      "countryCode": "SUI"
+    },
+    {
+      "id": "tun-bechir-ben-said",
+      "name": "Bechir Ben Said",
+      "countryCode": "TUN"
+    },
+    {
+      "id": "tun-aymen-dahmen",
+      "name": "Aymen Dahmen",
+      "countryCode": "TUN"
+    },
+    {
+      "id": "tun-van-valery",
+      "name": "Van Valery",
+      "countryCode": "TUN"
+    },
+    {
+      "id": "tun-montassar-talbi",
+      "name": "Montassar Talbi",
+      "countryCode": "TUN"
+    },
+    {
+      "id": "tun-yassine-meriah",
+      "name": "Yassine Meriah",
+      "countryCode": "TUN"
+    },
+    {
+      "id": "tun-ali-abdi",
+      "name": "Ali Abdi",
+      "countryCode": "TUN"
+    },
+    {
+      "id": "tun-dylan-bronn",
+      "name": "Dylan Bronn",
+      "countryCode": "TUN"
+    },
+    {
+      "id": "tun-ellyes-skhiri",
+      "name": "Ellyes Skhiri",
+      "countryCode": "TUN"
+    },
+    {
+      "id": "tun-aissa-laidouni",
+      "name": "Aissa Laidouni",
+      "countryCode": "TUN"
+    },
+    {
+      "id": "tun-ferjani-sassi",
+      "name": "Ferjani Sassi",
+      "countryCode": "TUN"
+    },
+    {
+      "id": "tun-mohamed-ali-ben-romdhane",
+      "name": "Mohamed Ali Ben Romdhane",
+      "countryCode": "TUN"
+    },
+    {
+      "id": "tun-hannibal-mejbri",
+      "name": "Hannibal Mejbri",
+      "countryCode": "TUN"
+    },
+    {
+      "id": "tun-elias-achouri",
+      "name": "Elias Achouri",
+      "countryCode": "TUN"
+    },
+    {
+      "id": "tun-elias-saad",
+      "name": "Elias Saad",
+      "countryCode": "TUN"
+    },
+    {
+      "id": "tun-hazem-mastouri",
+      "name": "Hazem Mastouri",
+      "countryCode": "TUN"
+    },
+    {
+      "id": "tun-ismael-gharbi",
+      "name": "Ismael Gharbi",
+      "countryCode": "TUN"
+    },
+    {
+      "id": "tun-sayfallah-ltaief",
+      "name": "Sayfallah Ltaief",
+      "countryCode": "TUN"
+    },
+    {
+      "id": "tun-naim-sliti",
+      "name": "Naim Sliti",
+      "countryCode": "TUN"
+    },
+    {
+      "id": "tur-ugurcan-cakir",
+      "name": "Ugurcan Cakir",
+      "countryCode": "TUR"
+    },
+    {
+      "id": "tur-mert-muldur",
+      "name": "Mert Muldur",
+      "countryCode": "TUR"
+    },
+    {
+      "id": "tur-zeki-celik",
+      "name": "Zeki Celik",
+      "countryCode": "TUR"
+    },
+    {
+      "id": "tur-abdulkerim-bardakci",
+      "name": "Abdulkerim Bardakci",
+      "countryCode": "TUR"
+    },
+    {
+      "id": "tur-caglar-soyunku",
+      "name": "Caglar Soyunku",
+      "countryCode": "TUR"
+    },
+    {
+      "id": "tur-merih-demiral",
+      "name": "Merih Demiral",
+      "countryCode": "TUR"
+    },
+    {
+      "id": "tur-ferdi-kadioglu",
+      "name": "Ferdi Kadioglu",
+      "countryCode": "TUR"
+    },
+    {
+      "id": "tur-kaan-ayhan",
+      "name": "Kaan Ayhan",
+      "countryCode": "TUR"
+    },
+    {
+      "id": "tur-ismail-yuksek",
+      "name": "Ismail Yuksek",
+      "countryCode": "TUR"
+    },
+    {
+      "id": "tur-hakan-calhanoglu",
+      "name": "Hakan Calhanoglu",
+      "countryCode": "TUR"
+    },
+    {
+      "id": "tur-orkun-kokcu",
+      "name": "Orkun Kokcu",
+      "countryCode": "TUR"
+    },
+    {
+      "id": "tur-arda-guler",
+      "name": "Arda Güler",
+      "countryCode": "TUR"
+    },
+    {
+      "id": "tur-irfan-can-kahvecu",
+      "name": "Irfan Can Kahvecu",
+      "countryCode": "TUR"
+    },
+    {
+      "id": "tur-yunus-akgun",
+      "name": "Yunus Akgun",
+      "countryCode": "TUR"
+    },
+    {
+      "id": "tur-can-uzun",
+      "name": "Can Uzun",
+      "countryCode": "TUR"
+    },
+    {
+      "id": "tur-baris-alper-yilmaz",
+      "name": "Baris Alper Yilmaz",
+      "countryCode": "TUR"
+    },
+    {
+      "id": "tur-kerem-akturkoglu",
+      "name": "Kerem Akturkoglu",
+      "countryCode": "TUR"
+    },
+    {
+      "id": "tur-kenan-yildiz",
+      "name": "Kenan Yildiz",
+      "countryCode": "TUR"
+    },
+    {
+      "id": "uru-sergio-rochet",
+      "name": "Sergio Rochet",
+      "countryCode": "URU"
+    },
+    {
+      "id": "uru-santiago-mele",
+      "name": "Santiago Mele",
+      "countryCode": "URU"
+    },
+    {
+      "id": "uru-ronald-araujo",
+      "name": "Ronald Araujo",
+      "countryCode": "URU"
+    },
+    {
+      "id": "uru-jose-maria-gimenez",
+      "name": "José María Giménez",
+      "countryCode": "URU"
+    },
+    {
+      "id": "uru-sebastian-caceres",
+      "name": "Sebastian Caceres",
+      "countryCode": "URU"
+    },
+    {
+      "id": "uru-mathias-olivera",
+      "name": "Mathias Olivera",
+      "countryCode": "URU"
+    },
+    {
+      "id": "uru-guillermo-varela",
+      "name": "Guillermo Varela",
+      "countryCode": "URU"
+    },
+    {
+      "id": "uru-nahitan-nandez",
+      "name": "Nahitan Nandez",
+      "countryCode": "URU"
+    },
+    {
+      "id": "uru-federico-valverde",
+      "name": "Federico Valverde",
+      "countryCode": "URU"
+    },
+    {
+      "id": "uru-giorgian-de-arrascaeta",
+      "name": "Giorgian De Arrascaeta",
+      "countryCode": "URU"
+    },
+    {
+      "id": "uru-rodrigo-bentancur",
+      "name": "Rodrigo Bentancur",
+      "countryCode": "URU"
+    },
+    {
+      "id": "uru-manuel-ugarte",
+      "name": "Manuel Ugarte",
+      "countryCode": "URU"
+    },
+    {
+      "id": "uru-nicolas-de-la-cruz",
+      "name": "Nicolás de la Cruz",
+      "countryCode": "URU"
+    },
+    {
+      "id": "uru-maxi-araujo",
+      "name": "Maxi Araujo",
+      "countryCode": "URU"
+    },
+    {
+      "id": "uru-darwin-nunez",
+      "name": "Darwin Núñez",
+      "countryCode": "URU"
+    },
+    {
+      "id": "uru-federico-vinas",
+      "name": "Federico Viñas",
+      "countryCode": "URU"
+    },
+    {
+      "id": "uru-rodrigo-aguirre",
+      "name": "Rodrigo Aguirre",
+      "countryCode": "URU"
+    },
+    {
+      "id": "uru-facundo-pellistri",
+      "name": "Facundo Pellistri",
+      "countryCode": "URU"
+    },
+    {
+      "id": "usa-math-freese",
+      "name": "Math Freese",
+      "countryCode": "USA"
+    },
+    {
+      "id": "usa-chris-richards",
+      "name": "Chris Richards",
+      "countryCode": "USA"
+    },
+    {
+      "id": "usa-tim-ream",
+      "name": "Tim Ream",
+      "countryCode": "USA"
+    },
+    {
+      "id": "usa-mark-mckenzie",
+      "name": "Mark McKenzie",
+      "countryCode": "USA"
+    },
+    {
+      "id": "usa-alex-freeman",
+      "name": "Alex Freeman",
+      "countryCode": "USA"
+    },
+    {
+      "id": "usa-antonee-robinson",
+      "name": "Antonee Robinson",
+      "countryCode": "USA"
+    },
+    {
+      "id": "usa-tyler-adams",
+      "name": "Tyler Adams",
+      "countryCode": "USA"
+    },
+    {
+      "id": "usa-tanner-tessmann",
+      "name": "Tanner Tessmann",
+      "countryCode": "USA"
+    },
+    {
+      "id": "usa-weston-mckenny",
+      "name": "Weston McKenny",
+      "countryCode": "USA"
+    },
+    {
+      "id": "usa-christian-roldan",
+      "name": "Christian Roldan",
+      "countryCode": "USA"
+    },
+    {
+      "id": "usa-timothy-weah",
+      "name": "Timothy Weah",
+      "countryCode": "USA"
+    },
+    {
+      "id": "usa-diego-luna",
+      "name": "Diego Luna",
+      "countryCode": "USA"
+    },
+    {
+      "id": "usa-malim-tillman",
+      "name": "Malim Tillman",
+      "countryCode": "USA"
+    },
+    {
+      "id": "usa-christian-pulisic",
+      "name": "Christian Pulisic",
+      "countryCode": "USA"
+    },
+    {
+      "id": "usa-brenden-aaronson",
+      "name": "Brenden Aaronson",
+      "countryCode": "USA"
+    },
+    {
+      "id": "usa-ricardo-pepi",
+      "name": "Ricardo Pepi",
+      "countryCode": "USA"
+    },
+    {
+      "id": "usa-haji-wright",
+      "name": "Haji Wright",
+      "countryCode": "USA"
+    },
+    {
+      "id": "usa-folarin-balogun",
+      "name": "Folarin Balogun",
+      "countryCode": "USA"
+    },
+    {
+      "id": "uzb-utkir-yusupov",
+      "name": "Utkir Yusupov",
+      "countryCode": "UZB"
+    },
+    {
+      "id": "uzb-farrukh-savfiev",
+      "name": "Farrukh Savfiev",
+      "countryCode": "UZB"
+    },
+    {
+      "id": "uzb-sherzod-nasrullaev",
+      "name": "Sherzod Nasrullaev",
+      "countryCode": "UZB"
+    },
+    {
+      "id": "uzb-umar-eshmurodov",
+      "name": "Umar Eshmurodov",
+      "countryCode": "UZB"
+    },
+    {
+      "id": "uzb-husniddin-aliqulov",
+      "name": "Husniddin Aliqulov",
+      "countryCode": "UZB"
+    },
+    {
+      "id": "uzb-rustamjon-ashurmatov",
+      "name": "Rustamjon Ashurmatov",
+      "countryCode": "UZB"
+    },
+    {
+      "id": "uzb-khojiakbar-alijonov",
+      "name": "Khojiakbar Alijonov",
+      "countryCode": "UZB"
+    },
+    {
+      "id": "uzb-abdukodir-khusanov",
+      "name": "Abdukodir Khusanov",
+      "countryCode": "UZB"
+    },
+    {
+      "id": "uzb-odiljon-hamrobekov",
+      "name": "Odiljon Hamrobekov",
+      "countryCode": "UZB"
+    },
+    {
+      "id": "uzb-otabek-shukurov",
+      "name": "Otabek Shukurov",
+      "countryCode": "UZB"
+    },
+    {
+      "id": "uzb-jamshid-iskanderov",
+      "name": "Jamshid Iskanderov",
+      "countryCode": "UZB"
+    },
+    {
+      "id": "uzb-azizbek-turgunboev",
+      "name": "Azizbek Turgunboev",
+      "countryCode": "UZB"
+    },
+    {
+      "id": "uzb-khojimat-erkinov",
+      "name": "Khojimat Erkinov",
+      "countryCode": "UZB"
+    },
+    {
+      "id": "uzb-eldor-shomurodov",
+      "name": "Eldor Shomurodov",
+      "countryCode": "UZB"
+    },
+    {
+      "id": "uzb-oston-urunov",
+      "name": "Oston Urunov",
+      "countryCode": "UZB"
+    },
+    {
+      "id": "uzb-jaloliddin-masharipov",
+      "name": "Jaloliddin Masharipov",
+      "countryCode": "UZB"
+    },
+    {
+      "id": "uzb-igor-sergeev",
+      "name": "Igor Sergeev",
+      "countryCode": "UZB"
+    },
+    {
+      "id": "uzb-abbosbek-fayzullaev",
+      "name": "Abbosbek Fayzullaev",
+      "countryCode": "UZB"
+    }
+  ]
+}

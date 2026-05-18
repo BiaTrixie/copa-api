@@ -1,0 +1,3062 @@
+{
+  "tournament": "FIFA World Cup 2026",
+  "teams": [
+    {
+      "countryCode": "ALG",
+      "countryName": "Argélia",
+      "listType": "album",
+      "asOf": "2026-04-28",
+      "sourceUrl": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-todos-os-jogadores-que-estao-no-album-da-copa-do-mundo-2026/",
+      "notes": "Jogadores conforme lista publicada pela CNN Brasil sobre o álbum oficial Panini da Copa 2026 (abr/2026). Não representa convocação oficial das federações.",
+      "players": [
+        {
+          "name": "Alexis Guendouz"
+        },
+        {
+          "name": "Ramy Bensebaini"
+        },
+        {
+          "name": "Youcef Atal"
+        },
+        {
+          "name": "Rayan Aït-Nouri"
+        },
+        {
+          "name": "Mohamed Amine Tougai"
+        },
+        {
+          "name": "Aïssa Mandi"
+        },
+        {
+          "name": "Ismael Bennacer"
+        },
+        {
+          "name": "Houssem Aouar"
+        },
+        {
+          "name": "Hicham Boudaoui"
+        },
+        {
+          "name": "Ramiz Zerrouki"
+        },
+        {
+          "name": "Nabil Bentaleb"
+        },
+        {
+          "name": "Farés Chaibi"
+        },
+        {
+          "name": "Riyad Mahrez"
+        },
+        {
+          "name": "Said Benrahma"
+        },
+        {
+          "name": "Anis Hadj Moussa"
+        },
+        {
+          "name": "Amine Gouiri"
+        },
+        {
+          "name": "Baghdad Bounedjah"
+        },
+        {
+          "name": "Mohammed Amoura"
+        }
+      ]
+    },
+    {
+      "countryCode": "ARG",
+      "countryName": "Argentina",
+      "listType": "album",
+      "asOf": "2026-04-28",
+      "sourceUrl": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-todos-os-jogadores-que-estao-no-album-da-copa-do-mundo-2026/",
+      "notes": "Jogadores conforme lista publicada pela CNN Brasil sobre o álbum oficial Panini da Copa 2026 (abr/2026). Não representa convocação oficial das federações.",
+      "players": [
+        {
+          "name": "Emiliano Martínez"
+        },
+        {
+          "name": "Nahuel Molina"
+        },
+        {
+          "name": "Cristian Romero"
+        },
+        {
+          "name": "Nicolás Otamendi"
+        },
+        {
+          "name": "Nicolás Tagliafico"
+        },
+        {
+          "name": "Leonardo Balerdi"
+        },
+        {
+          "name": "Enzo Fernández"
+        },
+        {
+          "name": "Alexis Mac Allister"
+        },
+        {
+          "name": "Rodrigo De Paul"
+        },
+        {
+          "name": "Exequiel Palacios"
+        },
+        {
+          "name": "Leandro Paredes"
+        },
+        {
+          "name": "Nico Paz"
+        },
+        {
+          "name": "Franco Mastantuono"
+        },
+        {
+          "name": "Nico González"
+        },
+        {
+          "name": "Lionel Messi"
+        },
+        {
+          "name": "Lautaro Martínez"
+        },
+        {
+          "name": "Julián Álvarez"
+        },
+        {
+          "name": "Giuliano Simeone"
+        }
+      ]
+    },
+    {
+      "countryCode": "AUS",
+      "countryName": "Austrália",
+      "listType": "album",
+      "asOf": "2026-04-28",
+      "sourceUrl": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-todos-os-jogadores-que-estao-no-album-da-copa-do-mundo-2026/",
+      "notes": "Jogadores conforme lista publicada pela CNN Brasil sobre o álbum oficial Panini da Copa 2026 (abr/2026). Não representa convocação oficial das federações.",
+      "players": [
+        {
+          "name": "Mathew Ryan"
+        },
+        {
+          "name": "Joe Gauci"
+        },
+        {
+          "name": "Harry Souttar"
+        },
+        {
+          "name": "Alessandro Circati"
+        },
+        {
+          "name": "Jordan Bos"
+        },
+        {
+          "name": "Aziz Behich"
+        },
+        {
+          "name": "Cameron Burgess"
+        },
+        {
+          "name": "Lewis Miller"
+        },
+        {
+          "name": "Milos Degenek"
+        },
+        {
+          "name": "Jackson Irvine"
+        },
+        {
+          "name": "Riley McGree"
+        },
+        {
+          "name": "Aiden O’Neill"
+        },
+        {
+          "name": "Connor Metcalfe"
+        },
+        {
+          "name": "Patrick Yazbek"
+        },
+        {
+          "name": "Craig Goodwin"
+        },
+        {
+          "name": "Kusini Yengi"
+        },
+        {
+          "name": "Nestory Irankunda"
+        },
+        {
+          "name": "Mohamed Touré"
+        }
+      ]
+    },
+    {
+      "countryCode": "AUT",
+      "countryName": "Áustria",
+      "listType": "album",
+      "asOf": "2026-04-28",
+      "sourceUrl": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-todos-os-jogadores-que-estao-no-album-da-copa-do-mundo-2026/",
+      "notes": "Jogadores conforme lista publicada pela CNN Brasil sobre o álbum oficial Panini da Copa 2026 (abr/2026). Não representa convocação oficial das federações.",
+      "players": [
+        {
+          "name": "Alexander Schlager"
+        },
+        {
+          "name": "Patrick Pentz"
+        },
+        {
+          "name": "David Alaba"
+        },
+        {
+          "name": "Kevin Danso"
+        },
+        {
+          "name": "Philipp Lienhart"
+        },
+        {
+          "name": "Stefan Posch"
+        },
+        {
+          "name": "Phillipp Mwene"
+        },
+        {
+          "name": "Alexander Prass"
+        },
+        {
+          "name": "Xaver Schlager"
+        },
+        {
+          "name": "Marcel Sabitzer"
+        },
+        {
+          "name": "Konrad Laimer"
+        },
+        {
+          "name": "Florian Grillitsch"
+        },
+        {
+          "name": "Nicolas Seiwald"
+        },
+        {
+          "name": "Romano Schmid"
+        },
+        {
+          "name": "Patrick Wimmer"
+        },
+        {
+          "name": "Christoph Baumgartner"
+        },
+        {
+          "name": "Michael Gregoritsch"
+        },
+        {
+          "name": "Marko Arnautović"
+        }
+      ]
+    },
+    {
+      "countryCode": "BEL",
+      "countryName": "Bélgica",
+      "listType": "album",
+      "asOf": "2026-04-28",
+      "sourceUrl": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-todos-os-jogadores-que-estao-no-album-da-copa-do-mundo-2026/",
+      "notes": "Jogadores conforme lista publicada pela CNN Brasil sobre o álbum oficial Panini da Copa 2026 (abr/2026). Não representa convocação oficial das federações.",
+      "players": [
+        {
+          "name": "Thibaut Courtois"
+        },
+        {
+          "name": "Arthur Theate"
+        },
+        {
+          "name": "Timothy Castagne"
+        },
+        {
+          "name": "Zeno Debast"
+        },
+        {
+          "name": "Brandon Mechele"
+        },
+        {
+          "name": "Maxim De Cuyper"
+        },
+        {
+          "name": "Thomas Meunier"
+        },
+        {
+          "name": "Youri Tielemans"
+        },
+        {
+          "name": "Amadou Onana"
+        },
+        {
+          "name": "Nicolas Raskin"
+        },
+        {
+          "name": "Alexis Saelemaekers"
+        },
+        {
+          "name": "Hans Vanaken"
+        },
+        {
+          "name": "Kevin De Bruyne"
+        },
+        {
+          "name": "Jérémy Doku"
+        },
+        {
+          "name": "Charles De Ketelaere"
+        },
+        {
+          "name": "Leandro Trossard"
+        },
+        {
+          "name": "Loïs Openda"
+        },
+        {
+          "name": "Romelu Lukaku"
+        }
+      ]
+    },
+    {
+      "countryCode": "BIH",
+      "countryName": "Bósnia e Herzegovina",
+      "listType": "album",
+      "asOf": "2026-04-28",
+      "sourceUrl": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-todos-os-jogadores-que-estao-no-album-da-copa-do-mundo-2026/",
+      "notes": "Jogadores conforme lista publicada pela CNN Brasil sobre o álbum oficial Panini da Copa 2026 (abr/2026). Não representa convocação oficial das federações.",
+      "players": [
+        {
+          "name": "Nikola Vasilj"
+        },
+        {
+          "name": "Amar Dedić"
+        },
+        {
+          "name": "Sead Kolašinac"
+        },
+        {
+          "name": "Tarik Muharemović"
+        },
+        {
+          "name": "Nihad Mujakić"
+        },
+        {
+          "name": "Nikola Katić"
+        },
+        {
+          "name": "Amir Hadžiahmetović"
+        },
+        {
+          "name": "Benjamin Tahirović"
+        },
+        {
+          "name": "Armin Gigović"
+        },
+        {
+          "name": "Ivan Šunjić"
+        },
+        {
+          "name": "Ivan Bašić"
+        },
+        {
+          "name": "Dženis Burnić"
+        },
+        {
+          "name": "Esmir Bajraktarević"
+        },
+        {
+          "name": "Amar Memić"
+        },
+        {
+          "name": "Ermedin Demirović"
+        },
+        {
+          "name": "Edin Džeko"
+        },
+        {
+          "name": "Samed Baždar"
+        },
+        {
+          "name": "Haris Tabaković"
+        }
+      ]
+    },
+    {
+      "countryCode": "BRA",
+      "countryName": "Brasil",
+      "listType": "album",
+      "asOf": "2026-04-28",
+      "sourceUrl": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-todos-os-jogadores-que-estao-no-album-da-copa-do-mundo-2026/",
+      "notes": "Jogadores conforme lista publicada pela CNN Brasil sobre o álbum oficial Panini da Copa 2026 (abr/2026). Não representa convocação oficial das federações.",
+      "players": [
+        {
+          "name": "Alisson"
+        },
+        {
+          "name": "Bento"
+        },
+        {
+          "name": "Marquinhos"
+        },
+        {
+          "name": "Éder Militão"
+        },
+        {
+          "name": "Gabriel Magalhães"
+        },
+        {
+          "name": "Danilo"
+        },
+        {
+          "name": "Wesley"
+        },
+        {
+          "name": "Lucas Paquetá"
+        },
+        {
+          "name": "Casemiro"
+        },
+        {
+          "name": "Bruno Guimarães"
+        },
+        {
+          "name": "Luiz Henrique"
+        },
+        {
+          "name": "Vinícius Júnior"
+        },
+        {
+          "name": "Rodrygo"
+        },
+        {
+          "name": "João Pedro"
+        },
+        {
+          "name": "Matheus Cunha"
+        },
+        {
+          "name": "Gabriel Martinelli"
+        },
+        {
+          "name": "Raphinha"
+        },
+        {
+          "name": "Estêvão"
+        }
+      ]
+    },
+    {
+      "countryCode": "CAN",
+      "countryName": "Canadá",
+      "listType": "album",
+      "asOf": "2026-04-28",
+      "sourceUrl": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-todos-os-jogadores-que-estao-no-album-da-copa-do-mundo-2026/",
+      "notes": "Jogadores conforme lista publicada pela CNN Brasil sobre o álbum oficial Panini da Copa 2026 (abr/2026). Não representa convocação oficial das federações.",
+      "players": [
+        {
+          "name": "Dayne St. Clair"
+        },
+        {
+          "name": "Alphonso Davies"
+        },
+        {
+          "name": "Alistair Johnston"
+        },
+        {
+          "name": "Samuel Adekugbe"
+        },
+        {
+          "name": "Richie Laryea"
+        },
+        {
+          "name": "Derek Cornelius"
+        },
+        {
+          "name": "Moïse Bombito"
+        },
+        {
+          "name": "Kamal Miller"
+        },
+        {
+          "name": "Stephen Eustáquio"
+        },
+        {
+          "name": "Ismaël Koné"
+        },
+        {
+          "name": "Jonathan Osorio"
+        },
+        {
+          "name": "Jacob Shaffelburg"
+        },
+        {
+          "name": "Mathieu Choinière"
+        },
+        {
+          "name": "Niko Sigur"
+        },
+        {
+          "name": "Tajon Buchanan"
+        },
+        {
+          "name": "Liam Millar"
+        },
+        {
+          "name": "Cyle Larin"
+        },
+        {
+          "name": "Jonathan David"
+        }
+      ]
+    },
+    {
+      "countryCode": "CPV",
+      "countryName": "Cabo Verde",
+      "listType": "album",
+      "asOf": "2026-04-28",
+      "sourceUrl": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-todos-os-jogadores-que-estao-no-album-da-copa-do-mundo-2026/",
+      "notes": "Jogadores conforme lista publicada pela CNN Brasil sobre o álbum oficial Panini da Copa 2026 (abr/2026). Não representa convocação oficial das federações.",
+      "players": [
+        {
+          "name": "Vozinha"
+        },
+        {
+          "name": "Logan Costa"
+        },
+        {
+          "name": "Pico"
+        },
+        {
+          "name": "Diney"
+        },
+        {
+          "name": "Steven Moreira"
+        },
+        {
+          "name": "Wagner Pina"
+        },
+        {
+          "name": "João Paulo"
+        },
+        {
+          "name": "Yannick Semedo"
+        },
+        {
+          "name": "Kevin Pina"
+        },
+        {
+          "name": "Patrick Andrade"
+        },
+        {
+          "name": "Jamiro Monteiro"
+        },
+        {
+          "name": "Deroy Duarte"
+        },
+        {
+          "name": "Garry Rodrigues"
+        },
+        {
+          "name": "Jovane Cabral"
+        },
+        {
+          "name": "Ryan Mendes"
+        },
+        {
+          "name": "Dailon Livramento"
+        },
+        {
+          "name": "Willy Semedo"
+        },
+        {
+          "name": "Bebé"
+        }
+      ]
+    },
+    {
+      "countryCode": "CIV",
+      "countryName": "Costa do Marfim",
+      "listType": "album",
+      "asOf": "2026-04-28",
+      "sourceUrl": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-todos-os-jogadores-que-estao-no-album-da-copa-do-mundo-2026/",
+      "notes": "Jogadores conforme lista publicada pela CNN Brasil sobre o álbum oficial Panini da Copa 2026 (abr/2026). Não representa convocação oficial das federações.",
+      "players": [
+        {
+          "name": "Yahia Fofana"
+        },
+        {
+          "name": "Ghislain Konan"
+        },
+        {
+          "name": "Wilfried Singo"
+        },
+        {
+          "name": "Odilon Kossounou"
+        },
+        {
+          "name": "Evan Ndicka"
+        },
+        {
+          "name": "Willy Boly"
+        },
+        {
+          "name": "Emmanuel Agbadou"
+        },
+        {
+          "name": "Ousmane Diomande"
+        },
+        {
+          "name": "Franck Kessié"
+        },
+        {
+          "name": "Seko Fofana"
+        },
+        {
+          "name": "Ibrahim Sangaré"
+        },
+        {
+          "name": "Jean-Philippe Gbamin"
+        },
+        {
+          "name": "Amad Diallo"
+        },
+        {
+          "name": "Sébastien Haller"
+        },
+        {
+          "name": "Simon Adingra"
+        },
+        {
+          "name": "Yan Diomande"
+        },
+        {
+          "name": "Evann Guessand"
+        },
+        {
+          "name": "Oumar Diakité"
+        }
+      ]
+    },
+    {
+      "countryCode": "COL",
+      "countryName": "Colômbia",
+      "listType": "album",
+      "asOf": "2026-04-28",
+      "sourceUrl": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-todos-os-jogadores-que-estao-no-album-da-copa-do-mundo-2026/",
+      "notes": "Jogadores conforme lista publicada pela CNN Brasil sobre o álbum oficial Panini da Copa 2026 (abr/2026). Não representa convocação oficial das federações.",
+      "players": [
+        {
+          "name": "Camilo Vargas"
+        },
+        {
+          "name": "David Ospina"
+        },
+        {
+          "name": "Dávinson Sánchez"
+        },
+        {
+          "name": "Yerry Mina"
+        },
+        {
+          "name": "Daniel Muñoz"
+        },
+        {
+          "name": "Johan Mojica"
+        },
+        {
+          "name": "Jhon Lucumí"
+        },
+        {
+          "name": "Santiago Arias"
+        },
+        {
+          "name": "Jefferson Lerma"
+        },
+        {
+          "name": "Kevin Castaño"
+        },
+        {
+          "name": "Richard Ríos"
+        },
+        {
+          "name": "James Rodríguez"
+        },
+        {
+          "name": "Juan Fernando Quintero"
+        },
+        {
+          "name": "Jorge Carrascal"
+        },
+        {
+          "name": "Jhon Arias"
+        },
+        {
+          "name": "Jhon Córdoba"
+        },
+        {
+          "name": "Luis Suárez"
+        },
+        {
+          "name": "Luis Díaz"
+        }
+      ]
+    },
+    {
+      "countryCode": "COD",
+      "countryName": "RD Congo",
+      "listType": "album",
+      "asOf": "2026-04-28",
+      "sourceUrl": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-todos-os-jogadores-que-estao-no-album-da-copa-do-mundo-2026/",
+      "notes": "Jogadores conforme lista publicada pela CNN Brasil sobre o álbum oficial Panini da Copa 2026 (abr/2026). Não representa convocação oficial das federações.",
+      "players": [
+        {
+          "name": "Lionel Mpasi"
+        },
+        {
+          "name": "Aaron Wan-Bissaka"
+        },
+        {
+          "name": "Axel Tuanzebe"
+        },
+        {
+          "name": "Arthur Masuaku"
+        },
+        {
+          "name": "Chancel Mbemba"
+        },
+        {
+          "name": "Joris Kayembe"
+        },
+        {
+          "name": "Charles Pickel"
+        },
+        {
+          "name": "Ngal’ayel Mukau"
+        },
+        {
+          "name": "Edo Kayembe"
+        },
+        {
+          "name": "Samuel Moutoussamy"
+        },
+        {
+          "name": "Noah Sadiki"
+        },
+        {
+          "name": "Théo Bongonda"
+        },
+        {
+          "name": "Meschack Elia"
+        },
+        {
+          "name": "Yoane Wissa"
+        },
+        {
+          "name": "Brian Cipenga"
+        },
+        {
+          "name": "Fiston Mayele"
+        },
+        {
+          "name": "Cédric Bakambu"
+        },
+        {
+          "name": "Nathanaël Mbuku"
+        }
+      ]
+    },
+    {
+      "countryCode": "CRO",
+      "countryName": "Croácia",
+      "listType": "album",
+      "asOf": "2026-04-28",
+      "sourceUrl": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-todos-os-jogadores-que-estao-no-album-da-copa-do-mundo-2026/",
+      "notes": "Jogadores conforme lista publicada pela CNN Brasil sobre o álbum oficial Panini da Copa 2026 (abr/2026). Não representa convocação oficial das federações.",
+      "players": [
+        {
+          "name": "Dominik Livaković"
+        },
+        {
+          "name": "Duje Ćaleta-Car"
+        },
+        {
+          "name": "Joško Gvardiol"
+        },
+        {
+          "name": "Josip Stanišić"
+        },
+        {
+          "name": "Luka Vušković"
+        },
+        {
+          "name": "Josip Šutalo"
+        },
+        {
+          "name": "Kristijan Jakić"
+        },
+        {
+          "name": "Luka Modrić"
+        },
+        {
+          "name": "Mateo Kovačić"
+        },
+        {
+          "name": "Martin Baturina"
+        },
+        {
+          "name": "Lovro Majer"
+        },
+        {
+          "name": "Mario Pašalić"
+        },
+        {
+          "name": "Petar Sučić"
+        },
+        {
+          "name": "Ivan Perišić"
+        },
+        {
+          "name": "Marco Pašalić"
+        },
+        {
+          "name": "Ante Budimir"
+        },
+        {
+          "name": "Andrej Kramarić"
+        },
+        {
+          "name": "Franjo Ivanović"
+        }
+      ]
+    },
+    {
+      "countryCode": "CUW",
+      "countryName": "Curaçao",
+      "listType": "album",
+      "asOf": "2026-04-28",
+      "sourceUrl": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-todos-os-jogadores-que-estao-no-album-da-copa-do-mundo-2026/",
+      "notes": "Jogadores conforme lista publicada pela CNN Brasil sobre o álbum oficial Panini da Copa 2026 (abr/2026). Não representa convocação oficial das federações.",
+      "players": [
+        {
+          "name": "Eloy Room"
+        },
+        {
+          "name": "Armando Obispo"
+        },
+        {
+          "name": "Sherel Floranus"
+        },
+        {
+          "name": "Jurien Gaari"
+        },
+        {
+          "name": "Joshua Brenet"
+        },
+        {
+          "name": "Roshon Van Eijma"
+        },
+        {
+          "name": "Shurandy Sambo"
+        },
+        {
+          "name": "Livano Comenencia"
+        },
+        {
+          "name": "Godfried Roemeratoe"
+        },
+        {
+          "name": "Juninho Bacuna"
+        },
+        {
+          "name": "Leandro Bacuna"
+        },
+        {
+          "name": "Tahith Chong"
+        },
+        {
+          "name": "Kenji Gorré"
+        },
+        {
+          "name": "Jearl Margaritha"
+        },
+        {
+          "name": "Jurgen Locadia"
+        },
+        {
+          "name": "Jeremy Antonisse"
+        },
+        {
+          "name": "Gervane Kastaneer"
+        },
+        {
+          "name": "Sontje Hansen"
+        }
+      ]
+    },
+    {
+      "countryCode": "CZE",
+      "countryName": "Chéquia",
+      "listType": "album",
+      "asOf": "2026-04-28",
+      "sourceUrl": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-todos-os-jogadores-que-estao-no-album-da-copa-do-mundo-2026/",
+      "notes": "Jogadores conforme lista publicada pela CNN Brasil sobre o álbum oficial Panini da Copa 2026 (abr/2026). Não representa convocação oficial das federações.",
+      "players": [
+        {
+          "name": "Matěj Kovář"
+        },
+        {
+          "name": "Jindřich Staněk"
+        },
+        {
+          "name": "Ladislav Krejčí"
+        },
+        {
+          "name": "Vladimír Coufal"
+        },
+        {
+          "name": "Jaroslav Zelený"
+        },
+        {
+          "name": "Tomáš Holeš"
+        },
+        {
+          "name": "David Zima"
+        },
+        {
+          "name": "Michal Sadílek"
+        },
+        {
+          "name": "Lukáš Provod"
+        },
+        {
+          "name": "Lukáš Červ"
+        },
+        {
+          "name": "Tomáš Souček"
+        },
+        {
+          "name": "Pavel Šulc"
+        },
+        {
+          "name": "Matěj Vydra"
+        },
+        {
+          "name": "Vasil Kušej"
+        },
+        {
+          "name": "Tomáš Chorý"
+        },
+        {
+          "name": "Václav Černý"
+        },
+        {
+          "name": "Adam Hložek"
+        },
+        {
+          "name": "Patrik Schick"
+        }
+      ]
+    },
+    {
+      "countryCode": "ECU",
+      "countryName": "Equador",
+      "listType": "album",
+      "asOf": "2026-04-28",
+      "sourceUrl": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-todos-os-jogadores-que-estao-no-album-da-copa-do-mundo-2026/",
+      "notes": "Jogadores conforme lista publicada pela CNN Brasil sobre o álbum oficial Panini da Copa 2026 (abr/2026). Não representa convocação oficial das federações.",
+      "players": [
+        {
+          "name": "Hernán Galíndez"
+        },
+        {
+          "name": "Gonzalo Valle"
+        },
+        {
+          "name": "Piero Hincapié"
+        },
+        {
+          "name": "Pervis Estupiñán"
+        },
+        {
+          "name": "Willian Pacho"
+        },
+        {
+          "name": "Ángelo Preciado"
+        },
+        {
+          "name": "Joel Ordóñez"
+        },
+        {
+          "name": "Moisés Caicedo"
+        },
+        {
+          "name": "Alan Franco"
+        },
+        {
+          "name": "Kendry Páez"
+        },
+        {
+          "name": "Pedro Vite"
+        },
+        {
+          "name": "John Veboah"
+        },
+        {
+          "name": "Leonardo Campana"
+        },
+        {
+          "name": "Gonzalo Plata"
+        },
+        {
+          "name": "Nilson Angulo"
+        },
+        {
+          "name": "Alan Minda"
+        },
+        {
+          "name": "Kevin Rodríguez"
+        },
+        {
+          "name": "Enner Valencia"
+        }
+      ]
+    },
+    {
+      "countryCode": "EGY",
+      "countryName": "Egito",
+      "listType": "album",
+      "asOf": "2026-04-28",
+      "sourceUrl": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-todos-os-jogadores-que-estao-no-album-da-copa-do-mundo-2026/",
+      "notes": "Jogadores conforme lista publicada pela CNN Brasil sobre o álbum oficial Panini da Copa 2026 (abr/2026). Não representa convocação oficial das federações.",
+      "players": [
+        {
+          "name": "Mohamed El Shenawy"
+        },
+        {
+          "name": "Mohamed Hany"
+        },
+        {
+          "name": "Mohamed Hamdy"
+        },
+        {
+          "name": "Yasser Ibrahim"
+        },
+        {
+          "name": "Khaled Sobhi"
+        },
+        {
+          "name": "Ramy Rabia"
+        },
+        {
+          "name": "Hossam Abdelmaguid"
+        },
+        {
+          "name": "Ahmed Fatouh"
+        },
+        {
+          "name": "Marwan Attia"
+        },
+        {
+          "name": "Zizo"
+        },
+        {
+          "name": "Hamdy Fathy"
+        },
+        {
+          "name": "Mohamed Lasheen"
+        },
+        {
+          "name": "Emam Ashour"
+        },
+        {
+          "name": "Osama Faisal"
+        },
+        {
+          "name": "Mohamed Salah"
+        },
+        {
+          "name": "Mostafa Mohamed"
+        },
+        {
+          "name": "Trezeguet"
+        },
+        {
+          "name": "Omar Marmoush"
+        }
+      ]
+    },
+    {
+      "countryCode": "ENG",
+      "countryName": "Inglaterra",
+      "listType": "album",
+      "asOf": "2026-04-28",
+      "sourceUrl": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-todos-os-jogadores-que-estao-no-album-da-copa-do-mundo-2026/",
+      "notes": "Jogadores conforme lista publicada pela CNN Brasil sobre o álbum oficial Panini da Copa 2026 (abr/2026). Não representa convocação oficial das federações.",
+      "players": [
+        {
+          "name": "Jordan Pickford"
+        },
+        {
+          "name": "John Stones"
+        },
+        {
+          "name": "Marc Guéhi"
+        },
+        {
+          "name": "Ezri Konsa"
+        },
+        {
+          "name": "Trent Alexander-Arnold"
+        },
+        {
+          "name": "Reece James"
+        },
+        {
+          "name": "Dan Burn"
+        },
+        {
+          "name": "Jordan Henderson"
+        },
+        {
+          "name": "Declan Rice"
+        },
+        {
+          "name": "Jude Bellingham"
+        },
+        {
+          "name": "Cole Palmer"
+        },
+        {
+          "name": "Morgan Rogers"
+        },
+        {
+          "name": "Anthony Gordon"
+        },
+        {
+          "name": "Phil Foden"
+        },
+        {
+          "name": "Bukayo Saka"
+        },
+        {
+          "name": "Harry Kane"
+        },
+        {
+          "name": "Marcus Rashford"
+        },
+        {
+          "name": "Ollie Watkins"
+        }
+      ]
+    },
+    {
+      "countryCode": "ESP",
+      "countryName": "Espanha",
+      "listType": "album",
+      "asOf": "2026-04-28",
+      "sourceUrl": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-todos-os-jogadores-que-estao-no-album-da-copa-do-mundo-2026/",
+      "notes": "Jogadores conforme lista publicada pela CNN Brasil sobre o álbum oficial Panini da Copa 2026 (abr/2026). Não representa convocação oficial das federações.",
+      "players": [
+        {
+          "name": "Unai Simón"
+        },
+        {
+          "name": "Robin Le Normand"
+        },
+        {
+          "name": "Aymeric Laporte"
+        },
+        {
+          "name": "Dean Huijsen"
+        },
+        {
+          "name": "Pedro Porro"
+        },
+        {
+          "name": "Dani Carvajal"
+        },
+        {
+          "name": "Marc Cucurella"
+        },
+        {
+          "name": "Martín Zubimendi"
+        },
+        {
+          "name": "Rodri"
+        },
+        {
+          "name": "Pedri"
+        },
+        {
+          "name": "Fabián Ruiz"
+        },
+        {
+          "name": "Mikel Merino"
+        },
+        {
+          "name": "Lamine Yamal"
+        },
+        {
+          "name": "Dani Olmo"
+        },
+        {
+          "name": "Nico Williams"
+        },
+        {
+          "name": "Ferran Torres"
+        },
+        {
+          "name": "Álvaro Morata"
+        },
+        {
+          "name": "Mikel Oyarzabal"
+        }
+      ]
+    },
+    {
+      "countryCode": "FRA",
+      "countryName": "França",
+      "listType": "album",
+      "asOf": "2026-04-28",
+      "sourceUrl": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-todos-os-jogadores-que-estao-no-album-da-copa-do-mundo-2026/",
+      "notes": "Jogadores conforme lista publicada pela CNN Brasil sobre o álbum oficial Panini da Copa 2026 (abr/2026). Não representa convocação oficial das federações.",
+      "players": [
+        {
+          "name": "Mike Maignan"
+        },
+        {
+          "name": "Theo Hernández"
+        },
+        {
+          "name": "William Saliba"
+        },
+        {
+          "name": "Jules Koundé"
+        },
+        {
+          "name": "Ibrahima Konaté"
+        },
+        {
+          "name": "Dayot Upamecano"
+        },
+        {
+          "name": "Lucas Digne"
+        },
+        {
+          "name": "Aurélien Tchouaméni"
+        },
+        {
+          "name": "Eduardo Camavinga"
+        },
+        {
+          "name": "Manu Koné"
+        },
+        {
+          "name": "Adrien Rabiot"
+        },
+        {
+          "name": "Michael Olise"
+        },
+        {
+          "name": "Ousmane Dembélé"
+        },
+        {
+          "name": "Bradley Barcola"
+        },
+        {
+          "name": "Désiré Doué"
+        },
+        {
+          "name": "Kingsley Coman"
+        },
+        {
+          "name": "Hugo Ekitike"
+        },
+        {
+          "name": "Kylian Mbappé"
+        }
+      ]
+    },
+    {
+      "countryCode": "GER",
+      "countryName": "Alemanha",
+      "listType": "album",
+      "asOf": "2026-04-28",
+      "sourceUrl": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-todos-os-jogadores-que-estao-no-album-da-copa-do-mundo-2026/",
+      "notes": "Jogadores conforme lista publicada pela CNN Brasil sobre o álbum oficial Panini da Copa 2026 (abr/2026). Não representa convocação oficial das federações.",
+      "players": [
+        {
+          "name": "Marc-André ter Stegen"
+        },
+        {
+          "name": "Jonathan Tah"
+        },
+        {
+          "name": "David Raum"
+        },
+        {
+          "name": "Nico Schlotterbeck"
+        },
+        {
+          "name": "Antonio Rüdiger"
+        },
+        {
+          "name": "Waldemar Anton"
+        },
+        {
+          "name": "Ridle Baku"
+        },
+        {
+          "name": "Maximilian Mittelstädt"
+        },
+        {
+          "name": "Joshua Kimmich"
+        },
+        {
+          "name": "Florian Wirtz"
+        },
+        {
+          "name": "Felix Nmecha"
+        },
+        {
+          "name": "Leon Goretzka"
+        },
+        {
+          "name": "Jamal Musiala"
+        },
+        {
+          "name": "Serge Gnabry"
+        },
+        {
+          "name": "Kai Havertz"
+        },
+        {
+          "name": "Leroy Sané"
+        },
+        {
+          "name": "Karim Adeyemi"
+        },
+        {
+          "name": "Nick Woltemade"
+        }
+      ]
+    },
+    {
+      "countryCode": "GHA",
+      "countryName": "Gana",
+      "listType": "album",
+      "asOf": "2026-04-28",
+      "sourceUrl": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-todos-os-jogadores-que-estao-no-album-da-copa-do-mundo-2026/",
+      "notes": "Jogadores conforme lista publicada pela CNN Brasil sobre o álbum oficial Panini da Copa 2026 (abr/2026). Não representa convocação oficial das federações.",
+      "players": [
+        {
+          "name": "Lawrence Ati Zigi"
+        },
+        {
+          "name": "Tariq Lamptey"
+        },
+        {
+          "name": "Mohammed Salisu"
+        },
+        {
+          "name": "Alidu Seidu"
+        },
+        {
+          "name": "Alexander Djiku"
+        },
+        {
+          "name": "Gideon Mensah"
+        },
+        {
+          "name": "Caleb Yirenkyi"
+        },
+        {
+          "name": "Abdul Fatawu Issahaku"
+        },
+        {
+          "name": "Thomas Partey"
+        },
+        {
+          "name": "Salis Abdul Samed"
+        },
+        {
+          "name": "Kamaldeen Sulemana"
+        },
+        {
+          "name": "Mohammed Kudus"
+        },
+        {
+          "name": "Iñaki Williams"
+        },
+        {
+          "name": "Jordan Ayew"
+        },
+        {
+          "name": "André Ayew"
+        },
+        {
+          "name": "Joseph Paintsil"
+        },
+        {
+          "name": "Osman Bukari"
+        },
+        {
+          "name": "Antoine Semenyo"
+        }
+      ]
+    },
+    {
+      "countryCode": "HAI",
+      "countryName": "Haiti",
+      "listType": "album",
+      "asOf": "2026-04-28",
+      "sourceUrl": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-todos-os-jogadores-que-estao-no-album-da-copa-do-mundo-2026/",
+      "notes": "Jogadores conforme lista publicada pela CNN Brasil sobre o álbum oficial Panini da Copa 2026 (abr/2026). Não representa convocação oficial das federações.",
+      "players": [
+        {
+          "name": "Johny Placide"
+        },
+        {
+          "name": "Carlens Arcus"
+        },
+        {
+          "name": "Martin Expérience"
+        },
+        {
+          "name": "Jean-Kevin Duverne"
+        },
+        {
+          "name": "Ricardo Adé"
+        },
+        {
+          "name": "Duke Lacroix"
+        },
+        {
+          "name": "Garven Metusala"
+        },
+        {
+          "name": "Hannes Delcroix"
+        },
+        {
+          "name": "Leverton Pierre"
+        },
+        {
+          "name": "Danley Jean Jacques"
+        },
+        {
+          "name": "Jean-Ricner Bellegarde"
+        },
+        {
+          "name": "Christopher Attys"
+        },
+        {
+          "name": "Derrick Etienne Jr."
+        },
+        {
+          "name": "Josué Casimir"
+        },
+        {
+          "name": "Ruben Providence"
+        },
+        {
+          "name": "Duckens Nazon"
+        },
+        {
+          "name": "Louicius Deedson"
+        },
+        {
+          "name": "Frantzdy Pierrot"
+        }
+      ]
+    },
+    {
+      "countryCode": "IRN",
+      "countryName": "Irã",
+      "listType": "album",
+      "asOf": "2026-04-28",
+      "sourceUrl": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-todos-os-jogadores-que-estao-no-album-da-copa-do-mundo-2026/",
+      "notes": "Jogadores conforme lista publicada pela CNN Brasil sobre o álbum oficial Panini da Copa 2026 (abr/2026). Não representa convocação oficial das federações.",
+      "players": [
+        {
+          "name": "Alireza Beiranvand"
+        },
+        {
+          "name": "Morteza Pouraliganji"
+        },
+        {
+          "name": "Ehsan Hajsafi"
+        },
+        {
+          "name": "Milad Mohammadi"
+        },
+        {
+          "name": "Shoja Khalilzadeh"
+        },
+        {
+          "name": "Ramin Rezaeian"
+        },
+        {
+          "name": "Hossein Kanaani"
+        },
+        {
+          "name": "Sadegh Moharrami"
+        },
+        {
+          "name": "Saleh Hardani"
+        },
+        {
+          "name": "Saeed Ezatolahi"
+        },
+        {
+          "name": "Saman Ghoddos"
+        },
+        {
+          "name": "Omid Noorafkan"
+        },
+        {
+          "name": "Roozbeh Cheshmi"
+        },
+        {
+          "name": "Mohammad Mohebi"
+        },
+        {
+          "name": "Sardar Azmoun"
+        },
+        {
+          "name": "Mehdi Taremi"
+        },
+        {
+          "name": "Alireza Jahanbakhsh"
+        },
+        {
+          "name": "Ali Gholizadeh"
+        }
+      ]
+    },
+    {
+      "countryCode": "IRQ",
+      "countryName": "Iraque",
+      "listType": "album",
+      "asOf": "2026-04-28",
+      "sourceUrl": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-todos-os-jogadores-que-estao-no-album-da-copa-do-mundo-2026/",
+      "notes": "Jogadores conforme lista publicada pela CNN Brasil sobre o álbum oficial Panini da Copa 2026 (abr/2026). Não representa convocação oficial das federações.",
+      "players": [
+        {
+          "name": "Jalal Hassan"
+        },
+        {
+          "name": "Rebin Sulaka"
+        },
+        {
+          "name": "Hussein Ali"
+        },
+        {
+          "name": "Akam Hashem"
+        },
+        {
+          "name": "Merchas Doski"
+        },
+        {
+          "name": "Zaid Tahseen"
+        },
+        {
+          "name": "Manaf Younis"
+        },
+        {
+          "name": "Zidane Iqbal"
+        },
+        {
+          "name": "Amir Al-Ammari"
+        },
+        {
+          "name": "Ibrahim Bayesh"
+        },
+        {
+          "name": "Ali Jasim"
+        },
+        {
+          "name": "Youssef Amyn"
+        },
+        {
+          "name": "Aimar Sher"
+        },
+        {
+          "name": "Marko Farji"
+        },
+        {
+          "name": "Osama Rashid"
+        },
+        {
+          "name": "Ali Al-Hamadi"
+        },
+        {
+          "name": "Aymen Hussein"
+        },
+        {
+          "name": "Mohanad Ali"
+        }
+      ]
+    },
+    {
+      "countryCode": "JOR",
+      "countryName": "Jordânia",
+      "listType": "album",
+      "asOf": "2026-04-28",
+      "sourceUrl": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-todos-os-jogadores-que-estao-no-album-da-copa-do-mundo-2026/",
+      "notes": "Jogadores conforme lista publicada pela CNN Brasil sobre o álbum oficial Panini da Copa 2026 (abr/2026). Não representa convocação oficial das federações.",
+      "players": [
+        {
+          "name": "Yazeed Abulaila"
+        },
+        {
+          "name": "Ihsan Haddad"
+        },
+        {
+          "name": "Mohammad Abu Hashish"
+        },
+        {
+          "name": "Yazan Al-Arab"
+        },
+        {
+          "name": "Abdallah Nasib"
+        },
+        {
+          "name": "Saleem Obaid"
+        },
+        {
+          "name": "Mohammad Abualnadi"
+        },
+        {
+          "name": "Ibrahim Saadeh"
+        },
+        {
+          "name": "Nizar Al-Rashdan"
+        },
+        {
+          "name": "Noor Al-Rawabdeh"
+        },
+        {
+          "name": "Mohannad Abu Taha"
+        },
+        {
+          "name": "Amer Jamous"
+        },
+        {
+          "name": "Musa Al-Taamari"
+        },
+        {
+          "name": "Yazan Al-Naimat"
+        },
+        {
+          "name": "Mahmoud Al-Mardi"
+        },
+        {
+          "name": "Ali Olwan"
+        },
+        {
+          "name": "Mohammad Abu Zrayq"
+        },
+        {
+          "name": "Ibrahim Sabra"
+        }
+      ]
+    },
+    {
+      "countryCode": "JPN",
+      "countryName": "Japão",
+      "listType": "album",
+      "asOf": "2026-04-28",
+      "sourceUrl": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-todos-os-jogadores-que-estao-no-album-da-copa-do-mundo-2026/",
+      "notes": "Jogadores conforme lista publicada pela CNN Brasil sobre o álbum oficial Panini da Copa 2026 (abr/2026). Não representa convocação oficial das federações.",
+      "players": [
+        {
+          "name": "Zion Suzuki"
+        },
+        {
+          "name": "Henry Heroki Mochizuki"
+        },
+        {
+          "name": "Ayumu Seko"
+        },
+        {
+          "name": "Junnosuke Suzuki"
+        },
+        {
+          "name": "Shogo Taniguchi"
+        },
+        {
+          "name": "Tsuyoshi Watanabe"
+        },
+        {
+          "name": "Kaishu Sano"
+        },
+        {
+          "name": "Yuki Soma"
+        },
+        {
+          "name": "Ao Tanaka"
+        },
+        {
+          "name": "Daichi Kamada"
+        },
+        {
+          "name": "Takefusa Kubo"
+        },
+        {
+          "name": "Ritsu Doan"
+        },
+        {
+          "name": "Keito Nakamura"
+        },
+        {
+          "name": "Takumi Minamino"
+        },
+        {
+          "name": "Shuto Machino"
+        },
+        {
+          "name": "Junya Ito"
+        },
+        {
+          "name": "Koki Ogawa"
+        },
+        {
+          "name": "Ayase Ueda"
+        }
+      ]
+    },
+    {
+      "countryCode": "KOR",
+      "countryName": "Coreia do Sul",
+      "listType": "album",
+      "asOf": "2026-04-28",
+      "sourceUrl": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-todos-os-jogadores-que-estao-no-album-da-copa-do-mundo-2026/",
+      "notes": "Jogadores conforme lista publicada pela CNN Brasil sobre o álbum oficial Panini da Copa 2026 (abr/2026). Não representa convocação oficial das federações.",
+      "players": [
+        {
+          "name": "Hyeon-woo Jo"
+        },
+        {
+          "name": "Seung-Gyu Kim"
+        },
+        {
+          "name": "Min-jae Kim"
+        },
+        {
+          "name": "Yu-min Cho"
+        },
+        {
+          "name": "Young-woo Seol"
+        },
+        {
+          "name": "Han-beom Lee"
+        },
+        {
+          "name": "Tae-seok Lee"
+        },
+        {
+          "name": "Myung-jae Lee"
+        },
+        {
+          "name": "Jae-sung Lee"
+        },
+        {
+          "name": "In-beom Hwang"
+        },
+        {
+          "name": "Kang-in Lee"
+        },
+        {
+          "name": "Seung-ho Paik"
+        },
+        {
+          "name": "Jens Castrop"
+        },
+        {
+          "name": "Dong-gyeong Lee"
+        },
+        {
+          "name": "Gue-sung Cho"
+        },
+        {
+          "name": "Heung-min Son"
+        },
+        {
+          "name": "Hee-chan Hwang"
+        },
+        {
+          "name": "Hyeon-Gyu Oh"
+        }
+      ]
+    },
+    {
+      "countryCode": "MAR",
+      "countryName": "Marrocos",
+      "listType": "album",
+      "asOf": "2026-04-28",
+      "sourceUrl": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-todos-os-jogadores-que-estao-no-album-da-copa-do-mundo-2026/",
+      "notes": "Jogadores conforme lista publicada pela CNN Brasil sobre o álbum oficial Panini da Copa 2026 (abr/2026). Não representa convocação oficial das federações.",
+      "players": [
+        {
+          "name": "Yassine Bounou"
+        },
+        {
+          "name": "Munir El Kajoui"
+        },
+        {
+          "name": "Achraf Hakimi"
+        },
+        {
+          "name": "Noussair Mazraoui"
+        },
+        {
+          "name": "Nayef Aguerd"
+        },
+        {
+          "name": "Romain Saïss"
+        },
+        {
+          "name": "Jawad El Yamiq"
+        },
+        {
+          "name": "Adam Masina"
+        },
+        {
+          "name": "Sofyan Amrabat"
+        },
+        {
+          "name": "Azzedine Ounahi"
+        },
+        {
+          "name": "Eliesse Ben Seghir"
+        },
+        {
+          "name": "Bilal El Khannouss"
+        },
+        {
+          "name": "Ismael Saibari"
+        },
+        {
+          "name": "Youssef En-Nesyri"
+        },
+        {
+          "name": "Abde Ezzalzouli"
+        },
+        {
+          "name": "Soufiane Rahimi"
+        },
+        {
+          "name": "Brahim Díaz"
+        },
+        {
+          "name": "Ayoub El Kaabi"
+        }
+      ]
+    },
+    {
+      "countryCode": "MEX",
+      "countryName": "México",
+      "listType": "album",
+      "asOf": "2026-04-28",
+      "sourceUrl": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-todos-os-jogadores-que-estao-no-album-da-copa-do-mundo-2026/",
+      "notes": "Jogadores conforme lista publicada pela CNN Brasil sobre o álbum oficial Panini da Copa 2026 (abr/2026). Não representa convocação oficial das federações.",
+      "players": [
+        {
+          "name": "Luis Malagón"
+        },
+        {
+          "name": "Johan Vásquez"
+        },
+        {
+          "name": "Jorge Sánchez"
+        },
+        {
+          "name": "César Montes"
+        },
+        {
+          "name": "Jesús Gallardo"
+        },
+        {
+          "name": "Israel Reyes"
+        },
+        {
+          "name": "Diego Lainez"
+        },
+        {
+          "name": "Carlos Rodríguez"
+        },
+        {
+          "name": "Edson Álvarez"
+        },
+        {
+          "name": "Orbelín Pineda"
+        },
+        {
+          "name": "Marcel Ruiz"
+        },
+        {
+          "name": "Érick Sánchez"
+        },
+        {
+          "name": "Hirving Lozano"
+        },
+        {
+          "name": "Santiago Giménez"
+        },
+        {
+          "name": "Raúl Jiménez"
+        },
+        {
+          "name": "Alexis Vega"
+        },
+        {
+          "name": "Roberto Alvarado"
+        },
+        {
+          "name": "César Huerta"
+        }
+      ]
+    },
+    {
+      "countryCode": "NED",
+      "countryName": "Países Baixos",
+      "listType": "album",
+      "asOf": "2026-04-28",
+      "sourceUrl": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-todos-os-jogadores-que-estao-no-album-da-copa-do-mundo-2026/",
+      "notes": "Jogadores conforme lista publicada pela CNN Brasil sobre o álbum oficial Panini da Copa 2026 (abr/2026). Não representa convocação oficial das federações.",
+      "players": [
+        {
+          "name": "Bart Verbruggen"
+        },
+        {
+          "name": "Virgil van Dijk"
+        },
+        {
+          "name": "Micky van de Ven"
+        },
+        {
+          "name": "Jurriën Timber"
+        },
+        {
+          "name": "Denzel Dumfries"
+        },
+        {
+          "name": "Nathan Aké"
+        },
+        {
+          "name": "Jeremie Frimpong"
+        },
+        {
+          "name": "Jan Paul van Hecke"
+        },
+        {
+          "name": "Tijjani Reijnders"
+        },
+        {
+          "name": "Ryan Gravenberch"
+        },
+        {
+          "name": "Teun Koopmeiners"
+        },
+        {
+          "name": "Frenkie de Jong"
+        },
+        {
+          "name": "Xavi Simons"
+        },
+        {
+          "name": "Justin Kluivert"
+        },
+        {
+          "name": "Memphis Depay"
+        },
+        {
+          "name": "Donyell Malen"
+        },
+        {
+          "name": "Wout Weghorst"
+        },
+        {
+          "name": "Cody Gakpo"
+        }
+      ]
+    },
+    {
+      "countryCode": "NOR",
+      "countryName": "Noruega",
+      "listType": "album",
+      "asOf": "2026-04-28",
+      "sourceUrl": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-todos-os-jogadores-que-estao-no-album-da-copa-do-mundo-2026/",
+      "notes": "Jogadores conforme lista publicada pela CNN Brasil sobre o álbum oficial Panini da Copa 2026 (abr/2026). Não representa convocação oficial das federações.",
+      "players": [
+        {
+          "name": "Ørjan Nyland"
+        },
+        {
+          "name": "Julian Ryerson"
+        },
+        {
+          "name": "Leo Østigård"
+        },
+        {
+          "name": "Kristoffer Ajer"
+        },
+        {
+          "name": "Marcus Holmgren Pedersen"
+        },
+        {
+          "name": "David Møller Wolfe"
+        },
+        {
+          "name": "Torbjørn Heggem"
+        },
+        {
+          "name": "Morten Thorsby"
+        },
+        {
+          "name": "Martin Ødegaard"
+        },
+        {
+          "name": "Sander Berge"
+        },
+        {
+          "name": "Andreas Schjelderup"
+        },
+        {
+          "name": "Patrick Berg"
+        },
+        {
+          "name": "Erling Haaland"
+        },
+        {
+          "name": "Alexander Sørloth"
+        },
+        {
+          "name": "Aron Dønnum"
+        },
+        {
+          "name": "Jørgen Strand Larsen"
+        },
+        {
+          "name": "Antonio Nusa"
+        },
+        {
+          "name": "Oscar Bobb"
+        }
+      ]
+    },
+    {
+      "countryCode": "NZL",
+      "countryName": "Nova Zelândia",
+      "listType": "album",
+      "asOf": "2026-04-28",
+      "sourceUrl": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-todos-os-jogadores-que-estao-no-album-da-copa-do-mundo-2026/",
+      "notes": "Jogadores conforme lista publicada pela CNN Brasil sobre o álbum oficial Panini da Copa 2026 (abr/2026). Não representa convocação oficial das federações.",
+      "players": [
+        {
+          "name": "Max Crocombe-Payne"
+        },
+        {
+          "name": "Alex Paulsen"
+        },
+        {
+          "name": "Michael Boxall"
+        },
+        {
+          "name": "Liberato Cacace"
+        },
+        {
+          "name": "Tim Payne"
+        },
+        {
+          "name": "Tyler Bindon"
+        },
+        {
+          "name": "Francis de Vries"
+        },
+        {
+          "name": "Finn Surman"
+        },
+        {
+          "name": "Joe Bell"
+        },
+        {
+          "name": "Sarpreet Singh"
+        },
+        {
+          "name": "Ryan Thomas"
+        },
+        {
+          "name": "Matthew Garbett"
+        },
+        {
+          "name": "Marko Stamenić"
+        },
+        {
+          "name": "Ben Old"
+        },
+        {
+          "name": "Chris Wood"
+        },
+        {
+          "name": "Elijah Just"
+        },
+        {
+          "name": "Callum McCowatt"
+        },
+        {
+          "name": "Kosta Barbarouses"
+        }
+      ]
+    },
+    {
+      "countryCode": "PAN",
+      "countryName": "Panamá",
+      "listType": "album",
+      "asOf": "2026-04-28",
+      "sourceUrl": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-todos-os-jogadores-que-estao-no-album-da-copa-do-mundo-2026/",
+      "notes": "Jogadores conforme lista publicada pela CNN Brasil sobre o álbum oficial Panini da Copa 2026 (abr/2026). Não representa convocação oficial das federações.",
+      "players": [
+        {
+          "name": "Orlando Mosquera"
+        },
+        {
+          "name": "Luis Mejía"
+        },
+        {
+          "name": "Fidel Escobar"
+        },
+        {
+          "name": "Andrés Andrade"
+        },
+        {
+          "name": "Michael Amir Murillo"
+        },
+        {
+          "name": "Eric Davis"
+        },
+        {
+          "name": "José Córdoba"
+        },
+        {
+          "name": "César Blackman"
+        },
+        {
+          "name": "Cristian Martínez"
+        },
+        {
+          "name": "Aníbal Godoy"
+        },
+        {
+          "name": "Adalberto Carrasquilla"
+        },
+        {
+          "name": "Édgar Bárcenas"
+        },
+        {
+          "name": "Carlos Harvey"
+        },
+        {
+          "name": "Ismael Díaz"
+        },
+        {
+          "name": "José Fajardo"
+        },
+        {
+          "name": "Cecilio Waterman"
+        },
+        {
+          "name": "José Luis Rodríguez"
+        },
+        {
+          "name": "Alberto Quintero"
+        }
+      ]
+    },
+    {
+      "countryCode": "PAR",
+      "countryName": "Paraguai",
+      "listType": "album",
+      "asOf": "2026-04-28",
+      "sourceUrl": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-todos-os-jogadores-que-estao-no-album-da-copa-do-mundo-2026/",
+      "notes": "Jogadores conforme lista publicada pela CNN Brasil sobre o álbum oficial Panini da Copa 2026 (abr/2026). Não representa convocação oficial das federações.",
+      "players": [
+        {
+          "name": "Roberto Fernández"
+        },
+        {
+          "name": "Orlando Gill"
+        },
+        {
+          "name": "Gustavo Gómez"
+        },
+        {
+          "name": "Fabián Balbuena"
+        },
+        {
+          "name": "Juan José Cáceres"
+        },
+        {
+          "name": "Omar Alderete"
+        },
+        {
+          "name": "Junior Alonso"
+        },
+        {
+          "name": "Mathías Villasanti"
+        },
+        {
+          "name": "Diego Gómez"
+        },
+        {
+          "name": "Damián Bobadilla"
+        },
+        {
+          "name": "Andrés Cubas"
+        },
+        {
+          "name": "Matías Galarza Fonda"
+        },
+        {
+          "name": "Julio Enciso"
+        }
+      ]
+    },
+    {
+      "countryCode": "POR",
+      "countryName": "Portugal",
+      "listType": "album",
+      "asOf": "2026-04-28",
+      "sourceUrl": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-todos-os-jogadores-que-estao-no-album-da-copa-do-mundo-2026/",
+      "notes": "Jogadores conforme lista publicada pela CNN Brasil sobre o álbum oficial Panini da Copa 2026 (abr/2026). Não representa convocação oficial das federações.",
+      "players": [
+        {
+          "name": "Diogo Costa"
+        },
+        {
+          "name": "Jose Sa"
+        },
+        {
+          "name": "Ruben Dias"
+        },
+        {
+          "name": "João Cancelo"
+        },
+        {
+          "name": "Diogo Dalot"
+        },
+        {
+          "name": "Nuno Mendes"
+        },
+        {
+          "name": "Gonçalo Inácio"
+        },
+        {
+          "name": "Bernardo Silva"
+        },
+        {
+          "name": "Bruno Fernandes"
+        },
+        {
+          "name": "Ruben Neves"
+        },
+        {
+          "name": "Vitinha"
+        },
+        {
+          "name": "João Neves"
+        },
+        {
+          "name": "Cristiano Ronaldo"
+        },
+        {
+          "name": "Francisco Trincão"
+        },
+        {
+          "name": "João Felix"
+        },
+        {
+          "name": "Gonçalo Ramos"
+        },
+        {
+          "name": "Pedro Neto"
+        },
+        {
+          "name": "Rafael Leão"
+        }
+      ]
+    },
+    {
+      "countryCode": "QAT",
+      "countryName": "Catar",
+      "listType": "album",
+      "asOf": "2026-04-28",
+      "sourceUrl": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-todos-os-jogadores-que-estao-no-album-da-copa-do-mundo-2026/",
+      "notes": "Jogadores conforme lista publicada pela CNN Brasil sobre o álbum oficial Panini da Copa 2026 (abr/2026). Não representa convocação oficial das federações.",
+      "players": [
+        {
+          "name": "Meshaal Barsham"
+        },
+        {
+          "name": "Sultan Albrake"
+        },
+        {
+          "name": "Lucas Mendes"
+        },
+        {
+          "name": "Homam Ahmed"
+        },
+        {
+          "name": "Boualem Khoukhi"
+        },
+        {
+          "name": "Pedro Miguel"
+        },
+        {
+          "name": "Tarek Salman"
+        },
+        {
+          "name": "Mohamed Al-Mannai"
+        },
+        {
+          "name": "Karim Boudiaf"
+        },
+        {
+          "name": "Assim Madibo"
+        },
+        {
+          "name": "Ahmed Fatehi"
+        },
+        {
+          "name": "Mohammed Waad"
+        },
+        {
+          "name": "Abdulaziz Hatem"
+        },
+        {
+          "name": "Hassan Al-Haydos"
+        },
+        {
+          "name": "Edmilson Junior"
+        },
+        {
+          "name": "Akram Hassan Afif"
+        },
+        {
+          "name": "Ahmed Al Ganehi"
+        },
+        {
+          "name": "Almoez Ali"
+        }
+      ]
+    },
+    {
+      "countryCode": "KSA",
+      "countryName": "Arábia Saudita",
+      "listType": "album",
+      "asOf": "2026-04-28",
+      "sourceUrl": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-todos-os-jogadores-que-estao-no-album-da-copa-do-mundo-2026/",
+      "notes": "Jogadores conforme lista publicada pela CNN Brasil sobre o álbum oficial Panini da Copa 2026 (abr/2026). Não representa convocação oficial das federações.",
+      "players": [
+        {
+          "name": "Nawaf Alaqidi"
+        },
+        {
+          "name": "Abdulrahman Al-Sanbi"
+        },
+        {
+          "name": "Saud Abdulhamid"
+        },
+        {
+          "name": "Nawaf Boushal"
+        },
+        {
+          "name": "Jihad Thakri"
+        },
+        {
+          "name": "Moteb Al-Harbi"
+        },
+        {
+          "name": "Hassan Altambakti"
+        },
+        {
+          "name": "Musab Aljuwayr"
+        },
+        {
+          "name": "Ziyad Aljohani"
+        },
+        {
+          "name": "Abdullah Alkhaibari"
+        },
+        {
+          "name": "Nasser Aldawsari"
+        },
+        {
+          "name": "Saleh Abu Alshamat"
+        },
+        {
+          "name": "Marwan Alsahafi"
+        },
+        {
+          "name": "Salem Aldawsari"
+        },
+        {
+          "name": "Abdulrahman Al-Aboud"
+        },
+        {
+          "name": "Feras Albrikan"
+        },
+        {
+          "name": "Saleh Alshehri"
+        },
+        {
+          "name": "Abdullah Al-Hamdan"
+        }
+      ]
+    },
+    {
+      "countryCode": "SCO",
+      "countryName": "Escócia",
+      "listType": "album",
+      "asOf": "2026-04-28",
+      "sourceUrl": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-todos-os-jogadores-que-estao-no-album-da-copa-do-mundo-2026/",
+      "notes": "Jogadores conforme lista publicada pela CNN Brasil sobre o álbum oficial Panini da Copa 2026 (abr/2026). Não representa convocação oficial das federações.",
+      "players": [
+        {
+          "name": "Angus Gunn"
+        },
+        {
+          "name": "Jack Hendry"
+        },
+        {
+          "name": "Kieran Tierney"
+        },
+        {
+          "name": "Aaron Hickey"
+        },
+        {
+          "name": "Andrew Robertson"
+        },
+        {
+          "name": "Scott McKenna"
+        },
+        {
+          "name": "John Souttar"
+        },
+        {
+          "name": "Anthony Ralston"
+        },
+        {
+          "name": "Grant Hanley"
+        },
+        {
+          "name": "Scott McTominay"
+        },
+        {
+          "name": "Billy Gilmour"
+        },
+        {
+          "name": "Lewis Ferguson"
+        },
+        {
+          "name": "Ryan Christie"
+        },
+        {
+          "name": "Kenny McLean"
+        },
+        {
+          "name": "John McGinn"
+        },
+        {
+          "name": "Lyndon Dykes"
+        },
+        {
+          "name": "Che Adams"
+        },
+        {
+          "name": "Ben Gannon-Doak"
+        }
+      ]
+    },
+    {
+      "countryCode": "SEN",
+      "countryName": "Senegal",
+      "listType": "album",
+      "asOf": "2026-04-28",
+      "sourceUrl": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-todos-os-jogadores-que-estao-no-album-da-copa-do-mundo-2026/",
+      "notes": "Jogadores conforme lista publicada pela CNN Brasil sobre o álbum oficial Panini da Copa 2026 (abr/2026). Não representa convocação oficial das federações.",
+      "players": [
+        {
+          "name": "Eduardo Mendy"
+        },
+        {
+          "name": "Yehvann Diouf"
+        },
+        {
+          "name": "Moussa Niakhaté"
+        },
+        {
+          "name": "Abdoulaye Seck"
+        },
+        {
+          "name": "Ismail Jakobs"
+        },
+        {
+          "name": "El Hadji Malick Diouf"
+        },
+        {
+          "name": "Kalidou Koulibaly"
+        },
+        {
+          "name": "Idrissa Gana Gueye"
+        },
+        {
+          "name": "Pape Matar Sarr"
+        },
+        {
+          "name": "Pape Gueye"
+        },
+        {
+          "name": "Habib Diarra"
+        },
+        {
+          "name": "Lamine Camara"
+        },
+        {
+          "name": "Sadio Mane"
+        },
+        {
+          "name": "Ismaïla Sarr"
+        },
+        {
+          "name": "Boulaye Dia"
+        },
+        {
+          "name": "Iliman Ndiaye"
+        },
+        {
+          "name": "Nicolas Jackson"
+        },
+        {
+          "name": "Krepin Diatta"
+        }
+      ]
+    },
+    {
+      "countryCode": "RSA",
+      "countryName": "África do Sul",
+      "listType": "album",
+      "asOf": "2026-04-28",
+      "sourceUrl": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-todos-os-jogadores-que-estao-no-album-da-copa-do-mundo-2026/",
+      "notes": "Jogadores conforme lista publicada pela CNN Brasil sobre o álbum oficial Panini da Copa 2026 (abr/2026). Não representa convocação oficial das federações.",
+      "players": [
+        {
+          "name": "Ronwen Williams"
+        },
+        {
+          "name": "Sipho Chaine"
+        },
+        {
+          "name": "Aubrey Modiba"
+        },
+        {
+          "name": "Samukele Kabini"
+        },
+        {
+          "name": "Mbekezeli Mbokazi"
+        },
+        {
+          "name": "Khulumani Ndamane"
+        },
+        {
+          "name": "Siyabonga Ngezana"
+        },
+        {
+          "name": "Khuliso Mudau"
+        },
+        {
+          "name": "Nkosinathi Sibisi"
+        },
+        {
+          "name": "Teboho Mokoena"
+        },
+        {
+          "name": "Thalente Mbatha"
+        },
+        {
+          "name": "Bathuisi Aubaas"
+        },
+        {
+          "name": "Yaya Sithole"
+        },
+        {
+          "name": "Sipho Mbule"
+        },
+        {
+          "name": "Lyle Foster"
+        },
+        {
+          "name": "Ioraam Rayners"
+        },
+        {
+          "name": "Mohau Nkota"
+        },
+        {
+          "name": "Oswin Appolis"
+        }
+      ]
+    },
+    {
+      "countryCode": "SWE",
+      "countryName": "Suécia",
+      "listType": "album",
+      "asOf": "2026-04-28",
+      "sourceUrl": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-todos-os-jogadores-que-estao-no-album-da-copa-do-mundo-2026/",
+      "notes": "Jogadores conforme lista publicada pela CNN Brasil sobre o álbum oficial Panini da Copa 2026 (abr/2026). Não representa convocação oficial das federações.",
+      "players": [
+        {
+          "name": "Victor Johansson"
+        },
+        {
+          "name": "Isak Hien"
+        },
+        {
+          "name": "Gabriel Gudmundsson"
+        },
+        {
+          "name": "Emil Holm"
+        },
+        {
+          "name": "Victor Nilsson Lindelöf"
+        },
+        {
+          "name": "Gustaf Lagerbielke"
+        },
+        {
+          "name": "Lucas Bergvall"
+        },
+        {
+          "name": "Hugo Larsson"
+        },
+        {
+          "name": "Jesper Karlström"
+        },
+        {
+          "name": "Yasin Ayari"
+        },
+        {
+          "name": "Mattias Svanberg"
+        },
+        {
+          "name": "Daniel Svensson"
+        },
+        {
+          "name": "Ken Sema"
+        },
+        {
+          "name": "Roony Bardghji"
+        },
+        {
+          "name": "Dejan Kulusevski"
+        },
+        {
+          "name": "Anthony Elanga"
+        },
+        {
+          "name": "Alexander Isak"
+        },
+        {
+          "name": "Viktor Gyökeres"
+        }
+      ]
+    },
+    {
+      "countryCode": "SUI",
+      "countryName": "Suíça",
+      "listType": "album",
+      "asOf": "2026-04-28",
+      "sourceUrl": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-todos-os-jogadores-que-estao-no-album-da-copa-do-mundo-2026/",
+      "notes": "Jogadores conforme lista publicada pela CNN Brasil sobre o álbum oficial Panini da Copa 2026 (abr/2026). Não representa convocação oficial das federações.",
+      "players": [
+        {
+          "name": "Gregor Kobel"
+        },
+        {
+          "name": "Yvon Mvogo"
+        },
+        {
+          "name": "Manuel Akanji"
+        },
+        {
+          "name": "Ricardo Rodriguez"
+        },
+        {
+          "name": "Nico Elvedi"
+        },
+        {
+          "name": "Aurèle Amenda"
+        },
+        {
+          "name": "Silvan Widmer"
+        },
+        {
+          "name": "Granit Xhaka"
+        },
+        {
+          "name": "Denis Zakaria"
+        },
+        {
+          "name": "Remo Freuler"
+        },
+        {
+          "name": "Fabian Rieder"
+        },
+        {
+          "name": "Ardon Jashari"
+        },
+        {
+          "name": "Johan Manzambi"
+        },
+        {
+          "name": "Michel Aebischer"
+        },
+        {
+          "name": "Breel Embolo"
+        },
+        {
+          "name": "Ruben Vargas"
+        },
+        {
+          "name": "Dan Ndoye"
+        },
+        {
+          "name": "Zeki Amdouni"
+        }
+      ]
+    },
+    {
+      "countryCode": "TUN",
+      "countryName": "Tunísia",
+      "listType": "album",
+      "asOf": "2026-04-28",
+      "sourceUrl": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-todos-os-jogadores-que-estao-no-album-da-copa-do-mundo-2026/",
+      "notes": "Jogadores conforme lista publicada pela CNN Brasil sobre o álbum oficial Panini da Copa 2026 (abr/2026). Não representa convocação oficial das federações.",
+      "players": [
+        {
+          "name": "Bechir Ben Said"
+        },
+        {
+          "name": "Aymen Dahmen"
+        },
+        {
+          "name": "Van Valery"
+        },
+        {
+          "name": "Montassar Talbi"
+        },
+        {
+          "name": "Yassine Meriah"
+        },
+        {
+          "name": "Ali Abdi"
+        },
+        {
+          "name": "Dylan Bronn"
+        },
+        {
+          "name": "Ellyes Skhiri"
+        },
+        {
+          "name": "Aissa Laidouni"
+        },
+        {
+          "name": "Ferjani Sassi"
+        },
+        {
+          "name": "Mohamed Ali Ben Romdhane"
+        },
+        {
+          "name": "Hannibal Mejbri"
+        },
+        {
+          "name": "Elias Achouri"
+        },
+        {
+          "name": "Elias Saad"
+        },
+        {
+          "name": "Hazem Mastouri"
+        },
+        {
+          "name": "Ismael Gharbi"
+        },
+        {
+          "name": "Sayfallah Ltaief"
+        },
+        {
+          "name": "Naim Sliti"
+        }
+      ]
+    },
+    {
+      "countryCode": "TUR",
+      "countryName": "Turquia",
+      "listType": "album",
+      "asOf": "2026-04-28",
+      "sourceUrl": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-todos-os-jogadores-que-estao-no-album-da-copa-do-mundo-2026/",
+      "notes": "Jogadores conforme lista publicada pela CNN Brasil sobre o álbum oficial Panini da Copa 2026 (abr/2026). Não representa convocação oficial das federações.",
+      "players": [
+        {
+          "name": "Ugurcan Cakir"
+        },
+        {
+          "name": "Mert Muldur"
+        },
+        {
+          "name": "Zeki Celik"
+        },
+        {
+          "name": "Abdulkerim Bardakci"
+        },
+        {
+          "name": "Caglar Soyunku"
+        },
+        {
+          "name": "Merih Demiral"
+        },
+        {
+          "name": "Ferdi Kadioglu"
+        },
+        {
+          "name": "Kaan Ayhan"
+        },
+        {
+          "name": "Ismail Yuksek"
+        },
+        {
+          "name": "Hakan Calhanoglu"
+        },
+        {
+          "name": "Orkun Kokcu"
+        },
+        {
+          "name": "Arda Güler"
+        },
+        {
+          "name": "Irfan Can Kahvecu"
+        },
+        {
+          "name": "Yunus Akgun"
+        },
+        {
+          "name": "Can Uzun"
+        },
+        {
+          "name": "Baris Alper Yilmaz"
+        },
+        {
+          "name": "Kerem Akturkoglu"
+        },
+        {
+          "name": "Kenan Yildiz"
+        }
+      ]
+    },
+    {
+      "countryCode": "URU",
+      "countryName": "Uruguai",
+      "listType": "album",
+      "asOf": "2026-04-28",
+      "sourceUrl": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-todos-os-jogadores-que-estao-no-album-da-copa-do-mundo-2026/",
+      "notes": "Jogadores conforme lista publicada pela CNN Brasil sobre o álbum oficial Panini da Copa 2026 (abr/2026). Não representa convocação oficial das federações.",
+      "players": [
+        {
+          "name": "Sergio Rochet"
+        },
+        {
+          "name": "Santiago Mele"
+        },
+        {
+          "name": "Ronald Araujo"
+        },
+        {
+          "name": "José María Giménez"
+        },
+        {
+          "name": "Sebastian Caceres"
+        },
+        {
+          "name": "Mathias Olivera"
+        },
+        {
+          "name": "Guillermo Varela"
+        },
+        {
+          "name": "Nahitan Nandez"
+        },
+        {
+          "name": "Federico Valverde"
+        },
+        {
+          "name": "Giorgian De Arrascaeta"
+        },
+        {
+          "name": "Rodrigo Bentancur"
+        },
+        {
+          "name": "Manuel Ugarte"
+        },
+        {
+          "name": "Nicolás de la Cruz"
+        },
+        {
+          "name": "Maxi Araujo"
+        },
+        {
+          "name": "Darwin Núñez"
+        },
+        {
+          "name": "Federico Viñas"
+        },
+        {
+          "name": "Rodrigo Aguirre"
+        },
+        {
+          "name": "Facundo Pellistri"
+        }
+      ]
+    },
+    {
+      "countryCode": "USA",
+      "countryName": "Estados Unidos",
+      "listType": "album",
+      "asOf": "2026-04-28",
+      "sourceUrl": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-todos-os-jogadores-que-estao-no-album-da-copa-do-mundo-2026/",
+      "notes": "Jogadores conforme lista publicada pela CNN Brasil sobre o álbum oficial Panini da Copa 2026 (abr/2026). Não representa convocação oficial das federações.",
+      "players": [
+        {
+          "name": "Math Freese"
+        },
+        {
+          "name": "Chris Richards"
+        },
+        {
+          "name": "Tim Ream"
+        },
+        {
+          "name": "Mark McKenzie"
+        },
+        {
+          "name": "Alex Freeman"
+        },
+        {
+          "name": "Antonee Robinson"
+        },
+        {
+          "name": "Tyler Adams"
+        },
+        {
+          "name": "Tanner Tessmann"
+        },
+        {
+          "name": "Weston McKenny"
+        },
+        {
+          "name": "Christian Roldan"
+        },
+        {
+          "name": "Timothy Weah"
+        },
+        {
+          "name": "Diego Luna"
+        },
+        {
+          "name": "Malim Tillman"
+        },
+        {
+          "name": "Christian Pulisic"
+        },
+        {
+          "name": "Brenden Aaronson"
+        },
+        {
+          "name": "Ricardo Pepi"
+        },
+        {
+          "name": "Haji Wright"
+        },
+        {
+          "name": "Folarin Balogun"
+        }
+      ]
+    },
+    {
+      "countryCode": "UZB",
+      "countryName": "Uzbequistão",
+      "listType": "album",
+      "asOf": "2026-04-28",
+      "sourceUrl": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-todos-os-jogadores-que-estao-no-album-da-copa-do-mundo-2026/",
+      "notes": "Jogadores conforme lista publicada pela CNN Brasil sobre o álbum oficial Panini da Copa 2026 (abr/2026). Não representa convocação oficial das federações.",
+      "players": [
+        {
+          "name": "Utkir Yusupov"
+        },
+        {
+          "name": "Farrukh Savfiev"
+        },
+        {
+          "name": "Sherzod Nasrullaev"
+        },
+        {
+          "name": "Umar Eshmurodov"
+        },
+        {
+          "name": "Husniddin Aliqulov"
+        },
+        {
+          "name": "Rustamjon Ashurmatov"
+        },
+        {
+          "name": "Khojiakbar Alijonov"
+        },
+        {
+          "name": "Abdukodir Khusanov"
+        },
+        {
+          "name": "Odiljon Hamrobekov"
+        },
+        {
+          "name": "Otabek Shukurov"
+        },
+        {
+          "name": "Jamshid Iskanderov"
+        },
+        {
+          "name": "Azizbek Turgunboev"
+        },
+        {
+          "name": "Khojimat Erkinov"
+        },
+        {
+          "name": "Eldor Shomurodov"
+        },
+        {
+          "name": "Oston Urunov"
+        },
+        {
+          "name": "Jaloliddin Masharipov"
+        },
+        {
+          "name": "Igor Sergeev"
+        },
+        {
+          "name": "Abbosbek Fayzullaev"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+node_modules
+npm-debug.log*
+.git
+.gitignore
+.env
+.env.*
+!.env.example
+dist
+*.md
+.cursor
+terminals
+uploads
+.vscode
+coverage
+scripts
