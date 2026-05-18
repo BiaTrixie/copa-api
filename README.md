@@ -139,4 +139,4 @@ docker run --rm -p 8000:8000 -v "%CD%\data:/app/data" copa-api
 
 ## Licença
 
-Projeto académico / uso privado — ajusta a licença conforme necessário.
+Projeto académico 
